@@ -15,7 +15,7 @@
 //==================================================
 // xmas_fild01 - Lutie Field
 //==================================================
-xmas_fild01,0,0	monster	°â)	1242,35
-xmas_fild01,0,0	monster	êŠ	1243,20
-xmas_fild01,0,0	monster	aöö	1515,1,1800000
-xmas_fild01,0,0,0,0	boss_monster	a	1252,1,7200000,600000,1
+xmas_fild01,0,0	monster	¦Bªi§Q	1242,35
+xmas_fild01,0,0	monster	³·ºµ	1243,20
+xmas_fild01,0,0	monster	¥d±[Ä_Ä_	1515,1,1800000
+xmas_fild01,0,0,0,0	boss_monster	¥d±[	1252,1,7200000,600000,1

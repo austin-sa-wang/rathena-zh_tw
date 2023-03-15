@@ -13,9 +13,9 @@
 //==================================================
 // nyd_dun01 - Yggdrasil Root Dungeon
 //==================================================
-nyd_dun01,0,0	monster	´	2013,40
-nyd_dun01,0,0	monster	´Ë	2014,10
-nyd_dun01,0,0	monster	4¾H	2016,20
-nyd_dun01,0,0	monster	Ñ—Uò–	2015,10
-nyd_dun01,0,0	monster	7>  	2017,2,900000
-nyd_dun01,0,0	monster	\<>	2018,2,900000
+nyd_dun01,0,0	monster	¼ÉÄ¼Às	2013,40
+nyd_dun01,0,0	monster	¼ÉÄ¼Às³J	2014,10
+nyd_dun01,0,0	monster	¤ôºëÆF	2016,20
+nyd_dun01,0,0	monster	¶Â·t®·ÂÎÔ»§¯	2015,10
+nyd_dun01,0,0	monster	¨ê§À­t¹«	2017,2,900000
+nyd_dun01,0,0	monster	§ù¥§º¸	2018,2,900000

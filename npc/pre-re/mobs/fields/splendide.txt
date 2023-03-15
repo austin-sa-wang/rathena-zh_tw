@@ -14,19 +14,19 @@
 //==================================================
 // spl_fild01 - Splendide Field
 //==================================================
-spl_fild01,0,0	monster	Uò–	1995,50
-spl_fild01,0,0	monster	£æ	1993,35
-spl_fild01,0,0	monster	hÒÛ¬	1992,25
+spl_fild01,0,0	monster	®·ÂÎÔ»§¯	1995,50
+spl_fild01,0,0	monster	¨º­{	1993,35
+spl_fild01,0,0	monster	¿W¨¤­¸°¨	1992,25
 
  // spl_fild02 - Splendide Field
 //==================================================
-spl_fild02,0,0	monster	Uò–	1995,95
-spl_fild02,0,0	monster	oîÉÃ	1994,15
+spl_fild02,0,0	monster	®·ÂÎÔ»§¯	1995,95
+spl_fild02,0,0	monster	¾|­×©Ô¶À¸Á	1994,15
 
 //==================================================
 // spl_fild03 - Splendide Field
 //==================================================
-spl_fild03,0,0	monster	oîÉÃ	1994,35
-spl_fild03,0,0	monster	hÒÛ¬	1992,25
-spl_fild03,0,0	monster	£æ	1993,20
-spl_fild03,0,0	monster		ÒÂEx	1991,1,3600000
+spl_fild03,0,0	monster	¾|­×©Ô¶À¸Á	1994,35
+spl_fild03,0,0	monster	¿W¨¤­¸°¨	1992,25
+spl_fild03,0,0	monster	¨º­{	1993,20
+spl_fild03,0,0	monster	¤T¨¤¨g·àÃ~	1991,1,3600000

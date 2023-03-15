@@ -16,16 +16,16 @@
 //==================================================
 // ayo_fild01 - Ayothaya Field
 //==================================================
-ayo_fild01,0,0	monster	~ 	1104,30
-ayo_fild01,0,0	monster	úú4	1057,30
-ayo_fild01,0,0	monster	çì	1056,30
-ayo_fild01,0,0	monster	§Iì	1586,3,3600000,1800000
-ayo_fild01,0,0	monster	†I	1080,10
+ayo_fild01,0,0	monster	™Qπ´	1104,30
+ayo_fild01,0,0	monster	∑»∑»µU	1057,30
+ayo_fild01,0,0	monster	ª©øﬂ	1056,30
+ayo_fild01,0,0	monster	∏s∏≠øﬂ	1586,3,3600000,1800000
+ayo_fild01,0,0	monster	∫ÒØÛ	1080,10
 
 //==================================================
 // ayo_fild02 - Ayothaya Field
 //==================================================
-ayo_fild02,0,0	monster	§Iì	1586,50
-ayo_fild02,0,0	monster	f0Î	1499,20
-ayo_fild02,0,0	monster	Ëa2Ú	1494,30
-ayo_fild02,0,0	monster	√I	1081,10
+ayo_fild02,0,0	monster	∏s∏≠øﬂ	1586,50
+ayo_fild02,0,0	monster	•Ó©Zæ‘§h	1499,20
+ayo_fild02,0,0	monster	•®∂H•“¬Œ	1494,30
+ayo_fild02,0,0	monster	∂¿ØÛ	1081,10

@@ -14,16 +14,16 @@
 //==================================================
 // arug_dun01 - Arunafeltz Guild Dungeon
 //==================================================
-arug_dun01,0,0	monster	>-s––	1974,22
-arug_dun01,0,0	monster	L–S	1870,18
-arug_dun01,0,0	monster	<T–	1975,17
-arug_dun01,0,0	monster	Ûy	1797,17
-arug_dun01,0,0	monster	?>þ6	1796,17
+arug_dun01,0,0	monster	·Rº¸Äõ¤k§¯­º»â	1974,22
+arug_dun01,0,0	monster	¦æ§¯³NªÌ	1870,18
+arug_dun01,0,0	monster	²´Å]­º»â	1975,17
+arug_dun01,0,0	monster	ªx¯S	1797,17
+arug_dun01,0,0	monster	ªü§^¿Õ­C	1796,17
 
 //==================================================
 // schg_dun01 - Schwarzwald Guild Dungeon
 //==================================================
-schg_dun01,0,0	monster	0D?î…_°0ë	1978,20
-schg_dun01,0,0	monster	Nä9	1979,20
-schg_dun01,0,0	monster	ÍÑlâ)	1977,15
-schg_dun01,0,0	monster	á¾H&ó	1976,15
+schg_dun01,0,0	monster	¦aº»ªü­×Ã¹¾÷±ñ¾Ô¤h	1978,20
+schg_dun01,0,0	monster	¤ã¥j¤¦	1979,20
+schg_dun01,0,0	monster	­«ª÷ÄÝªi§Q	1977,15
+schg_dun01,0,0	monster	´cºëÆFÄq¥Û	1976,15

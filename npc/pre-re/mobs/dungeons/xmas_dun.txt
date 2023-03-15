@@ -16,23 +16,23 @@
 //==================================================
 // xmas_dun01 - Toy Factory Warehouse
 //==================================================
-xmas_dun01,0,0	monster	°â)	1242,20
-xmas_dun01,0,0	monster	â)	1002,10
-xmas_dun01,0,0	monster	â)	1113,10
-xmas_dun01,0,0	monster	ââ)	1031,20
-xmas_dun01,0,0	monster	 º	1265,40
-xmas_dun01,0,0	monster	º	1246,40
-xmas_dun01,0,0	monster	ªá®Ò	1249,5
-xmas_dun01,0,0	monster	TH	1250,1,1200000,900000
-xmas_dun01,0,0	monster	â)K‹	1090,1,1800000,900000
-xmas_dun01,0,0	monster	)â)	1096,1,3600000,1800000
+xmas_dun01,0,0	monster	¦Bªi§Q	1242,20
+xmas_dun01,0,0	monster	ªi§Q	1002,10
+xmas_dun01,0,0	monster	¤gªi§Q	1113,10
+xmas_dun01,0,0	monster	ªiªi§Q	1031,20
+xmas_dun01,0,0	monster	ºñ»æ¤H	1265,40
+xmas_dun01,0,0	monster	²¢»æ¤H	1246,40
+xmas_dun01,0,0	monster	¨¸´cÂ§²°	1249,5
+xmas_dun01,0,0	monster	Å]ÆF«½«½	1250,1,1200000,900000
+xmas_dun01,0,0	monster	ªi§Q¤§¤ý	1090,1,1800000,900000
+xmas_dun01,0,0	monster	¤Ñ¨Ïªi§Q	1096,1,3600000,1800000
 
 //==================================================
 // xmas_dun02 - Toy Monitoring Room
 //==================================================
-xmas_dun02,0,0	monster	º	1246,20
-xmas_dun02,0,0	monster	 º	1265,20
-xmas_dun02,0,0	monster	©wëu	1248,35
-xmas_dun02,0,0	monster	ªá®Ò	1249,50
-xmas_dun02,0,0	monster	aöö	1515,1,1800000
-xmas_dun02,0,0,0,0	boss_monster	°´ë	1251,1,3600000,600000,0
+xmas_dun02,0,0	monster	²¢»æ¤H	1246,20
+xmas_dun02,0,0	monster	ºñ»æ¤H	1265,20
+xmas_dun02,0,0	monster	ª±¨ã¤h§L	1248,35
+xmas_dun02,0,0	monster	¨¸´cÂ§²°	1249,50
+xmas_dun02,0,0	monster	¥d±[Ä_Ä_	1515,1,1800000
+xmas_dun02,0,0,0,0	boss_monster	¦B¼ÉÃM¤h	1251,1,3600000,600000,0

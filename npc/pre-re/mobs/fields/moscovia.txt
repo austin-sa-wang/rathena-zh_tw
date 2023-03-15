@@ -12,9 +12,9 @@
 //==================================================
 // mosk_fild02 - Moscovia Field
 //==================================================
-mosk_fild02,0,0	monster	'sŠ	1060,40
-mosk_fild02,0,0	monster	:_ò	1103,20
-mosk_fild02,0,0	monster	³‚	1139,30
-mosk_fild02,0,0	monster	â)	1002,10
-mosk_fild02,0,0	monster	ÃI	1081,5
-mosk_fild02,0,0	monster	}I	1082,5,10000
+mosk_fild02,0,0	monster	¤j¸}ºµ	1060,40
+mosk_fild02,0,0	monster	¨ëç³ÂÎ	1103,20
+mosk_fild02,0,0	monster	Á®½¸	1139,30
+mosk_fild02,0,0	monster	ªi§Q	1002,10
+mosk_fild02,0,0	monster	¶À¯ó	1081,5
+mosk_fild02,0,0	monster	¥Õ¯ó	1082,5,10000
