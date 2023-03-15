@@ -16,215 +16,215 @@
 //==================================================
 // gef_fild00 - Geffen Field
 //==================================================
-gef_fild00,0,0	monster	波利	1002,50
-gef_fild00,0,0	monster	綠棉蟲	1007,50
-gef_fild00,0,0	monster	蟲蛹	1008,20
-gef_fild00,0,0	monster	波波利	1031,10
-gef_fild00,95,128	monster	藍草	1079,1,900000,450000
-gef_fild00,124,321	monster	藍草	1079,1,900000,450000
-gef_fild00,54,212,5,5	monster	綠草	1080,3,360000,180000
-gef_fild00,54,186,5,5	monster	綠草	1080,3,360000,180000
+gef_fild00,0,0	monster	�)	1002,50
+gef_fild00,0,0	monster	���	1007,50
+gef_fild00,0,0	monster	��	1008,20
+gef_fild00,0,0	monster	��)	1031,10
+gef_fild00,95,128	monster	�I	1079,1,900000,450000
+gef_fild00,124,321	monster	�I	1079,1,900000,450000
+gef_fild00,54,212,5,5	monster	�I	1080,3,360000,180000
+gef_fild00,54,186,5,5	monster	�I	1080,3,360000,180000
 
 //==================================================
 // gef_fild01 - Geffen Field
 //==================================================
-gef_fild01,0,0	monster	羅達蛙	1012,50
-gef_fild01,0,0	monster	波波利	1031,20
-gef_fild01,0,0	monster	蛙王	1089,1,3600000,1800000
-gef_fild01,215,225,10,10	monster	綠草	1080,5,360000,180000
+gef_fild01,0,0	monster	�T�	1012,50
+gef_fild01,0,0	monster	��)	1031,20
+gef_fild01,0,0	monster	ً	1089,1,3600000,1800000
+gef_fild01,215,225,10,10	monster	�I	1080,5,360000,180000
 
 //==================================================
 // gef_fild02 - Geffen Field
 //==================================================
-gef_fild02,0,0	monster	溜溜猴	1057,10
-gef_fild02,0,0	monster	獸人戰士	1023,60
-gef_fild02,0,0	monster	松鼠	1104,10
-gef_fild02,0,0	monster	貍貓	1056,10
-gef_fild02,0,0	monster	巧克猴	1214,1
-gef_fild02,0,0,0,0	boss_monster	獸人英雄	1087,1,86400000,600000,1
-gef_fild02,227,316,6,6	monster	綠草	1080,8,360000,180000
-gef_fild02,87,48,6,6	monster	紅菇	1085,5,360000,180000
-gef_fild02,215,209,2,1	monster	藍草	1079,2,360000,180000
-gef_fild02,207,214,1,1	monster	藍草	1079,1,360000,180000
-gef_fild02,220,214,1,1	monster	藍草	1079,1,360000,180000
-gef_fild02,164,194,1,1	monster	光芒草	1083,1,1800000,900000
+gef_fild02,0,0	monster	��4	1057,10
+gef_fild02,0,0	monster	x�0�	1023,60
+gef_fild02,0,0	monster	~ 	1104,10
+gef_fild02,0,0	monster	��	1056,10
+gef_fild02,0,0	monster	�K4	1214,1
+gef_fild02,0,0,0,0	boss_monster	x���	1087,1,86400000,600000,1
+gef_fild02,227,316,6,6	monster	�I	1080,8,360000,180000
+gef_fild02,87,48,6,6	monster	�	1085,5,360000,180000
+gef_fild02,215,209,2,1	monster	�I	1079,2,360000,180000
+gef_fild02,207,214,1,1	monster	�I	1079,1,360000,180000
+gef_fild02,220,214,1,1	monster	�I	1079,1,360000,180000
+gef_fild02,164,194,1,1	monster	I�I	1083,1,1800000,900000
 
 //==================================================
 // gef_fild03 - Geffen Field
 //==================================================
-gef_fild03,0,0	monster	獸人戰士	1023,60
-gef_fild03,0,0	monster	獸人戰士長	1213,1
-gef_fild03,0,0	monster	野豬	1166,40
-gef_fild03,0,0	monster	波波利	1031,20
-gef_fild03,45,350,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,66,300,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,80,252,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,118,281,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,135,344,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,210,363,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,215,345,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,359,316,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,350,247,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,304,202,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,285,223,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,282,192,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,316,143,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,337,104,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,348,42,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,326,79,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,280,92,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,216,135,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,169,92,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,45,93,3,3	monster	綠草	1080,1,180000,90000
-gef_fild03,44,133,3,3	monster	綠草	1080,1,180000,90000
+gef_fild03,0,0	monster	x�0�	1023,60
+gef_fild03,0,0	monster	x�0�w	1213,1
+gef_fild03,0,0	monster	�l	1166,40
+gef_fild03,0,0	monster	��)	1031,20
+gef_fild03,45,350,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,66,300,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,80,252,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,118,281,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,135,344,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,210,363,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,215,345,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,359,316,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,350,247,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,304,202,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,285,223,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,282,192,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,316,143,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,337,104,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,348,42,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,326,79,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,280,92,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,216,135,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,169,92,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,45,93,3,3	monster	�I	1080,1,180000,90000
+gef_fild03,44,133,3,3	monster	�I	1080,1,180000,90000
 
 //==================================================
 // gef_fild04 - Geffen Field
 //==================================================
-gef_fild04,0,0	monster	波利	1002,30
-gef_fild04,0,0	monster	蒼蠅	1011,30
-gef_fild04,0,0	monster	蟲蛹	1008,60
-gef_fild04,0,0	monster	綠棉蟲	1007,20
-gef_fild04,0,0	monster	羅達蛙	1012,20
-gef_fild04,224,82,5,2	monster	綠草	1080,3,360000,180000
-gef_fild04,152,82,5,2	monster	綠草	1080,3,360000,180000
+gef_fild04,0,0	monster	�)	1002,30
+gef_fild04,0,0	monster	�	1011,30
+gef_fild04,0,0	monster	��	1008,60
+gef_fild04,0,0	monster	���	1007,20
+gef_fild04,0,0	monster	�T�	1012,20
+gef_fild04,224,82,5,2	monster	�I	1080,3,360000,180000
+gef_fild04,152,82,5,2	monster	�I	1080,3,360000,180000
 
 //==================================================
 // gef_fild05 - Geffen Field
 //==================================================
-gef_fild05,0,0	monster	波利	1002,30
-gef_fild05,0,0	monster	犬妖弓箭手	1282,10
-gef_fild05,0,0	monster	狂暴野貓	1261,50
-gef_fild05,0,0	monster	獵蠅	1114,30
-gef_fild05,235,322	monster	紅草	1078,1,180000,90000
-gef_fild05,238,326	monster	紅草	1078,1,180000,90000
-gef_fild05,170,337	monster	紅草	1078,1,180000,90000
-gef_fild05,108,317	monster	紅草	1078,1,180000,90000
-gef_fild05,56,285	monster	紅草	1078,1,180000,90000
-gef_fild05,65,256	monster	紅草	1078,1,180000,90000
-gef_fild05,74,228	monster	紅草	1078,1,180000,90000
-gef_fild05,50,189	monster	紅草	1078,1,180000,90000
-gef_fild05,51,166	monster	紅草	1078,1,180000,90000
-gef_fild05,146,161	monster	紅草	1078,1,180000,90000
-gef_fild05,153,180	monster	紅草	1078,1,180000,90000
-gef_fild05,124,207	monster	紅草	1078,1,180000,90000
-gef_fild05,187,249	monster	紅草	1078,1,180000,90000
-gef_fild05,187,265	monster	紅草	1078,1,180000,90000
-gef_fild05,130,293	monster	紅草	1078,1,180000,90000
+gef_fild05,0,0	monster	�)	1002,30
+gef_fild05,0,0	monster	���K	1282,10
+gef_fild05,0,0	monster	´Γ	1261,50
+gef_fild05,0,0	monster	u	1114,30
+gef_fild05,235,322	monster	I	1078,1,180000,90000
+gef_fild05,238,326	monster	I	1078,1,180000,90000
+gef_fild05,170,337	monster	I	1078,1,180000,90000
+gef_fild05,108,317	monster	I	1078,1,180000,90000
+gef_fild05,56,285	monster	I	1078,1,180000,90000
+gef_fild05,65,256	monster	I	1078,1,180000,90000
+gef_fild05,74,228	monster	I	1078,1,180000,90000
+gef_fild05,50,189	monster	I	1078,1,180000,90000
+gef_fild05,51,166	monster	I	1078,1,180000,90000
+gef_fild05,146,161	monster	I	1078,1,180000,90000
+gef_fild05,153,180	monster	I	1078,1,180000,90000
+gef_fild05,124,207	monster	I	1078,1,180000,90000
+gef_fild05,187,249	monster	I	1078,1,180000,90000
+gef_fild05,187,265	monster	I	1078,1,180000,90000
+gef_fild05,130,293	monster	I	1078,1,180000,90000
 
 //==================================================
 // gef_fild06 - Geffen Field
 //==================================================
-gef_fild06,0,0	monster	大斧犬妖	1133,20
-gef_fild06,0,0	monster	榔頭犬妖	1134,10
-gef_fild06,0,0	monster	刺錘犬妖	1135,10
-gef_fild06,0,0	monster	畢帝特飛龍	1156,50
-gef_fild06,0,0	monster	波波利	1031,10
-gef_fild06,0,0	monster	螳螂	1139,20
-gef_fild06,0,0	monster	光芒草	1083,4,1800000,900000
+gef_fild06,0,0	monster	'���	1133,20
+gef_fild06,0,0	monster	�-��	1134,10
+gef_fild06,0,0	monster	:��	1135,10
+gef_fild06,0,0	monster	byۍ	1156,50
+gef_fild06,0,0	monster	��)	1031,10
+gef_fild06,0,0	monster	��	1139,20
+gef_fild06,0,0	monster	I�I	1083,4,1800000,900000
 
 //==================================================
 // gef_fild07 - Geffen Field
 //==================================================
-gef_fild07,0,0	monster	波利	1002,20
-gef_fild07,0,0	monster	蒼蠅	1011,30
-gef_fild07,0,0	monster	蟲蛹	1008,10
-gef_fild07,0,0	monster	綠棉蟲	1007,60
-gef_fild07,122,221	monster	綠草	1080,3,360000,180000
-gef_fild07,185,247	monster	光芒草	1083,1,1800000,900000
-gef_fild07,269,289	monster	藍草	1079,1,900000,450000
-gef_fild07,269,289,3,3	monster	綠草	1080,3,360000,180000
+gef_fild07,0,0	monster	�)	1002,20
+gef_fild07,0,0	monster	�	1011,30
+gef_fild07,0,0	monster	��	1008,10
+gef_fild07,0,0	monster	���	1007,60
+gef_fild07,122,221	monster	�I	1080,3,360000,180000
+gef_fild07,185,247	monster	I�I	1083,1,1800000,900000
+gef_fild07,269,289	monster	�I	1079,1,900000,450000
+gef_fild07,269,289,3,3	monster	�I	1080,3,360000,180000
 
 //==================================================
 // gef_fild08 - Geffen Field
 //==================================================
-gef_fild08,0,0	monster	大斧犬妖	1133,20
-gef_fild08,0,0	monster	榔頭犬妖	1134,40
-gef_fild08,0,0	monster	刺錘犬妖	1135,20
-gef_fild08,0,0	monster	巨石怪	1040,40
-gef_fild08,0,0	monster	綠蒼蠅	1042,20
-gef_fild08,0,0	monster	毒魔菇	1077,20
-gef_fild08,65,341	monster	藍草	1079,1,900000,450000
-gef_fild08,111,319	monster	藍草	1079,1,900000,450000
-gef_fild08,59,91	monster	藍草	1079,1,900000,450000
-gef_fild08,70,80	monster	藍草	1079,1,900000,450000
-gef_fild08,144,140	monster	藍草	1079,1,900000,450000
-gef_fild08,344,78	monster	藍草	1079,1,900000,450000
-gef_fild08,325,311	monster	藍草	1079,1,900000,450000
-gef_fild08,162,247	monster	藍草	1079,1,900000,450000
+gef_fild08,0,0	monster	'���	1133,20
+gef_fild08,0,0	monster	�-��	1134,40
+gef_fild08,0,0	monster	:��	1135,20
+gef_fild08,0,0	monster	��*	1040,40
+gef_fild08,0,0	monster	��	1042,20
+gef_fild08,0,0	monster	�T�	1077,20
+gef_fild08,65,341	monster	�I	1079,1,900000,450000
+gef_fild08,111,319	monster	�I	1079,1,900000,450000
+gef_fild08,59,91	monster	�I	1079,1,900000,450000
+gef_fild08,70,80	monster	�I	1079,1,900000,450000
+gef_fild08,144,140	monster	�I	1079,1,900000,450000
+gef_fild08,344,78	monster	�I	1079,1,900000,450000
+gef_fild08,325,311	monster	�I	1079,1,900000,450000
+gef_fild08,162,247	monster	�I	1079,1,900000,450000
 
 //==================================================
 // gef_fild09 - Geffen Field
 //==================================================
-gef_fild09,0,0	monster	蝸牛	1094,60
-gef_fild09,0,0	monster	波波利	1031,10
-gef_fild09,0,0	monster	毒魔菇	1077,10
-gef_fild09,51,43	monster	紅菇	1085,1,180000,90000
-gef_fild09,125,53	monster	紅菇	1085,1,180000,90000
-gef_fild09,148,74	monster	紅菇	1085,1,180000,90000
-gef_fild09,184,66	monster	紅菇	1085,1,180000,90000
-gef_fild09,207,54	monster	紅菇	1085,1,180000,90000
-gef_fild09,245,62	monster	紅菇	1085,1,180000,90000
-gef_fild09,268,45	monster	紅菇	1085,1,180000,90000
-gef_fild09,258,24	monster	紅菇	1085,1,180000,90000
-gef_fild09,325,36	monster	紅菇	1085,1,180000,90000
-gef_fild09,344,51	monster	紅菇	1085,1,180000,90000
-gef_fild09,277,201,5,5	monster	藍草	1079,3,900000,450000
+gef_fild09,0,0	monster	x[	1094,60
+gef_fild09,0,0	monster	��)	1031,10
+gef_fild09,0,0	monster	�T�	1077,10
+gef_fild09,51,43	monster	�	1085,1,180000,90000
+gef_fild09,125,53	monster	�	1085,1,180000,90000
+gef_fild09,148,74	monster	�	1085,1,180000,90000
+gef_fild09,184,66	monster	�	1085,1,180000,90000
+gef_fild09,207,54	monster	�	1085,1,180000,90000
+gef_fild09,245,62	monster	�	1085,1,180000,90000
+gef_fild09,268,45	monster	�	1085,1,180000,90000
+gef_fild09,258,24	monster	�	1085,1,180000,90000
+gef_fild09,325,36	monster	�	1085,1,180000,90000
+gef_fild09,344,51	monster	�	1085,1,180000,90000
+gef_fild09,277,201,5,5	monster	�I	1079,3,900000,450000
 
 //==================================================
 // gef_fild10 - Geffen Field
 //==================================================
-gef_fild10,0,0,0,0	boss_monster	獸人酋長	1190,1,7200000,600000,0
-gef_fild10,0,0	monster	獸人戰士	1023,20
-gef_fild10,0,0	monster	獸人女戰士	1273,70
-gef_fild10,0,0	monster	波波利	1031,15
-gef_fild10,0,0	monster	獸人嬰兒	1686,5
-gef_fild10,46,350,5,5	monster	藍草	1079,3,900000,450000
-gef_fild10,287,61,5,5	monster	藍草	1079,3,900000,450000
-gef_fild10,300,253,5,5	monster	綠草	1080,3,360000,180000
+gef_fild10,0,0,0,0	boss_monster	x�Kw	1190,1,7200000,600000,0
+gef_fild10,0,0	monster	x�0�	1023,20
+gef_fild10,0,0	monster	x�s0�	1273,70
+gef_fild10,0,0	monster	��)	1031,15
+gef_fild10,0,0	monster	x�0R	1686,5
+gef_fild10,46,350,5,5	monster	�I	1079,3,900000,450000
+gef_fild10,287,61,5,5	monster	�I	1079,3,900000,450000
+gef_fild10,300,253,5,5	monster	�I	1080,3,360000,180000
 
 //==================================================
 // gef_fild11 - Geffen Field
 //==================================================
-gef_fild11,0,0	monster	哥布靈首領	1299,1,1800000,1200000
-gef_fild11,0,0	monster	刺刀哥布靈	1122,30
-gef_fild11,0,0	monster	鏈錘哥布靈	1123,20
-gef_fild11,0,0	monster	大斧哥布靈	1124,20
-gef_fild11,0,0	monster	榔頭哥布靈	1125,20
-gef_fild11,0,0	monster	刺錘哥布靈	1126,20
-gef_fild11,0,0	monster	弓箭哥布靈	1258,20
-gef_fild11,0,0	monster	波波利	1031,15
-gef_fild11,0,0	monster	直升機哥布靈	1392,10
-gef_fild11,101,277,4,1	monster	黑菇	1084,3,360000,180000
-gef_fild11,176,288,1,4	monster	黑菇	1084,3,360000,180000
-gef_fild11,253,357,1,4	monster	黑菇	1084,3,360000,180000
-gef_fild11,247,249,1,4	monster	黑菇	1084,3,360000,180000
-gef_fild11,257,209,1,4	monster	黑菇	1084,3,360000,180000
-gef_fild11,174,240,1,3	monster	黑菇	1084,3,360000,180000
-gef_fild11,283,100,4,1	monster	黑菇	1084,3,360000,180000
+gef_fild11,0,0	monster	�H�	1299,1,1800000,1200000
+gef_fild11,0,0	monster	: �H	1122,30
+gef_fild11,0,0	monster	��H	1123,20
+gef_fild11,0,0	monster	'��H	1124,20
+gef_fild11,0,0	monster	�-�H	1125,20
+gef_fild11,0,0	monster	:�H	1126,20
+gef_fild11,0,0	monster	��H	1258,20
+gef_fild11,0,0	monster	��)	1031,15
+gef_fild11,0,0	monster	�G_�H	1392,10
+gef_fild11,101,277,4,1	monster	��	1084,3,360000,180000
+gef_fild11,176,288,1,4	monster	��	1084,3,360000,180000
+gef_fild11,253,357,1,4	monster	��	1084,3,360000,180000
+gef_fild11,247,249,1,4	monster	��	1084,3,360000,180000
+gef_fild11,257,209,1,4	monster	��	1084,3,360000,180000
+gef_fild11,174,240,1,3	monster	��	1084,3,360000,180000
+gef_fild11,283,100,4,1	monster	��	1084,3,360000,180000
 
 //==================================================
 // gef_fild12 - Kordt Forest
 //==================================================
-gef_fild12,0,0	monster	大斧犬妖	1133,20
-gef_fild12,0,0	monster	榔頭犬妖	1134,30
-gef_fild12,0,0	monster	刺錘犬妖	1135,30
-gef_fild12,0,0	monster	犬妖弓箭手	1282,40
-gef_fild12,0,0	monster	波波利	1031,20
-gef_fild12,0,0	monster	犬妖首領	1296,1,1800000,1200000
+gef_fild12,0,0	monster	'���	1133,20
+gef_fild12,0,0	monster	�-��	1134,30
+gef_fild12,0,0	monster	:��	1135,30
+gef_fild12,0,0	monster	���K	1282,40
+gef_fild12,0,0	monster	��)	1031,20
+gef_fild12,0,0	monster	���	1296,1,1800000,1200000
 
 //==================================================
 // gef_fild13 - Britoniah
 //==================================================
-gef_fild13,0,0	monster	波波利	1031,20
-gef_fild13,0,0	monster	克瑞米	1018,40
-gef_fild13,0,0	monster	蝸牛	1094,30
+gef_fild13,0,0	monster	��)	1031,20
+gef_fild13,0,0	monster	K^s	1018,40
+gef_fild13,0,0	monster	x[	1094,30
 
 //==================================================
 // gef_fild14 - West Orc Village
 //==================================================
-gef_fild14,0,0	monster	獸人女戰士	1273,20
-gef_fild14,0,0,0,0	boss_monster	獸人英雄	1087,1,3600000,600000,1
-gef_fild14,0,0	monster	獸人戰士	1023,10
-gef_fild14,0,0	monster	獸人弓箭手	1189,30
-gef_fild14,0,0	monster	獸人戰士長	1213,70
+gef_fild14,0,0	monster	x�s0�	1273,20
+gef_fild14,0,0,0,0	boss_monster	x���	1087,1,3600000,600000,1
+gef_fild14,0,0	monster	x�0�	1023,10
+gef_fild14,0,0	monster	x��K	1189,30
+gef_fild14,0,0	monster	x�0�w	1213,70

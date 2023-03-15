@@ -14,16 +14,16 @@
 //==================================================
 // arug_dun01 - Arunafeltz Guild Dungeon
 //==================================================
-arug_dun01,0,0	monster	愛爾蘭女妖首領	1974,22
-arug_dun01,0,0	monster	行妖術者	1870,18
-arug_dun01,0,0	monster	眼魔首領	1975,17
-arug_dun01,0,0	monster	泛特	1797,17
-arug_dun01,0,0	monster	阿吾諾耶	1796,17
+arug_dun01,0,0	monster	>-s��	1974,22
+arug_dun01,0,0	monster	L�S	1870,18
+arug_dun01,0,0	monster	<T�	1975,17
+arug_dun01,0,0	monster	�y	1797,17
+arug_dun01,0,0	monster	?>�6	1796,17
 
 //==================================================
 // schg_dun01 - Schwarzwald Guild Dungeon
 //==================================================
-schg_dun01,0,0	monster	地獄阿修羅機械戰士	1978,20
-schg_dun01,0,0	monster	扎古丹	1979,20
-schg_dun01,0,0	monster	重金屬波利	1977,15
-schg_dun01,0,0	monster	惡精靈礦石	1976,15
+schg_dun01,0,0	monster	0D?�_�0�	1978,20
+schg_dun01,0,0	monster	N�9	1979,20
+schg_dun01,0,0	monster	��l�)	1977,15
+schg_dun01,0,0	monster	�H&�	1976,15

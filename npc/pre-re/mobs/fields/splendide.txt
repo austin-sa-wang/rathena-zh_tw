@@ -14,19 +14,19 @@
 //==================================================
 // spl_fild01 - Splendide Field
 //==================================================
-spl_fild01,0,0	monster	捕蟲堇妖	1995,50
-spl_fild01,0,0	monster	那迦	1993,35
-spl_fild01,0,0	monster	獨角飛馬	1992,25
+spl_fild01,0,0	monster	U��	1995,50
+spl_fild01,0,0	monster	��	1993,35
+spl_fild01,0,0	monster	h�۬	1992,25
 
  // spl_fild02 - Splendide Field
 //==================================================
-spl_fild02,0,0	monster	捕蟲堇妖	1995,95
-spl_fild02,0,0	monster	魯修拉黃蜂	1994,15
+spl_fild02,0,0	monster	U��	1995,95
+spl_fild02,0,0	monster	o���	1994,15
 
 //==================================================
 // spl_fild03 - Splendide Field
 //==================================================
-spl_fild03,0,0	monster	魯修拉黃蜂	1994,35
-spl_fild03,0,0	monster	獨角飛馬	1992,25
-spl_fild03,0,0	monster	那迦	1993,20
-spl_fild03,0,0	monster	三角狂獅獸	1991,1,3600000
+spl_fild03,0,0	monster	o���	1994,35
+spl_fild03,0,0	monster	h�۬	1992,25
+spl_fild03,0,0	monster	��	1993,20
+spl_fild03,0,0	monster		��Ex	1991,1,3600000

@@ -20,53 +20,53 @@
 //==================================================
 // moc_fild01 - Sograt Desert
 //==================================================
-moc_fild01,0,0	monster	沙漠幼狼	1107,70
-moc_fild01,0,0	monster	白蟻幼蟲	1097,20
-moc_fild01,0,0	monster	大嘴鳥蛋	1047,20
-moc_fild01,0,0	monster	小雞	1049,10
-moc_fild01,0,0	monster	土波利	1113,30
-moc_fild01,0,0	monster	波利	1002,10
-moc_fild01,194,51,10,10	monster	黃草	1081,10,900000,450000
+moc_fild01,0,0	monster	� |�	1107,70
+moc_fild01,0,0	monster	}�|�	1097,20
+moc_fild01,0,0	monster	'4��	1047,20
+moc_fild01,0,0	monster	�	1049,10
+moc_fild01,0,0	monster	�)	1113,30
+moc_fild01,0,0	monster	�)	1002,10
+moc_fild01,194,51,10,10	monster	�I	1081,10,900000,450000
 
 //==================================================
 // moc_fild02 - Sograt Desert
 //==================================================
-moc_fild02,0,0	monster	大嘴鳥	1019,70
-moc_fild02,0,0	monster	白蟻幼蟲	1097,10
-moc_fild02,0,0	monster	大嘴鳥蛋	1047,40
-moc_fild02,0,0	monster	小雞	1049,10
-moc_fild02,0,0	monster	土波利	1113,30
-moc_fild02,89,315	monster	黃草	1081,1,180000,90000
-moc_fild02,99,261	monster	黃草	1081,1,180000,90000
-moc_fild02,94,195	monster	黃草	1081,1,180000,90000
-moc_fild02,139,222	monster	黃草	1081,1,180000,90000
-moc_fild02,132,307	monster	黃草	1081,1,180000,90000
-moc_fild02,194,294	monster	黃草	1081,1,180000,90000
-moc_fild02,275,241	monster	黃草	1081,1,180000,90000
-moc_fild02,342,267	monster	綠草	1080,1,180000,90000
-moc_fild02,359,215	monster	綠草	1080,1,180000,90000
-moc_fild02,313,149	monster	綠草	1080,1,180000,90000
-moc_fild02,230,62	monster	綠草	1080,1,180000,90000
-moc_fild02,299,61	monster	綠草	1080,1,180000,90000
-moc_fild02,353,103	monster	綠草	1080,1,180000,90000
-moc_fild02,337,35	monster	綠草	1080,1,180000,90000
+moc_fild02,0,0	monster	'4�	1019,70
+moc_fild02,0,0	monster	}�|�	1097,10
+moc_fild02,0,0	monster	'4��	1047,40
+moc_fild02,0,0	monster	�	1049,10
+moc_fild02,0,0	monster	�)	1113,30
+moc_fild02,89,315	monster	�I	1081,1,180000,90000
+moc_fild02,99,261	monster	�I	1081,1,180000,90000
+moc_fild02,94,195	monster	�I	1081,1,180000,90000
+moc_fild02,139,222	monster	�I	1081,1,180000,90000
+moc_fild02,132,307	monster	�I	1081,1,180000,90000
+moc_fild02,194,294	monster	�I	1081,1,180000,90000
+moc_fild02,275,241	monster	�I	1081,1,180000,90000
+moc_fild02,342,267	monster	�I	1080,1,180000,90000
+moc_fild02,359,215	monster	�I	1080,1,180000,90000
+moc_fild02,313,149	monster	�I	1080,1,180000,90000
+moc_fild02,230,62	monster	�I	1080,1,180000,90000
+moc_fild02,299,61	monster	�I	1080,1,180000,90000
+moc_fild02,353,103	monster	�I	1080,1,180000,90000
+moc_fild02,337,35	monster	�I	1080,1,180000,90000
 
 //==================================================
 // moc_fild03 - Sograt Desert
 //==================================================
-moc_fild03,0,0	monster	長老樹精	1033,70
-moc_fild03,0,0	monster	將軍魔碑	1277,30
-moc_fild03,0,0	monster	波波利	1031,20
-moc_fild03,0,0	monster	轉轉蛋	1116,10
-moc_fild03,0,0	monster	樹精	1010,20
-moc_fild03,0,0	monster	流浪之狼	1092,1,1800000,1200000
-moc_fild03,77,311,5,5	monster	綠草	1080,2,180000,90000
-moc_fild03,108,199,5,5	monster	綠草	1080,2,180000,90000
-moc_fild03,96,65,5,5	monster	綠草	1080,2,180000,90000
-moc_fild03,216,69,5,5	monster	綠草	1080,2,180000,90000
-moc_fild03,261,161,5,5	monster	綠草	1080,2,180000,90000
-moc_fild03,213,201,5,5	monster	綠草	1080,2,180000,90000
-moc_fild03,200,263,5,5	monster	綠草	1080,2,180000,90000
+moc_fild03,0,0	monster	w9�	1033,70
+moc_fild03,0,0	monster	�T�	1277,30
+moc_fild03,0,0	monster	��)	1031,20
+moc_fild03,0,0	monster	II�	1116,10
+moc_fild03,0,0	monster	9�	1010,20
+moc_fild03,0,0	monster	AjK�	1092,1,1800000,1200000
+moc_fild03,77,311,5,5	monster	�I	1080,2,180000,90000
+moc_fild03,108,199,5,5	monster	�I	1080,2,180000,90000
+moc_fild03,96,65,5,5	monster	�I	1080,2,180000,90000
+moc_fild03,216,69,5,5	monster	�I	1080,2,180000,90000
+moc_fild03,261,161,5,5	monster	�I	1080,2,180000,90000
+moc_fild03,213,201,5,5	monster	�I	1080,2,180000,90000
+moc_fild03,200,263,5,5	monster	�I	1080,2,180000,90000
 
 //==================================================
 // moc_fild04 - Sograt Desert
@@ -103,11 +103,11 @@ moc_fild03,200,263,5,5	monster	綠草	1080,2,180000,90000
 //==================================================
 // moc_fild07 - Sograt Desert
 //==================================================
-moc_fild07,0,0	monster	土波利	1113,70
-moc_fild07,0,0	monster	大嘴鳥蛋	1047,50
-moc_fild07,0,0	monster	蛋殼小雞	1050,30
-moc_fild07,0,0	monster	小雞	1049,30
-moc_fild07,162,333,12,12	monster	黃草	1081,5,360000,180000
+moc_fild07,0,0	monster	�)	1113,70
+moc_fild07,0,0	monster	'4��	1047,50
+moc_fild07,0,0	monster	˼�	1050,30
+moc_fild07,0,0	monster	�	1049,30
+moc_fild07,162,333,12,12	monster	�I	1081,5,360000,180000
 
 //==================================================
 // moc_fild08 - Sograt Desert
@@ -152,56 +152,56 @@ moc_fild07,162,333,12,12	monster	黃草	1081,5,360000,180000
 //==================================================
 // moc_fild11 - Sograt Desert
 //==================================================
-moc_fild11,0,0	monster	蚯蚓	1127,10
-moc_fild11,0,0	monster	巨石怪	1040,70
-moc_fild11,0,0	monster	白蟻	1095,10
-moc_fild11,0,0	monster	兵蟻	1105,10
-moc_fild11,0,0	monster	工蟻	1160,10
-moc_fild11,0,0	monster	白蟻幼蟲	1097,10
-moc_fild11,0,0	monster	魔鍋蛋	1138,20
-moc_fild11,0,0	monster	摩卡	1055,20
-moc_fild11,197,216	monster	光芒草	1083,1,1800000,900000
+moc_fild11,0,0	monster	��	1127,10
+moc_fild11,0,0	monster	��*	1040,70
+moc_fild11,0,0	monster	}�	1095,10
+moc_fild11,0,0	monster	u�	1105,10
+moc_fild11,0,0	monster	��	1160,10
+moc_fild11,0,0	monster	}�|�	1097,10
+moc_fild11,0,0	monster	TK�	1138,20
+moc_fild11,0,0	monster	ia	1055,20
+moc_fild11,197,216	monster	I�I	1083,1,1800000,900000
 
 //==================================================
 // moc_fild12 - Sograt Desert
 //==================================================
-moc_fild12,0,0	monster	蛋殼小雞	1050,50
-moc_fild12,0,0	monster	小雞	1049,50
-moc_fild12,0,0	monster	大嘴鳥蛋	1047,35
-moc_fild12,0,0	monster	土波利	1113,35
-moc_fild12,181,336,40,20	monster	黃草	1081,10,180000,90000
+moc_fild12,0,0	monster	˼�	1050,50
+moc_fild12,0,0	monster	�	1049,50
+moc_fild12,0,0	monster	'4��	1047,35
+moc_fild12,0,0	monster	�)	1113,35
+moc_fild12,181,336,40,20	monster	�I	1081,10,180000,90000
 
 //==================================================
 // moc_fild13 - Sograt Desert
 //==================================================
-moc_fild13,0,0	monster	沙漠之狼	1106,30
-moc_fild13,0,0	monster	毒蛇	1030,75
-moc_fild13,0,0	monster	青蛇	1025,30
-moc_fild13,0,0	monster	黑蛇	1037,5
-moc_fild13,0,0	monster	波波利	1031,20
-moc_fild13,0,0	monster	土波利	1113,10
-moc_fild13,280,99	monster	紅菇	1085,1,180000,90000
-moc_fild13,264,64	monster	紅菇	1085,1,180000,90000
-moc_fild13,305,91	monster	紅菇	1085,1,180000,90000
-moc_fild13,264,136	monster	紅菇	1085,1,180000,90000
-moc_fild13,282,155	monster	紅菇	1085,1,180000,90000
-moc_fild13,265,197	monster	紅菇	1085,1,180000,90000
-moc_fild13,284,227	monster	紅菇	1085,1,180000,90000
-moc_fild13,304,244	monster	紅菇	1085,1,180000,90000
-moc_fild13,266,289	monster	紅菇	1085,1,180000,90000
-moc_fild13,307,307	monster	紅菇	1085,1,180000,90000
-moc_fild13,281,333	monster	紅菇	1085,1,180000,90000
-moc_fild13,304,333	monster	紅菇	1085,1,180000,90000
-moc_fild13,295,358	monster	紅菇	1085,1,180000,90000
-moc_fild13,84,329	monster	黃草	1081,1,180000,90000
-moc_fild13,93,301	monster	黃草	1081,1,180000,90000
-moc_fild13,101,297	monster	黃草	1081,1,180000,90000
-moc_fild13,89,92	monster	黃草	1081,1,180000,90000
-moc_fild13,108,150	monster	黃草	1081,1,180000,90000
-moc_fild13,109,168	monster	黃草	1081,1,180000,90000
-moc_fild13,101,185,5,5	monster	黃草	1081,3,180000,90000
-moc_fild13,106,258,5,5	monster	黃草	1081,3,180000,90000
-moc_fild13,161,273,5,5	monster	黃草	1081,3,180000,90000
+moc_fild13,0,0	monster	� K�	1106,30
+moc_fild13,0,0	monster	��	1030,75
+moc_fild13,0,0	monster	R�	1025,30
+moc_fild13,0,0	monster	��	1037,5
+moc_fild13,0,0	monster	��)	1031,20
+moc_fild13,0,0	monster	�)	1113,10
+moc_fild13,280,99	monster	�	1085,1,180000,90000
+moc_fild13,264,64	monster	�	1085,1,180000,90000
+moc_fild13,305,91	monster	�	1085,1,180000,90000
+moc_fild13,264,136	monster	�	1085,1,180000,90000
+moc_fild13,282,155	monster	�	1085,1,180000,90000
+moc_fild13,265,197	monster	�	1085,1,180000,90000
+moc_fild13,284,227	monster	�	1085,1,180000,90000
+moc_fild13,304,244	monster	�	1085,1,180000,90000
+moc_fild13,266,289	monster	�	1085,1,180000,90000
+moc_fild13,307,307	monster	�	1085,1,180000,90000
+moc_fild13,281,333	monster	�	1085,1,180000,90000
+moc_fild13,304,333	monster	�	1085,1,180000,90000
+moc_fild13,295,358	monster	�	1085,1,180000,90000
+moc_fild13,84,329	monster	�I	1081,1,180000,90000
+moc_fild13,93,301	monster	�I	1081,1,180000,90000
+moc_fild13,101,297	monster	�I	1081,1,180000,90000
+moc_fild13,89,92	monster	�I	1081,1,180000,90000
+moc_fild13,108,150	monster	�I	1081,1,180000,90000
+moc_fild13,109,168	monster	�I	1081,1,180000,90000
+moc_fild13,101,185,5,5	monster	�I	1081,3,180000,90000
+moc_fild13,106,258,5,5	monster	�I	1081,3,180000,90000
+moc_fild13,161,273,5,5	monster	�I	1081,3,180000,90000
 
 //==================================================
 // moc_fild14 - Sograt Desert
@@ -243,83 +243,83 @@ moc_fild13,161,273,5,5	monster	黃草	1081,3,180000,90000
 //==================================================
 // moc_fild16 - Sograt Desert
 //==================================================
-moc_fild16,0,0	monster	泥人	1165,70
-moc_fild16,0,0	monster	蚯蚓	1127,30
-moc_fild16,0,0	monster	魔鍋蛋	1138,25
-moc_fild16,0,0	monster	白蟻	1095,10
-moc_fild16,0,0	monster	兵蟻	1105,20
-moc_fild16,0,0	monster	白蟻幼蟲	1097,10
+moc_fild16,0,0	monster	�	1165,70
+moc_fild16,0,0	monster	��	1127,30
+moc_fild16,0,0	monster	TK�	1138,25
+moc_fild16,0,0	monster	}�	1095,10
+moc_fild16,0,0	monster	u�	1105,20
+moc_fild16,0,0	monster	}�|�	1097,10
 
 //==================================================
 // moc_fild17 - Sograt Desert
 //==================================================
-moc_fild17,0,0	monster	蚯蚓	1127,100
-moc_fild17,0,0	monster	綠蒼蠅	1042,30
-moc_fild17,0,0	monster	魔鍋蛋	1138,15
-moc_fild17,0,0	monster	傘蜥	1119,25
-moc_fild17,0,0	monster	白蟻幼蟲	1097,10
-moc_fild17,0,0	monster	蠍子	1001,5
-moc_fild17,0,0,0,0	boss_monster	皮里恩	1159,1,7200000,600000,1
-moc_fild17,40,258	monster	黃草	1081,1,180000,90000
-moc_fild17,144,151	monster	黃草	1081,1,180000,90000
-moc_fild17,243,138	monster	黃草	1081,1,180000,90000
-moc_fild17,270,106	monster	藍草	1079,1,180000,90000
-moc_fild17,335,191	monster	黃草	1081,1,180000,90000
-moc_fild17,347,224	monster	黃草	1081,1,180000,90000
-moc_fild17,359,258	monster	黃草	1081,1,180000,90000
+moc_fild17,0,0	monster	��	1127,100
+moc_fild17,0,0	monster	��	1042,30
+moc_fild17,0,0	monster	TK�	1138,15
+moc_fild17,0,0	monster	�%	1119,25
+moc_fild17,0,0	monster	}�|�	1097,10
+moc_fild17,0,0	monster	P	1001,5
+moc_fild17,0,0,0,0	boss_monster	��i	1159,1,7200000,600000,1
+moc_fild17,40,258	monster	�I	1081,1,180000,90000
+moc_fild17,144,151	monster	�I	1081,1,180000,90000
+moc_fild17,243,138	monster	�I	1081,1,180000,90000
+moc_fild17,270,106	monster	�I	1079,1,180000,90000
+moc_fild17,335,191	monster	�I	1081,1,180000,90000
+moc_fild17,347,224	monster	�I	1081,1,180000,90000
+moc_fild17,359,258	monster	�I	1081,1,180000,90000
 
 //==================================================
 // moc_fild18 - Sograt Desert
 //==================================================
-moc_fild18,0,0	monster	綠蒼蠅	1042,70
-moc_fild18,0,0	monster	蒼蠅	1011,40
-moc_fild18,0,0	monster	摩卡	1055,80
-moc_fild18,0,0	monster	重金屬蝗蟲	1058,10
-moc_fild18,0,0	monster	白蟻幼蟲	1097,5
-moc_fild18,0,0	monster	龍蠅	1091,1,3600000,1800000
-moc_fild18,0,0	monster	赤蒼蠅	1035,1,7200000,3600000
-moc_fild18,143,352	monster	黃草	1081,1,180000,90000
-moc_fild18,72,333	monster	黃草	1081,1,180000,90000
-moc_fild18,119,285	monster	黃草	1081,1,180000,90000
-moc_fild18,71,210	monster	黃草	1081,1,180000,90000
-moc_fild18,135,119	monster	黃草	1081,1,180000,90000
-moc_fild18,230,144	monster	黃草	1081,1,180000,90000
-moc_fild18,325,207	monster	黃草	1081,1,180000,90000
-moc_fild18,325,272	monster	黃草	1081,1,180000,90000
+moc_fild18,0,0	monster	��	1042,70
+moc_fild18,0,0	monster	�	1011,40
+moc_fild18,0,0	monster	ia	1055,80
+moc_fild18,0,0	monster	��lW�	1058,10
+moc_fild18,0,0	monster	}�|�	1097,5
+moc_fild18,0,0	monster	�	1091,1,3600000,1800000
+moc_fild18,0,0	monster	d�	1035,1,7200000,3600000
+moc_fild18,143,352	monster	�I	1081,1,180000,90000
+moc_fild18,72,333	monster	�I	1081,1,180000,90000
+moc_fild18,119,285	monster	�I	1081,1,180000,90000
+moc_fild18,71,210	monster	�I	1081,1,180000,90000
+moc_fild18,135,119	monster	�I	1081,1,180000,90000
+moc_fild18,230,144	monster	�I	1081,1,180000,90000
+moc_fild18,325,207	monster	�I	1081,1,180000,90000
+moc_fild18,325,272	monster	�I	1081,1,180000,90000
 
 //==================================================
 // moc_fild20 - Dimensional Gorge
 //==================================================
-moc_fild20,0,0	monster	白蟻幼蟲	1097,10
-moc_fild20,0,0	monster	白蟻	1095,20
-moc_fild20,0,0	monster	兵蟻	1105,20
-moc_fild20,0,0	monster	工蟻	1160,20
-moc_fild20,0,0	monster	重金屬蝗蟲	1058,20
-moc_fild20,0,0	monster	土波利	1113,30
-moc_fild20,0,0	monster	蠍子	1001,70
-moc_fild20,0,0	monster	蛋殼小雞	1050,50
-moc_fild20,0,0	monster	小雞	1049,50
-moc_fild20,0,0	monster	夢羅克門徒之邪靈	1918,1,30000,0,0
-moc_fild20,0,0	monster	夢羅克門徒之泥怪	1919,1,30000,0,0
-moc_fild20,0,0	monster	夢羅克門徒之活屍	1920,1,30000,0,0
-moc_fild20,0,0	monster	夢羅克門徒之喜樂	1921,1,30000,0,0
+moc_fild20,0,0	monster	}�|�	1097,10
+moc_fild20,0,0	monster	}�	1095,20
+moc_fild20,0,0	monster	u�	1105,20
+moc_fild20,0,0	monster	��	1160,20
+moc_fild20,0,0	monster	��lW�	1058,20
+moc_fild20,0,0	monster	�)	1113,30
+moc_fild20,0,0	monster	P	1001,70
+moc_fild20,0,0	monster	˼�	1050,50
+moc_fild20,0,0	monster	�	1049,50
+moc_fild20,0,0	monster	"�K��K�H	1918,1,30000,0,0
+moc_fild20,0,0	monster	"�K��K�*	1919,1,30000,0,0
+moc_fild20,0,0	monster	"�K��K;M	1920,1,30000,0,0
+moc_fild20,0,0	monster	"�K��K�	1921,1,30000,0,0
 
 //==================================================
 // moc_fild21 - Dimensional Gorge
 //==================================================
-moc_fild21,0,0	monster	巨石怪	1040,61
-moc_fild21,0,0	monster	鐘乳巨石怪	1278,46
-moc_fild21,0,0	monster	熔岩巨石	1366,46
-moc_fild21,0,0	monster	夢羅克門徒之邪靈	1918,46,30000,0,0
-moc_fild21,0,0	monster	夢羅克門徒之泥怪	1919,46,30000,0,0
-moc_fild21,0,0	monster	夢羅克門徒之活屍	1920,46,30000,0,0
-moc_fild21,0,0	monster	夢羅克門徒之喜樂	1921,34,30000,0,0
+moc_fild21,0,0	monster	��*	1040,61
+moc_fild21,0,0	monster	s��*	1278,46
+moc_fild21,0,0	monster	����	1366,46
+moc_fild21,0,0	monster	"�K��K�H	1918,46,30000,0,0
+moc_fild21,0,0	monster	"�K��K�*	1919,46,30000,0,0
+moc_fild21,0,0	monster	"�K��K;M	1920,46,30000,0,0
+moc_fild21,0,0	monster	"�K��K�	1921,34,30000,0,0
 
 //==================================================
 // moc_fild22 - Dimensional Gorge
 //==================================================
-moc_fild22,0,0	monster	夢羅克門徒之邪靈	1918,60,30000,0,0
-moc_fild22,0,0	monster	夢羅克門徒之泥怪	1919,60,30000,0,0
-moc_fild22,0,0	monster	夢羅克門徒之活屍	1920,60,30000,0,0
-moc_fild22,0,0	monster	夢羅克門徒之喜樂	1921,25,10000,0,0
-moc_fild22,0,0	boss_monster	負傷夢羅克	1917,1,43200000,3600000
+moc_fild22,0,0	monster	"�K��K�H	1918,60,30000,0,0
+moc_fild22,0,0	monster	"�K��K�*	1919,60,30000,0,0
+moc_fild22,0,0	monster	"�K��K;M	1920,60,30000,0,0
+moc_fild22,0,0	monster	"�K��K�	1921,25,10000,0,0
+moc_fild22,0,0	boss_monster	��"�K	1917,1,43200000,3600000

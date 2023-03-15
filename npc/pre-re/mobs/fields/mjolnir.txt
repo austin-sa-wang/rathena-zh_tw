@@ -13,238 +13,238 @@
 //==================================================
 // mjolnir_01 - Mt.Mjolnir
 //==================================================
-mjolnir_01,0,0	monster	鍬形蟲	1128,20
-mjolnir_01,0,0	monster	克瑞米	1018,20
-mjolnir_01,0,0	monster	松鼠	1104,70
-mjolnir_01,0,0	monster	瓢蟲	1174,20
-mjolnir_01,0,0	monster	刺蝟蟲	1103,40
-mjolnir_01,75,85,25,25	monster	光芒草	1083,1,1800000,900000
-mjolnir_01,78,219,25,25	monster	光芒草	1083,1,1800000,900000
-mjolnir_01,75,85,25,25	monster	綠草	1080,5,180000,90000
-mjolnir_01,78,219,25,25	monster	綠草	1080,5,180000,90000
-mjolnir_01,311,271,25,25	monster	藍草	1079,5,360000,180000
+mjolnir_01,0,0	monster	lb�	1128,20
+mjolnir_01,0,0	monster	K^s	1018,20
+mjolnir_01,0,0	monster	~ 	1104,70
+mjolnir_01,0,0	monster	��	1174,20
+mjolnir_01,0,0	monster	:_�	1103,40
+mjolnir_01,75,85,25,25	monster	I�I	1083,1,1800000,900000
+mjolnir_01,78,219,25,25	monster	I�I	1083,1,1800000,900000
+mjolnir_01,75,85,25,25	monster	�I	1080,5,180000,90000
+mjolnir_01,78,219,25,25	monster	�I	1080,5,180000,90000
+mjolnir_01,311,271,25,25	monster	�I	1079,5,360000,180000
 
 //==================================================
 // mjolnir_02 - Mt.Mjolnir
 //==================================================
-mjolnir_02,0,0	monster	蜂兵	1004,30
-mjolnir_02,0,0	monster	克瑞米	1018,20
-mjolnir_02,0,0	monster	畢帝特地龍	1155,50
-mjolnir_02,0,0	monster	波波利	1031,10
-mjolnir_02,0,0	monster	噬人花	1118,30
-mjolnir_02,86,270	monster	綠草	1080,1,180000,90000
-mjolnir_02,80,211	monster	綠草	1080,1,180000,90000
-mjolnir_02,86,270	monster	綠草	1080,1,180000,90000
-mjolnir_02,86,180	monster	綠草	1080,1,180000,90000
-mjolnir_02,107,128	monster	綠草	1080,1,180000,90000
-mjolnir_02,79,49	monster	藍草	1079,1,360000,180000
-mjolnir_02,133,80	monster	紅草	1078,1,180000,90000
-mjolnir_02,191,71	monster	綠草	1080,1,180000,90000
-mjolnir_02,237,55	monster	綠草	1080,1,180000,90000
-mjolnir_02,292,49	monster	綠草	1080,1,180000,90000
-mjolnir_02,349,45	monster	綠草	1080,1,180000,90000
-mjolnir_02,282,101	monster	綠草	1080,1,180000,90000
-mjolnir_02,325,146	monster	綠草	1080,1,180000,90000
-mjolnir_02,318,205	monster	紅草	1078,1,180000,90000
-mjolnir_02,275,199	monster	藍草	1079,1,360000,180000
-mjolnir_02,335,301	monster	綠草	1080,1,180000,90000
-mjolnir_02,312,342	monster	綠草	1080,1,180000,90000
-mjolnir_02,325,146	monster	綠草	1080,1,180000,90000
-mjolnir_02,257,292	monster	綠草	1080,1,180000,90000
-mjolnir_02,204,263	monster	綠草	1080,1,180000,90000
-mjolnir_02,193,304	monster	綠草	1080,1,180000,90000
-mjolnir_02,145,282	monster	綠草	1080,1,180000,90000
-mjolnir_02,156,254	monster	紅草	1078,1,180000,90000
-mjolnir_02,112,268	monster	藍草	1079,1,360000,180000
-mjolnir_02,122,195	monster	紅草	1078,1,180000,90000
-mjolnir_02,167,160	monster	綠草	1080,1,180000,90000
-mjolnir_02,325,146	monster	綠草	1080,1,180000,90000
-mjolnir_02,223,110	monster	紅草	1078,1,180000,90000
-mjolnir_02,273,74	monster	藍草	1079,1,360000,180000
-mjolnir_02,254,155	monster	紅草	1078,1,180000,90000
-mjolnir_02,243,208	monster	綠草	1080,1,180000,90000
-mjolnir_02,273,240	monster	綠草	1080,1,180000,90000
-mjolnir_02,289,276	monster	綠草	1080,1,180000,90000
-mjolnir_02,188,192,10,10	monster	藍草	1079,2,360000,180000
+mjolnir_02,0,0	monster	u	1004,30
+mjolnir_02,0,0	monster	K^s	1018,20
+mjolnir_02,0,0	monster	by0�	1155,50
+mjolnir_02,0,0	monster	��)	1031,10
+mjolnir_02,0,0	monster	l��	1118,30
+mjolnir_02,86,270	monster	�I	1080,1,180000,90000
+mjolnir_02,80,211	monster	�I	1080,1,180000,90000
+mjolnir_02,86,270	monster	�I	1080,1,180000,90000
+mjolnir_02,86,180	monster	�I	1080,1,180000,90000
+mjolnir_02,107,128	monster	�I	1080,1,180000,90000
+mjolnir_02,79,49	monster	�I	1079,1,360000,180000
+mjolnir_02,133,80	monster	I	1078,1,180000,90000
+mjolnir_02,191,71	monster	�I	1080,1,180000,90000
+mjolnir_02,237,55	monster	�I	1080,1,180000,90000
+mjolnir_02,292,49	monster	�I	1080,1,180000,90000
+mjolnir_02,349,45	monster	�I	1080,1,180000,90000
+mjolnir_02,282,101	monster	�I	1080,1,180000,90000
+mjolnir_02,325,146	monster	�I	1080,1,180000,90000
+mjolnir_02,318,205	monster	I	1078,1,180000,90000
+mjolnir_02,275,199	monster	�I	1079,1,360000,180000
+mjolnir_02,335,301	monster	�I	1080,1,180000,90000
+mjolnir_02,312,342	monster	�I	1080,1,180000,90000
+mjolnir_02,325,146	monster	�I	1080,1,180000,90000
+mjolnir_02,257,292	monster	�I	1080,1,180000,90000
+mjolnir_02,204,263	monster	�I	1080,1,180000,90000
+mjolnir_02,193,304	monster	�I	1080,1,180000,90000
+mjolnir_02,145,282	monster	�I	1080,1,180000,90000
+mjolnir_02,156,254	monster	I	1078,1,180000,90000
+mjolnir_02,112,268	monster	�I	1079,1,360000,180000
+mjolnir_02,122,195	monster	I	1078,1,180000,90000
+mjolnir_02,167,160	monster	�I	1080,1,180000,90000
+mjolnir_02,325,146	monster	�I	1080,1,180000,90000
+mjolnir_02,223,110	monster	I	1078,1,180000,90000
+mjolnir_02,273,74	monster	�I	1079,1,360000,180000
+mjolnir_02,254,155	monster	I	1078,1,180000,90000
+mjolnir_02,243,208	monster	�I	1080,1,180000,90000
+mjolnir_02,273,240	monster	�I	1080,1,180000,90000
+mjolnir_02,289,276	monster	�I	1080,1,180000,90000
+mjolnir_02,188,192,10,10	monster	�I	1079,2,360000,180000
 
 //==================================================
 // mjolnir_03 - Mt.Mjolnir
 //==================================================
-mjolnir_03,0,0	monster	螳螂	1139,30
-mjolnir_03,0,0	monster	克瑞米	1018,10
-mjolnir_03,0,0	monster	畢帝特飛龍	1156,70
-mjolnir_03,0,0	monster	波波利	1031,10
-mjolnir_03,0,0	monster	噬人花	1118,10
-mjolnir_03,0,0	monster	艾斯蜘蛛	1100,20
-mjolnir_03,211,216,10,10	monster	光芒草	1083,1,1800000,900000
-mjolnir_03,280,252,10,10	monster	光芒草	1083,1,1800000,900000
-mjolnir_03,135,94	monster	綠草	1080,1,180000,90000
-mjolnir_03,199,97	monster	綠草	1080,1,180000,90000
-mjolnir_03,262,98	monster	綠草	1080,1,180000,90000
-mjolnir_03,322,144	monster	綠草	1080,1,180000,90000
-mjolnir_03,356,213	monster	綠草	1080,1,180000,90000
-mjolnir_03,352,288	monster	綠草	1080,1,180000,90000
-mjolnir_03,324,355	monster	綠草	1080,1,180000,90000
-mjolnir_03,255,349	monster	綠草	1080,1,180000,90000
-mjolnir_03,168,341	monster	綠草	1080,1,180000,90000
-mjolnir_03,128,319	monster	綠草	1080,1,180000,90000
-mjolnir_03,77,271	monster	綠草	1080,1,180000,90000
-mjolnir_03,66,219	monster	綠草	1080,1,180000,90000
-mjolnir_03,91,161	monster	綠草	1080,1,180000,90000
+mjolnir_03,0,0	monster	��	1139,30
+mjolnir_03,0,0	monster	K^s	1018,10
+mjolnir_03,0,0	monster	byۍ	1156,70
+mjolnir_03,0,0	monster	��)	1031,10
+mjolnir_03,0,0	monster	l��	1118,10
+mjolnir_03,0,0	monster	~��	1100,20
+mjolnir_03,211,216,10,10	monster	I�I	1083,1,1800000,900000
+mjolnir_03,280,252,10,10	monster	I�I	1083,1,1800000,900000
+mjolnir_03,135,94	monster	�I	1080,1,180000,90000
+mjolnir_03,199,97	monster	�I	1080,1,180000,90000
+mjolnir_03,262,98	monster	�I	1080,1,180000,90000
+mjolnir_03,322,144	monster	�I	1080,1,180000,90000
+mjolnir_03,356,213	monster	�I	1080,1,180000,90000
+mjolnir_03,352,288	monster	�I	1080,1,180000,90000
+mjolnir_03,324,355	monster	�I	1080,1,180000,90000
+mjolnir_03,255,349	monster	�I	1080,1,180000,90000
+mjolnir_03,168,341	monster	�I	1080,1,180000,90000
+mjolnir_03,128,319	monster	�I	1080,1,180000,90000
+mjolnir_03,77,271	monster	�I	1080,1,180000,90000
+mjolnir_03,66,219	monster	�I	1080,1,180000,90000
+mjolnir_03,91,161	monster	�I	1080,1,180000,90000
 
 //==================================================
 // mjolnir_04 - Mt.Mjolnir
 //==================================================
-mjolnir_04,0,0	monster	螳螂	1139,20
-mjolnir_04,0,0	monster	蜂兵	1004,70
-mjolnir_04,0,0	monster	波波利	1031,10
-mjolnir_04,0,0	monster	噬人花	1118,30
-mjolnir_04,0,0	monster	艾吉歐蜈蚣	1099,20
-mjolnir_04,0,0,0,0	boss_monster	蜂后	1059,1,7200000,600000,1
-mjolnir_04,200,200,30,30	monster	光芒草	1083,3,1800000,900000
-mjolnir_04,177,34	monster	綠草	1080,1,180000,90000
-mjolnir_04,122,28	monster	綠草	1080,1,180000,90000
-mjolnir_04,76,53	monster	綠草	1080,1,180000,90000
-mjolnir_04,72,99	monster	綠草	1080,1,180000,90000
-mjolnir_04,177,34	monster	綠草	1080,1,180000,90000
-mjolnir_04,43,143	monster	綠草	1080,1,180000,90000
-mjolnir_04,31,194	monster	綠草	1080,1,180000,90000
-mjolnir_04,42,252	monster	綠草	1080,1,180000,90000
-mjolnir_04,64,323	monster	綠草	1080,1,180000,90000
-mjolnir_04,107,357	monster	綠草	1080,1,180000,90000
-mjolnir_04,173,369	monster	綠草	1080,1,180000,90000
-mjolnir_04,286,357	monster	綠草	1080,1,180000,90000
-mjolnir_04,356,292	monster	綠草	1080,1,180000,90000
-mjolnir_04,362,201	monster	綠草	1080,1,180000,90000
-mjolnir_04,332,122	monster	綠草	1080,1,180000,90000
-mjolnir_04,269,39	monster	綠草	1080,1,180000,90000
-mjolnir_04,205,33	monster	綠草	1080,1,180000,90000
+mjolnir_04,0,0	monster	��	1139,20
+mjolnir_04,0,0	monster	u	1004,70
+mjolnir_04,0,0	monster	��)	1031,10
+mjolnir_04,0,0	monster	l��	1118,30
+mjolnir_04,0,0	monster	~	P�	1099,20
+mjolnir_04,0,0,0,0	boss_monster		1059,1,7200000,600000,1
+mjolnir_04,200,200,30,30	monster	I�I	1083,3,1800000,900000
+mjolnir_04,177,34	monster	�I	1080,1,180000,90000
+mjolnir_04,122,28	monster	�I	1080,1,180000,90000
+mjolnir_04,76,53	monster	�I	1080,1,180000,90000
+mjolnir_04,72,99	monster	�I	1080,1,180000,90000
+mjolnir_04,177,34	monster	�I	1080,1,180000,90000
+mjolnir_04,43,143	monster	�I	1080,1,180000,90000
+mjolnir_04,31,194	monster	�I	1080,1,180000,90000
+mjolnir_04,42,252	monster	�I	1080,1,180000,90000
+mjolnir_04,64,323	monster	�I	1080,1,180000,90000
+mjolnir_04,107,357	monster	�I	1080,1,180000,90000
+mjolnir_04,173,369	monster	�I	1080,1,180000,90000
+mjolnir_04,286,357	monster	�I	1080,1,180000,90000
+mjolnir_04,356,292	monster	�I	1080,1,180000,90000
+mjolnir_04,362,201	monster	�I	1080,1,180000,90000
+mjolnir_04,332,122	monster	�I	1080,1,180000,90000
+mjolnir_04,269,39	monster	�I	1080,1,180000,90000
+mjolnir_04,205,33	monster	�I	1080,1,180000,90000
 
 //==================================================
 // mjolnir_05 - Mt.Mjolnir
 //==================================================
-mjolnir_05,0,0	monster	螳螂	1139,40
-mjolnir_05,0,0	monster	波波利	1031,10
-mjolnir_05,0,0	monster	噬人花	1118,20
-mjolnir_05,0,0	monster	艾吉歐蜈蚣	1099,70
-mjolnir_05,0,0	monster	艾斯蜘蛛	1100,20
-mjolnir_05,200,240,40,40	monster	藍草	1079,3,360000,180000
-mjolnir_05,200,240,40,40	monster	光芒草	1083,1,1800000,900000
-mjolnir_05,134,103,20,20	monster	藍草	1079,3,360000,180000
-mjolnir_05,261,100,20,10	monster	藍草	1079,3,360000,180000
-mjolnir_05,0,0	monster	紅草	1078,10,180000,90000
+mjolnir_05,0,0	monster	��	1139,40
+mjolnir_05,0,0	monster	��)	1031,10
+mjolnir_05,0,0	monster	l��	1118,20
+mjolnir_05,0,0	monster	~	P�	1099,70
+mjolnir_05,0,0	monster	~��	1100,20
+mjolnir_05,200,240,40,40	monster	�I	1079,3,360000,180000
+mjolnir_05,200,240,40,40	monster	I�I	1083,1,1800000,900000
+mjolnir_05,134,103,20,20	monster	�I	1079,3,360000,180000
+mjolnir_05,261,100,20,10	monster	�I	1079,3,360000,180000
+mjolnir_05,0,0	monster	I	1078,10,180000,90000
 
 //==================================================
 // mjolnir_06 - Mt.Mjolnir
 //==================================================
-mjolnir_06,0,0	monster	瓢蟲	1174,70
-mjolnir_06,0,0	monster	鍬形蟲	1128,20
-mjolnir_06,0,0	monster	松鼠	1104,20
-mjolnir_06,0,0	monster	波波利	1031,20
-mjolnir_06,0,0	monster	刺蝟蟲	1103,30
-mjolnir_06,162,285	monster	藍草	1079,1,360000,180000
-mjolnir_06,162,255	monster	藍草	1079,1,360000,180000
-mjolnir_06,304,98	monster	紅菇	1085,1,180000,90000
-mjolnir_06,279,174	monster	紅菇	1085,1,180000,90000
-mjolnir_06,339,168	monster	紅菇	1085,1,180000,90000
-mjolnir_06,296,317	monster	紅菇	1085,1,180000,90000
-mjolnir_06,45,345	monster	紅菇	1085,1,180000,90000
-mjolnir_06,73,339	monster	紅菇	1085,1,180000,90000
-mjolnir_06,69,225	monster	紅菇	1085,1,180000,90000
-mjolnir_06,55,276	monster	紅菇	1085,1,180000,90000
+mjolnir_06,0,0	monster	��	1174,70
+mjolnir_06,0,0	monster	lb�	1128,20
+mjolnir_06,0,0	monster	~ 	1104,20
+mjolnir_06,0,0	monster	��)	1031,20
+mjolnir_06,0,0	monster	:_�	1103,30
+mjolnir_06,162,285	monster	�I	1079,1,360000,180000
+mjolnir_06,162,255	monster	�I	1079,1,360000,180000
+mjolnir_06,304,98	monster	�	1085,1,180000,90000
+mjolnir_06,279,174	monster	�	1085,1,180000,90000
+mjolnir_06,339,168	monster	�	1085,1,180000,90000
+mjolnir_06,296,317	monster	�	1085,1,180000,90000
+mjolnir_06,45,345	monster	�	1085,1,180000,90000
+mjolnir_06,73,339	monster	�	1085,1,180000,90000
+mjolnir_06,69,225	monster	�	1085,1,180000,90000
+mjolnir_06,55,276	monster	�	1085,1,180000,90000
 
 //==================================================
 // mjolnir_07 - Mt.Mjolnir
 //==================================================
-mjolnir_07,0,0	monster	毒魔菇	1077,60
-mjolnir_07,0,0	monster	蝸牛	1094,30
-mjolnir_07,0,0	monster	松鼠	1104,20
-mjolnir_07,0,0	monster	鍬形蟲	1128,20
-mjolnir_07,0,0	monster	波波利	1031,20
-mjolnir_07,0,0	monster	蜂兵	1004,20
-mjolnir_07,314,133	monster	綠草	1080,1,180000,90000
-mjolnir_07,299,145	monster	綠草	1080,1,180000,90000
-mjolnir_07,272,152	monster	綠草	1080,1,180000,90000
-mjolnir_07,273,181	monster	綠草	1080,1,180000,90000
-mjolnir_07,245,168	monster	紅菇	1085,1,180000,90000
-mjolnir_07,217,185	monster	紅菇	1085,1,180000,90000
-mjolnir_07,181,173	monster	綠草	1080,1,180000,90000
-mjolnir_07,140,179	monster	綠草	1080,1,180000,90000
-mjolnir_07,97,210	monster	綠草	1080,1,180000,90000
-mjolnir_07,249,214	monster	藍草	1079,2,360000,180000
+mjolnir_07,0,0	monster	�T�	1077,60
+mjolnir_07,0,0	monster	x[	1094,30
+mjolnir_07,0,0	monster	~ 	1104,20
+mjolnir_07,0,0	monster	lb�	1128,20
+mjolnir_07,0,0	monster	��)	1031,20
+mjolnir_07,0,0	monster	u	1004,20
+mjolnir_07,314,133	monster	�I	1080,1,180000,90000
+mjolnir_07,299,145	monster	�I	1080,1,180000,90000
+mjolnir_07,272,152	monster	�I	1080,1,180000,90000
+mjolnir_07,273,181	monster	�I	1080,1,180000,90000
+mjolnir_07,245,168	monster	�	1085,1,180000,90000
+mjolnir_07,217,185	monster	�	1085,1,180000,90000
+mjolnir_07,181,173	monster	�I	1080,1,180000,90000
+mjolnir_07,140,179	monster	�I	1080,1,180000,90000
+mjolnir_07,97,210	monster	�I	1080,1,180000,90000
+mjolnir_07,249,214	monster	�I	1079,2,360000,180000
 
 //==================================================
 // mjolnir_08 - Mt.Mjolnir
 //==================================================
-mjolnir_08,0,0	monster	螳螂	1139,60
-mjolnir_08,0,0	monster	艾吉歐蜈蚣	1099,30
-mjolnir_08,0,0	monster	艾斯蜘蛛	1100,20
-mjolnir_08,0,0	monster	波波利	1031,20
-mjolnir_08,0,0	monster	波利	1002,10
-mjolnir_08,280,280,20,40	monster	藍草	1079,2,360000,180000
-mjolnir_08,207,83	monster	綠草	1080,1,180000,90000
-mjolnir_08,176,153	monster	綠草	1080,1,180000,90000
-mjolnir_08,169,204	monster	綠草	1080,1,180000,90000
-mjolnir_08,207,232	monster	綠草	1080,1,180000,90000
-mjolnir_08,180,282	monster	綠草	1080,1,180000,90000
-mjolnir_08,149,328	monster	綠草	1080,1,180000,90000
+mjolnir_08,0,0	monster	��	1139,60
+mjolnir_08,0,0	monster	~	P�	1099,30
+mjolnir_08,0,0	monster	~��	1100,20
+mjolnir_08,0,0	monster	��)	1031,20
+mjolnir_08,0,0	monster	�)	1002,10
+mjolnir_08,280,280,20,40	monster	�I	1079,2,360000,180000
+mjolnir_08,207,83	monster	�I	1080,1,180000,90000
+mjolnir_08,176,153	monster	�I	1080,1,180000,90000
+mjolnir_08,169,204	monster	�I	1080,1,180000,90000
+mjolnir_08,207,232	monster	�I	1080,1,180000,90000
+mjolnir_08,180,282	monster	�I	1080,1,180000,90000
+mjolnir_08,149,328	monster	�I	1080,1,180000,90000
 
 //==================================================
 // mjolnir_09 - Mt.Mjolnir
 //==================================================
-mjolnir_09,0,0	monster	松鼠	1104,10
-mjolnir_09,0,0	monster	瓢蟲	1174,20
-mjolnir_09,0,0	monster	鍬形蟲	1128,70
-mjolnir_09,0,0	monster	波波利	1031,20
-mjolnir_09,0,0	monster	狼	1013,30
-mjolnir_09,205,352	monster	紅菇	1085,1,180000,90000
-mjolnir_09,199,344	monster	紅菇	1085,1,180000,90000
-mjolnir_09,210,331	monster	紅菇	1085,1,180000,90000
-mjolnir_09,204,321	monster	紅菇	1085,1,180000,90000
-mjolnir_09,212,312	monster	紅菇	1085,1,180000,90000
-mjolnir_09,198,297	monster	紅菇	1085,1,180000,90000
-mjolnir_09,73,122	monster	紅菇	1085,1,180000,90000
-mjolnir_09,89,141	monster	紅菇	1085,1,180000,90000
-mjolnir_09,120,126	monster	紅菇	1085,1,180000,90000
-mjolnir_09,139,84	monster	紅菇	1085,1,180000,90000
-mjolnir_09,125,82	monster	紅菇	1085,1,180000,90000
+mjolnir_09,0,0	monster	~ 	1104,10
+mjolnir_09,0,0	monster	��	1174,20
+mjolnir_09,0,0	monster	lb�	1128,70
+mjolnir_09,0,0	monster	��)	1031,20
+mjolnir_09,0,0	monster	�	1013,30
+mjolnir_09,205,352	monster	�	1085,1,180000,90000
+mjolnir_09,199,344	monster	�	1085,1,180000,90000
+mjolnir_09,210,331	monster	�	1085,1,180000,90000
+mjolnir_09,204,321	monster	�	1085,1,180000,90000
+mjolnir_09,212,312	monster	�	1085,1,180000,90000
+mjolnir_09,198,297	monster	�	1085,1,180000,90000
+mjolnir_09,73,122	monster	�	1085,1,180000,90000
+mjolnir_09,89,141	monster	�	1085,1,180000,90000
+mjolnir_09,120,126	monster	�	1085,1,180000,90000
+mjolnir_09,139,84	monster	�	1085,1,180000,90000
+mjolnir_09,125,82	monster	�	1085,1,180000,90000
 
 //==================================================
 // mjolnir_10 - Mt.Mjolnir
 //==================================================
-mjolnir_10,0,0	monster	螳螂	1139,20
-mjolnir_10,0,0	monster	噬人花	1118,30
-mjolnir_10,0,0	monster	艾斯蜘蛛	1100,60
-mjolnir_10,0,0	monster	波波利	1031,20
-mjolnir_10,0,0	monster	畢帝特地龍	1155,10
-mjolnir_10,123,331,10,10	monster	光芒草	1083,1,1800000,900000
-mjolnir_10,0,0	monster	綠草	1080,10,180000,90000
+mjolnir_10,0,0	monster	��	1139,20
+mjolnir_10,0,0	monster	l��	1118,30
+mjolnir_10,0,0	monster	~��	1100,60
+mjolnir_10,0,0	monster	��)	1031,20
+mjolnir_10,0,0	monster	by0�	1155,10
+mjolnir_10,123,331,10,10	monster	I�I	1083,1,1800000,900000
+mjolnir_10,0,0	monster	�I	1080,10,180000,90000
 
 //==================================================
 // mjolnir_11 - Mt.Mjolnir
 //==================================================
-mjolnir_11,0,0	monster	艾吉歐蜈蚣	1099,10
-mjolnir_11,0,0	monster	曼陀羅魔花	1020,50
-mjolnir_11,0,0	monster	噬人花	1118,60
-mjolnir_11,0,0	monster	波波利	1031,10
-mjolnir_11,0,0	monster	瑪勒盜蟲	1054,30
-mjolnir_11,112,276	monster	綠草	1080,1,180000,90000
-mjolnir_11,159,283	monster	綠草	1080,1,180000,90000
-mjolnir_11,116,240	monster	綠草	1080,1,180000,90000
-mjolnir_11,146,215	monster	綠草	1080,1,180000,90000
-mjolnir_11,145,177	monster	綠草	1080,1,180000,90000
-mjolnir_11,129,135	monster	綠草	1080,1,180000,90000
-mjolnir_11,126,93	monster	藍草	1079,1,360000,180000
-mjolnir_11,197,123	monster	綠草	1080,1,180000,90000
-mjolnir_11,198,210	monster	綠草	1080,1,180000,90000
-mjolnir_11,231,277	monster	綠草	1080,1,180000,90000
-mjolnir_11,332,327	monster	藍草	1079,1,360000,180000
-mjolnir_11,282,300	monster	綠草	1080,1,180000,90000
-mjolnir_11,295,271	monster	綠草	1080,1,180000,90000
+mjolnir_11,0,0	monster	~	P�	1099,10
+mjolnir_11,0,0	monster	�@�T�	1020,50
+mjolnir_11,0,0	monster	l��	1118,60
+mjolnir_11,0,0	monster	��)	1031,10
+mjolnir_11,0,0	monster	j���	1054,30
+mjolnir_11,112,276	monster	�I	1080,1,180000,90000
+mjolnir_11,159,283	monster	�I	1080,1,180000,90000
+mjolnir_11,116,240	monster	�I	1080,1,180000,90000
+mjolnir_11,146,215	monster	�I	1080,1,180000,90000
+mjolnir_11,145,177	monster	�I	1080,1,180000,90000
+mjolnir_11,129,135	monster	�I	1080,1,180000,90000
+mjolnir_11,126,93	monster	�I	1079,1,360000,180000
+mjolnir_11,197,123	monster	�I	1080,1,180000,90000
+mjolnir_11,198,210	monster	�I	1080,1,180000,90000
+mjolnir_11,231,277	monster	�I	1080,1,180000,90000
+mjolnir_11,332,327	monster	�I	1079,1,360000,180000
+mjolnir_11,282,300	monster	�I	1080,1,180000,90000
+mjolnir_11,295,271	monster	�I	1080,1,180000,90000
 
 //==================================================
 // mjolnir_12 - Mt.Mjolnir
 //==================================================
-mjolnir_12,0,0	monster	灰森靈	1215,20
-mjolnir_12,0,0	monster	獵蠅	1114,50
-mjolnir_12,0,0	monster	浮勒盜蟲	1053,20
+mjolnir_12,0,0	monster	p�H	1215,20
+mjolnir_12,0,0	monster	u	1114,50
+mjolnir_12,0,0	monster	n���	1053,20

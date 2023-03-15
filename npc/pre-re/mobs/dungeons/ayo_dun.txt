@@ -17,15 +17,17 @@
 //==================================================
 // ayo_dun01 - Ancient Shrine Maze
 //==================================================
-ayo_dun01,0,0	monster	群葉貓	1586,65
-ayo_dun01,0,0	monster	白幽靈	1179,10
-ayo_dun01,0,0	monster	克萊本	1587,5
-ayo_dun01,0,0	monster	綠腐屍	1036,30
+ayo_dun01,0,0	monster	�I�	1586,65
+ayo_dun01,0,0	monster	}}H	1179,10
+ayo_dun01,0,0	monster	K
+,	1587,5
+ayo_dun01,0,0	monster	�PM	1036,30
 
 //==================================================
 // ayo_dun02 - Inside Ancient Shrine
 //==================================================
-ayo_dun02,0,0	monster	塔嚕安	1584,100
-ayo_dun02,0,0	monster	白幽靈	1179,20
-ayo_dun02,0,0	monster	克萊本	1587,20
-ayo_dun02,150,90,15,30	boss_monster	嗒妮小姐	1688,1,25200000,600000,0
+ayo_dun02,0,0	monster	T��	1584,100
+ayo_dun02,0,0	monster	}}H	1179,20
+ayo_dun02,0,0	monster	K
+,	1587,20
+ayo_dun02,150,90,15,30	boss_monster	Ү�	1688,1,25200000,600000,0

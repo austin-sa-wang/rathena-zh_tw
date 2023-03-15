@@ -13,9 +13,9 @@
 //==================================================
 // nyd_dun01 - Yggdrasil Root Dungeon
 //==================================================
-nyd_dun01,0,0	monster	暴躁龍	2013,40
-nyd_dun01,0,0	monster	暴躁龍蛋	2014,10
-nyd_dun01,0,0	monster	水精靈	2016,20
-nyd_dun01,0,0	monster	黑暗捕蟲堇妖	2015,10
-nyd_dun01,0,0	monster	刷尾負鼠	2017,2,900000
-nyd_dun01,0,0	monster	杜尼爾	2018,2,900000
+nyd_dun01,0,0	monster	���	2013,40
+nyd_dun01,0,0	monster	����	2014,10
+nyd_dun01,0,0	monster	4�H	2016,20
+nyd_dun01,0,0	monster	їU��	2015,10
+nyd_dun01,0,0	monster	7>� 	2017,2,900000
+nyd_dun01,0,0	monster	\<>	2018,2,900000

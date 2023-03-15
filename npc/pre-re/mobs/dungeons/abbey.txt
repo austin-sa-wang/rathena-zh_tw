@@ -13,117 +13,117 @@
 //============================================================
 
 // Nameless Island
-nameless_n,93,211,51,62	monster	屠殺腐屍	1864,3,15000
-nameless_n,93,211,51,62	monster	襤褸腐屍	1865,3,15000
-nameless_n,93,211,51,62	monster	地獄貴賓狗	1866,5,15000
-nameless_n,93,211,51,62	monster	惡耗女妖	1867,4,15000
-nameless_n,93,211,51,62	monster	火焰骷髏頭	1869,1,30000
-nameless_n,93,211,51,62	monster	綠腐屍	1036,10,30000
-nameless_n,204,225,57,70	monster	屠殺腐屍	1864,5,15000
-nameless_n,204,225,57,70	monster	襤褸腐屍	1865,5,15000
-nameless_n,204,225,57,70	monster	地獄貴賓狗	1866,5,15000
-nameless_n,204,225,57,70	monster	惡耗女妖	1867,4,15000
-nameless_n,204,225,57,70	monster	火焰骷髏頭	1869,1,30000
-nameless_n,204,225,57,70	monster	綠腐屍	1036,10,30000
-nameless_n,127,103,59,46	monster	屠殺腐屍	1864,2,15000
-nameless_n,127,103,59,46	monster	襤褸腐屍	1865,2,15000
-nameless_n,127,103,59,46	monster	地獄貴賓狗	1866,5,15000
-nameless_n,127,103,59,46	monster	惡耗女妖	1867,4,15000
-nameless_n,127,103,59,46	monster	火焰骷髏頭	1869,1,30000
-nameless_n,127,103,59,46	monster	綠腐屍	1036,10,30000
-nameless_n,234,95,40,58	monster	屠殺腐屍	1864,2,15000
-nameless_n,234,95,40,58	monster	襤褸腐屍	1865,2,15000
-nameless_n,234,95,40,58	monster	地獄貴賓狗	1866,2,15000
-nameless_n,234,95,40,58	monster	惡耗女妖	1867,4,15000
-nameless_n,234,95,40,58	monster	綠腐屍	1036,10,30000
+nameless_n,93,211,51,62	monster	`�PM	1864,3,15000
+nameless_n,93,211,51,62	monster	d8PM	1865,3,15000
+nameless_n,93,211,51,62	monster	0D���	1866,5,15000
+nameless_n,93,211,51,62	monster	�s�	1867,4,15000
+nameless_n,93,211,51,62	monster	k0��-	1869,1,30000
+nameless_n,93,211,51,62	monster	�PM	1036,10,30000
+nameless_n,204,225,57,70	monster	`�PM	1864,5,15000
+nameless_n,204,225,57,70	monster	d8PM	1865,5,15000
+nameless_n,204,225,57,70	monster	0D���	1866,5,15000
+nameless_n,204,225,57,70	monster	�s�	1867,4,15000
+nameless_n,204,225,57,70	monster	k0��-	1869,1,30000
+nameless_n,204,225,57,70	monster	�PM	1036,10,30000
+nameless_n,127,103,59,46	monster	`�PM	1864,2,15000
+nameless_n,127,103,59,46	monster	d8PM	1865,2,15000
+nameless_n,127,103,59,46	monster	0D���	1866,5,15000
+nameless_n,127,103,59,46	monster	�s�	1867,4,15000
+nameless_n,127,103,59,46	monster	k0��-	1869,1,30000
+nameless_n,127,103,59,46	monster	�PM	1036,10,30000
+nameless_n,234,95,40,58	monster	`�PM	1864,2,15000
+nameless_n,234,95,40,58	monster	d8PM	1865,2,15000
+nameless_n,234,95,40,58	monster	0D���	1866,2,15000
+nameless_n,234,95,40,58	monster	�s�	1867,4,15000
+nameless_n,234,95,40,58	monster	�PM	1036,10,30000
 
 // Cursed Abbey Dungeon 1
-abbey01,0,0	monster	惡耗女妖	1867,30
-abbey01,97,270,87,87	monster	惡耗女妖	1867,30
-abbey01,97,270,87,87	monster	地獄貴賓狗	1866,15
-abbey01,97,270,87,87	monster	屠殺腐屍	1864,10
-abbey01,97,270,87,87	monster	襤褸腐屍	1865,10
-abbey01,97,270,87,87	monster	火焰骷髏頭	1869,9
-abbey01,97,270,87,87	monster	綠腐屍	1036,10
-abbey01,250,370,49,50	monster	惡耗女妖	1867,3
-abbey01,250,370,49,50	monster	地獄貴賓狗	1866,2
-abbey01,250,370,49,50	monster	屠殺腐屍	1864,3
-abbey01,250,370,49,50	monster	襤褸腐屍	1865,3
-abbey01,250,370,49,50	monster	火焰骷髏頭	1869,2
-abbey01,250,370,49,50	monster	綠腐屍	1036,4
-abbey01,374,207,39,100	monster	惡耗女妖	1867,3
-abbey01,374,207,39,100	monster	地獄貴賓狗	1866,1
-abbey01,374,207,39,100	monster	屠殺腐屍	1864,1
-abbey01,374,207,39,100	monster	襤褸腐屍	1865,2
-abbey01,374,207,39,100	monster	火焰骷髏頭	1869,1
-abbey01,374,207,39,100	monster	綠腐屍	1036,4
-abbey01,283,283,99,100	monster	惡耗女妖	1867,10
-abbey01,283,283,99,100	monster	地獄貴賓狗	1866,5
-abbey01,283,283,99,100	monster	屠殺腐屍	1864,7
-abbey01,283,283,99,100	monster	襤褸腐屍	1865,7
-abbey01,283,283,99,100	monster	火焰骷髏頭	1869,3
-abbey01,283,283,99,100	monster	綠腐屍	1036,10
-abbey01,71,67,64,58	monster	惡耗女妖	1867,3
-abbey01,71,67,64,58	monster	屠殺腐屍	1864,3
-abbey01,71,67,64,58	monster	襤褸腐屍	1865,3
-abbey01,71,67,64,58	monster	火焰骷髏頭	1869,1
-abbey01,71,67,64,58	monster	綠腐屍	1036,10
-abbey01,71,67,64,58	monster	屠殺腐屍	1864,4
-abbey01,71,67,64,58	monster	襤褸腐屍	1865,4
-abbey01,71,67,64,58	monster	火焰骷髏頭	1869,3
-abbey01,71,67,64,58	monster	綠腐屍	1036,10
-abbey01,260,70,35,30	monster	惡耗女妖	1867,7
-abbey01,260,70,35,30	monster	地獄貴賓狗	1866,1
-abbey01,260,70,35,30	monster	屠殺腐屍	1864,1
-abbey01,260,70,35,30	monster	襤褸腐屍	1865,2
-abbey01,260,70,35,30	monster	火焰骷髏頭	1869,1
-abbey01,260,70,35,30	monster	綠腐屍	1036,4
-abbey01,260,100,35,30	monster	惡耗女妖	1867,7
-abbey01,260,100,35,30	monster	地獄貴賓狗	1866,1
-abbey01,260,100,35,30	monster	屠殺腐屍	1864,1
-abbey01,260,100,35,30	monster	襤褸腐屍	1865,2
-abbey01,260,100,35,30	monster	火焰骷髏頭	1869,1
-abbey01,260,100,35,30	monster	綠腐屍	1036,4
+abbey01,0,0	monster	�s�	1867,30
+abbey01,97,270,87,87	monster	�s�	1867,30
+abbey01,97,270,87,87	monster	0D���	1866,15
+abbey01,97,270,87,87	monster	`�PM	1864,10
+abbey01,97,270,87,87	monster	d8PM	1865,10
+abbey01,97,270,87,87	monster	k0��-	1869,9
+abbey01,97,270,87,87	monster	�PM	1036,10
+abbey01,250,370,49,50	monster	�s�	1867,3
+abbey01,250,370,49,50	monster	0D���	1866,2
+abbey01,250,370,49,50	monster	`�PM	1864,3
+abbey01,250,370,49,50	monster	d8PM	1865,3
+abbey01,250,370,49,50	monster	k0��-	1869,2
+abbey01,250,370,49,50	monster	�PM	1036,4
+abbey01,374,207,39,100	monster	�s�	1867,3
+abbey01,374,207,39,100	monster	0D���	1866,1
+abbey01,374,207,39,100	monster	`�PM	1864,1
+abbey01,374,207,39,100	monster	d8PM	1865,2
+abbey01,374,207,39,100	monster	k0��-	1869,1
+abbey01,374,207,39,100	monster	�PM	1036,4
+abbey01,283,283,99,100	monster	�s�	1867,10
+abbey01,283,283,99,100	monster	0D���	1866,5
+abbey01,283,283,99,100	monster	`�PM	1864,7
+abbey01,283,283,99,100	monster	d8PM	1865,7
+abbey01,283,283,99,100	monster	k0��-	1869,3
+abbey01,283,283,99,100	monster	�PM	1036,10
+abbey01,71,67,64,58	monster	�s�	1867,3
+abbey01,71,67,64,58	monster	`�PM	1864,3
+abbey01,71,67,64,58	monster	d8PM	1865,3
+abbey01,71,67,64,58	monster	k0��-	1869,1
+abbey01,71,67,64,58	monster	�PM	1036,10
+abbey01,71,67,64,58	monster	`�PM	1864,4
+abbey01,71,67,64,58	monster	d8PM	1865,4
+abbey01,71,67,64,58	monster	k0��-	1869,3
+abbey01,71,67,64,58	monster	�PM	1036,10
+abbey01,260,70,35,30	monster	�s�	1867,7
+abbey01,260,70,35,30	monster	0D���	1866,1
+abbey01,260,70,35,30	monster	`�PM	1864,1
+abbey01,260,70,35,30	monster	d8PM	1865,2
+abbey01,260,70,35,30	monster	k0��-	1869,1
+abbey01,260,70,35,30	monster	�PM	1036,4
+abbey01,260,100,35,30	monster	�s�	1867,7
+abbey01,260,100,35,30	monster	0D���	1866,1
+abbey01,260,100,35,30	monster	`�PM	1864,1
+abbey01,260,100,35,30	monster	d8PM	1865,2
+abbey01,260,100,35,30	monster	k0��-	1869,1
+abbey01,260,100,35,30	monster	�PM	1036,4
 
 // Cursed Abbey Dungeon 2
-abbey02,150,66,36,64	monster	屠殺腐屍	1864,30,60000
-abbey02,150,66,36,64	monster	襤褸腐屍	1865,10
-abbey02,150,66,36,64	monster	火焰骷髏頭	1869,3
-abbey02,150,66,36,64	monster	行妖術者	1870,1
-abbey02,67,75,46,54	monster	屠殺腐屍	1864,30,124000
-abbey02,67,75,46,54	monster	襤褸腐屍	1865,10
-abbey02,67,75,46,54	monster	火焰骷髏頭	1869,3
-abbey02,67,75,46,54	monster	行妖術者	1870,1
-abbey02,232,76,46,54	monster	屠殺腐屍	1864,30,63000
-abbey02,232,76,46,54	monster	襤褸腐屍	1865,10
-abbey02,232,76,46,54	monster	火焰骷髏頭	1869,3
-abbey02,232,76,46,54	monster	行妖術者	1870,1
-abbey02,236,78,21,18	boss_monster	墮落大神官 悉潘	1871,1,7200000,600000,1
-abbey02,150,153,142,23	monster	屠殺腐屍	1864,30,122000
-abbey02,150,153,142,23	monster	襤褸腐屍	1865,10
-abbey02,150,153,142,23	monster	火焰骷髏頭	1869,3
-abbey02,150,153,142,23	monster	行妖術者	1870,1
-abbey02,68,220,46,58	monster	屠殺腐屍	1864,30,6000
-abbey02,68,220,46,58	monster	襤褸腐屍	1865,10
-abbey02,68,220,46,58	monster	火焰骷髏頭	1869,3
-abbey02,68,220,46,58	monster	行妖術者	1870,1
-abbey02,150,240,35,44	monster	屠殺腐屍	1864,30,120000
-abbey02,150,240,35,44	monster	襤褸腐屍	1865,10
-abbey02,150,240,35,44	monster	火焰骷髏頭	1869,3
-abbey02,150,240,35,44	monster	行妖術者	1870,1
-abbey02,232,220,46,58	monster	屠殺腐屍	1864,30,60000
-abbey02,232,220,46,58	monster	襤褸腐屍	1865,10
-abbey02,232,220,46,58	monster	火焰骷髏頭	1869,3
-abbey02,232,220,46,58	monster	行妖術者	1870,1
+abbey02,150,66,36,64	monster	`�PM	1864,30,60000
+abbey02,150,66,36,64	monster	d8PM	1865,10
+abbey02,150,66,36,64	monster	k0��-	1869,3
+abbey02,150,66,36,64	monster	L�S	1870,1
+abbey02,67,75,46,54	monster	`�PM	1864,30,124000
+abbey02,67,75,46,54	monster	d8PM	1865,10
+abbey02,67,75,46,54	monster	k0��-	1869,3
+abbey02,67,75,46,54	monster	L�S	1870,1
+abbey02,232,76,46,54	monster	`�PM	1864,30,63000
+abbey02,232,76,46,54	monster	d8PM	1865,10
+abbey02,232,76,46,54	monster	k0��-	1869,3
+abbey02,232,76,46,54	monster	L�S	1870,1
+abbey02,236,78,21,18	boss_monster	�='^� �X	1871,1,7200000,600000,1
+abbey02,150,153,142,23	monster	`�PM	1864,30,122000
+abbey02,150,153,142,23	monster	d8PM	1865,10
+abbey02,150,153,142,23	monster	k0��-	1869,3
+abbey02,150,153,142,23	monster	L�S	1870,1
+abbey02,68,220,46,58	monster	`�PM	1864,30,6000
+abbey02,68,220,46,58	monster	d8PM	1865,10
+abbey02,68,220,46,58	monster	k0��-	1869,3
+abbey02,68,220,46,58	monster	L�S	1870,1
+abbey02,150,240,35,44	monster	`�PM	1864,30,120000
+abbey02,150,240,35,44	monster	d8PM	1865,10
+abbey02,150,240,35,44	monster	k0��-	1869,3
+abbey02,150,240,35,44	monster	L�S	1870,1
+abbey02,232,220,46,58	monster	`�PM	1864,30,60000
+abbey02,232,220,46,58	monster	d8PM	1865,10
+abbey02,232,220,46,58	monster	k0��-	1869,3
+abbey02,232,220,46,58	monster	L�S	1870,1
 
 // Cursed Abbey Dungeon 3
-abbey03,0,0,0,0	boss_monster	詛咒蠅	1873,1,43200000,600000,1
-abbey03,120,212,116,24	monster	行妖術者	1870,10
-abbey03,120,212,116,24	monster	惡耗女妖	1867,10
-abbey03,120,212,116,24	monster	火焰骷髏頭	1869,5
-abbey03,122,152,111,36	monster	行妖術者	1870,20
-abbey03,122,152,111,36	monster	惡耗女妖	1867,10
-abbey03,122,152,111,36	monster	火焰骷髏頭	1869,10
-abbey03,120,64,117,53	monster	行妖術者	1870,30
-abbey03,120,64,117,53	monster	惡耗女妖	1867,10
-abbey03,120,64,117,53	monster	火焰骷髏頭	1869,10
+abbey03,0,0,0,0	boss_monster	[�	1873,1,43200000,600000,1
+abbey03,120,212,116,24	monster	L�S	1870,10
+abbey03,120,212,116,24	monster	�s�	1867,10
+abbey03,120,212,116,24	monster	k0��-	1869,5
+abbey03,122,152,111,36	monster	L�S	1870,20
+abbey03,122,152,111,36	monster	�s�	1867,10
+abbey03,122,152,111,36	monster	k0��-	1869,10
+abbey03,120,64,117,53	monster	L�S	1870,30
+abbey03,120,64,117,53	monster	�s�	1867,10
+abbey03,120,64,117,53	monster	k0��-	1869,10

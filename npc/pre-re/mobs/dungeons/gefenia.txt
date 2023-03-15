@@ -17,58 +17,58 @@
 //==================================================
 // gefenia01 - Geffenia
 //==================================================
-gefenia01,0,0	monster	偽天使	1371,60
-gefenia01,0,0	monster	惡魔女僕	1370,10
-gefenia01,0,0	monster	惡魔侍者	1374,10
-gefenia01,0,0	monster	薇歐莉	1390,30
-gefenia01,0,0	monster	狂暴小惡魔	1292,20
-gefenia01,0,0	monster	深淵騎士	1219,10
-gefenia01,0,0	monster	血腥騎士	1268,1,3600000,3000000
-gefenia01,0,0	monster	弒神者	1203,1,10800000,7200000
-gefenia01,0,0	monster	行刑者	1205,1,18000000,14400000
-gefenia01,0,0	monster	獸牙怪	1204,1,18000000,14400000
+gefenia01,0,0	monster	})	1371,60
+gefenia01,0,0	monster	�Ts�	1370,10
+gefenia01,0,0	monster	�T�	1374,10
+gefenia01,0,0	monster	�P�	1390,30
+gefenia01,0,0	monster	´�T	1292,20
+gefenia01,0,0	monster	���	1219,10
+gefenia01,0,0	monster	@e�	1268,1,3600000,3000000
+gefenia01,0,0	monster	^	1203,1,10800000,7200000
+gefenia01,0,0	monster	L	1205,1,18000000,14400000
+gefenia01,0,0	monster	xY*	1204,1,18000000,14400000
 
 //==================================================
 // gefenia02 - Geffenia
 //==================================================
-gefenia02,0,0	monster	偽天使	1371,30
-gefenia02,0,0	monster	惡魔女僕	1370,20
-gefenia02,0,0	monster	惡魔侍者	1374,10
-gefenia02,0,0	monster	薇歐莉	1390,40
-gefenia02,0,0	monster	狂暴小惡魔	1292,30
-gefenia02,0,0	monster	深淵騎士	1219,10
-gefenia02,0,0	monster	血腥騎士	1268,1,3600000,3000000
-gefenia02,0,0	monster	弒神者	1203,1,18000000,14400000
-gefenia02,0,0	monster	行刑者	1205,1,18000000,14400000
-gefenia02,0,0	monster	獸牙怪	1204,1,10800000,7200000
+gefenia02,0,0	monster	})	1371,30
+gefenia02,0,0	monster	�Ts�	1370,20
+gefenia02,0,0	monster	�T�	1374,10
+gefenia02,0,0	monster	�P�	1390,40
+gefenia02,0,0	monster	´�T	1292,30
+gefenia02,0,0	monster	���	1219,10
+gefenia02,0,0	monster	@e�	1268,1,3600000,3000000
+gefenia02,0,0	monster	^	1203,1,18000000,14400000
+gefenia02,0,0	monster	L	1205,1,18000000,14400000
+gefenia02,0,0	monster	xY*	1204,1,10800000,7200000
 
 //==================================================
 // gefenia03 - Geffenia
 //==================================================
-gefenia03,0,0	monster	偽天使	1371,40
-gefenia03,0,0	monster	惡魔女僕	1370,10
-gefenia03,0,0	monster	惡魔侍者	1374,20
-gefenia03,0,0	monster	薇歐莉	1390,40
-gefenia03,0,0	monster	狂暴小惡魔	1292,30
-gefenia03,0,0	monster	深淵騎士	1219,10
-gefenia03,0,0	monster	血腥騎士	1268,1,3600000,3000000
-gefenia03,0,0	monster	弒神者	1203,1,18000000,14400000
-gefenia03,0,0	monster	行刑者	1205,1,10800000,7200000
-gefenia03,0,0	monster	獸牙怪	1204,1,18000000,14400000
+gefenia03,0,0	monster	})	1371,40
+gefenia03,0,0	monster	�Ts�	1370,10
+gefenia03,0,0	monster	�T�	1374,20
+gefenia03,0,0	monster	�P�	1390,40
+gefenia03,0,0	monster	´�T	1292,30
+gefenia03,0,0	monster	���	1219,10
+gefenia03,0,0	monster	@e�	1268,1,3600000,3000000
+gefenia03,0,0	monster	^	1203,1,18000000,14400000
+gefenia03,0,0	monster	L	1205,1,10800000,7200000
+gefenia03,0,0	monster	xY*	1204,1,18000000,14400000
 
 //==================================================
 // gefenia04 - Geffenia
 //==================================================
-gefenia04,0,0	monster	偽天使	1371,30
-gefenia04,0,0	monster	惡魔女僕	1370,10,600000,300000
-gefenia04,0,0	monster	惡魔侍者	1374,10,600000,300000
-gefenia04,0,0	monster	薇歐莉	1390,30
-gefenia04,0,0	monster	狂暴小惡魔	1292,20
-gefenia04,0,0	monster	深淵騎士	1219,10
-gefenia04,0,0	monster	血腥騎士	1268,1,3600000,3000000
-gefenia04,0,0	monster	弒神者	1203,1,18000000,14400000
-gefenia04,0,0	monster	行刑者	1205,1,18000000,14400000
-gefenia04,0,0	monster	獸牙怪	1204,1,18000000,14400000
+gefenia04,0,0	monster	})	1371,30
+gefenia04,0,0	monster	�Ts�	1370,10,600000,300000
+gefenia04,0,0	monster	�T�	1374,10,600000,300000
+gefenia04,0,0	monster	�P�	1390,30
+gefenia04,0,0	monster	´�T	1292,20
+gefenia04,0,0	monster	���	1219,10
+gefenia04,0,0	monster	@e�	1268,1,3600000,3000000
+gefenia04,0,0	monster	^	1203,1,18000000,14400000
+gefenia04,0,0	monster	L	1205,1,18000000,14400000
+gefenia04,0,0	monster	xY*	1204,1,18000000,14400000
 
 
 //The spawns bellow, are old ones that were used in events.

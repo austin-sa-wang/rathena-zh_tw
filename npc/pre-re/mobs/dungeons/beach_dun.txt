@@ -16,25 +16,25 @@
 //==================================================
 // beach_dun - Karu, the West Cave
 //==================================================
-beach_dun,0,0	monster	米杜沙	1148,60
-beach_dun,0,0	monster	人魚士兵	1264,3,10000,5000
-beach_dun,0,0	monster	奈利蟲	1255,20
-beach_dun,0,0	monster	單眼蟲	1256,20
-beach_dun,0,0,0,0	boss_monster	塔奧群卡	1583,1,18000000,600000,0
+beach_dun,0,0	monster	s\�	1148,60
+beach_dun,0,0	monster	�Z�u	1264,3,10000,5000
+beach_dun,0,0	monster	H)�	1255,20
+beach_dun,0,0	monster	�<�	1256,20
+beach_dun,0,0,0,0	boss_monster	Tg�a	1583,1,18000000,600000,0
 
 //==================================================
 // beach_dun2 - Ruande, the North Cave
 //==================================================
-beach_dun2,0,0	monster	邪惡摩艾	1274,15
-beach_dun2,0,0	monster	奈利蟲	1255,10
-beach_dun2,0,0	monster	鐘乳巨石怪	1278,65,5000
-beach_dun2,0,0	monster	三葉蟲	1279,20
-beach_dun2,0,0	monster	海葵	1068,10
+beach_dun2,0,0	monster	��i~	1274,15
+beach_dun2,0,0	monster	H)�	1255,10
+beach_dun2,0,0	monster	s��*	1278,65,5000
+beach_dun2,0,0	monster		I�	1279,20
+beach_dun2,0,0	monster	wu	1068,10
 
 //==================================================
 // beach_dun3 - Mao, the East Cave
 //==================================================
-beach_dun3,0,0	monster	奈利蟲	1255,1,200000,100000
-beach_dun3,0,0	monster	達拉蛙	1034,50
-beach_dun3,0,0	monster	海葵	1068,30
-beach_dun3,0,0	monster	邪骸食人魚	1064,30
+beach_dun3,0,0	monster	H)�	1255,1,200000,100000
+beach_dun3,0,0	monster	T��	1034,50
+beach_dun3,0,0	monster	wu	1068,30
+beach_dun3,0,0	monster	��ߺZ	1064,30

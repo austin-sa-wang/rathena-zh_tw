@@ -13,29 +13,29 @@
 //==================================================
 // orcsdun01 - Orc Dungeon F1
 //==================================================
-orcsdun01,0,0	monster	綠蒼蠅	1042,10
-orcsdun01,0,0	monster	吸血蝙蝠	1005,15
-orcsdun01,0,0	monster	紅蝙蝠	1111,5
-orcsdun01,0,0	monster	獸人腐屍	1153,10,3000,5000
-orcsdun01,0,0	monster	獸人腐屍	1153,30,60000,30000
-orcsdun01,0,0	monster	獸人腐屍	1153,40,120000,60000
-orcsdun01,0,0	monster	邪骸獸人	1152,10,180000,60000
-orcsdun01,167,133,5,5	monster	黑菇	1084,5,900000,450000
-orcsdun01,67,34,5,5	monster	黑菇	1084,5,900000,450000
-orcsdun01,83,50,5,5	monster	白草	1082,2,180000,90000
-orcsdun01,58,67,10,10	monster	白草	1082,3,180000,90000
+orcsdun01,0,0	monster	��	1042,10
+orcsdun01,0,0	monster	8@Y`	1005,15
+orcsdun01,0,0	monster	Y`	1111,5
+orcsdun01,0,0	monster	x�PM	1153,10,3000,5000
+orcsdun01,0,0	monster	x�PM	1153,30,60000,30000
+orcsdun01,0,0	monster	x�PM	1153,40,120000,60000
+orcsdun01,0,0	monster	��x�	1152,10,180000,60000
+orcsdun01,167,133,5,5	monster	��	1084,5,900000,450000
+orcsdun01,67,34,5,5	monster	��	1084,5,900000,450000
+orcsdun01,83,50,5,5	monster	}I	1082,2,180000,90000
+orcsdun01,58,67,10,10	monster	}I	1082,3,180000,90000
 
 //==================================================
 // orcsdun02 - Orc Dungeon F2
 //==================================================
-orcsdun02,0,0	monster	綠蒼蠅	1042,20
-orcsdun02,0,0	monster	紅蝙蝠	1111,20
-orcsdun02,0,0	monster	邪骸獸人	1152,10,3000,5000
-orcsdun02,0,0	monster	邪骸獸人	1152,20,60000,30000
-orcsdun02,0,0	monster	邪骸獸人	1152,20,120000,60000
-orcsdun02,0,0	monster	茲諾克	1177,30,3000,5000
-orcsdun02,0,0	monster	茲諾克	1177,20,60000,30000
-orcsdun02,0,0	monster	獸人弓箭手	1189,5,1800000,900000
-orcsdun02,0,0	monster	黑菇	1084,5,180000,90000
-orcsdun02,105,37,10,10	monster	白草	1082,2,180000,90000
-orcsdun02,37,44,10,10	monster	白草	1082,3,180000,90000
+orcsdun02,0,0	monster	��	1042,20
+orcsdun02,0,0	monster	Y`	1111,20
+orcsdun02,0,0	monster	��x�	1152,10,3000,5000
+orcsdun02,0,0	monster	��x�	1152,20,60000,30000
+orcsdun02,0,0	monster	��x�	1152,20,120000,60000
+orcsdun02,0,0	monster	2�K	1177,30,3000,5000
+orcsdun02,0,0	monster	2�K	1177,20,60000,30000
+orcsdun02,0,0	monster	x��K	1189,5,1800000,900000
+orcsdun02,0,0	monster	��	1084,5,180000,90000
+orcsdun02,105,37,10,10	monster	}I	1082,2,180000,90000
+orcsdun02,37,44,10,10	monster	}I	1082,3,180000,90000

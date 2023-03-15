@@ -14,40 +14,40 @@
 //==================================================
 // prt_sewb1 - Prontera Culvert F1
 //==================================================
-prt_sewb1,0,0	monster	ç›œèŸ²åµ	1048,80
-prt_sewb1,0,0	monster	ç›œèŸ²	1051,30
-prt_sewb1,0,0	monster	å¸è¡€è™è 	1005,10
-prt_sewb1,0,0	monster	ç™½é¼ 	1175,10
+prt_sewb1,0,0	monster	Üòu	1048,80
+prt_sewb1,0,0	monster	Üò	1051,30
+prt_sewb1,0,0	monster	8@Y`	1005,10
+prt_sewb1,0,0	monster	} 	1175,10
 
 //==================================================
 // prt_sewb2 - Prontera Culvert F2
 //==================================================
-prt_sewb2,0,0	monster	ç›œèŸ²åµ	1048,20
-prt_sewb2,0,0	monster	ç›œèŸ²	1051,70
-prt_sewb2,0,0	monster	å¸è¡€è™è 	1005,10
-prt_sewb2,0,0	monster	é­”è‡	1014,20
-prt_sewb2,0,0	monster	æ¼‚æµ®èŸ²	1161,30
-prt_sewb2,0,0	monster	æµ®å‹’ç›œèŸ²	1053,10
-prt_sewb2,0,0	monster	ç™½é¼ 	1175,60
+prt_sewb2,0,0	monster	Üòu	1048,20
+prt_sewb2,0,0	monster	Üò	1051,70
+prt_sewb2,0,0	monster	8@Y`	1005,10
+prt_sewb2,0,0	monster	TÇ	1014,20
+prt_sewb2,0,0	monster	nò	1161,30
+prt_sewb2,0,0	monster	nÒÜò	1053,10
+prt_sewb2,0,0	monster	} 	1175,60
 
 //==================================================
 // prt_sewb3 - Prontera Culvert F3
 //==================================================
-prt_sewb3,0,0	monster	ç›œèŸ²åµ	1048,10
-prt_sewb3,0,0	monster	ç›œèŸ²	1051,20
-prt_sewb3,0,0	monster	æµ®å‹’ç›œèŸ²	1053,65
-prt_sewb3,0,0	monster	ç‘ªå‹’ç›œèŸ²	1054,65
-prt_sewb3,0,0	monster	ç™½é¼ 	1175,15
-prt_sewb3,0,0	monster	æ¯’é­”è‡	1077,15
-prt_sewb3,0,0	monster	å¸è¡€è™è 	1005,20
+prt_sewb3,0,0	monster	Üòu	1048,10
+prt_sewb3,0,0	monster	Üò	1051,20
+prt_sewb3,0,0	monster	nÒÜò	1053,65
+prt_sewb3,0,0	monster	jÒÜò	1054,65
+prt_sewb3,0,0	monster	} 	1175,15
+prt_sewb3,0,0	monster	ÒTÇ	1077,15
+prt_sewb3,0,0	monster	8@Y`	1005,20
 
 //==================================================
 // prt_sewb4 - Prontera Culvert F4
 //==================================================
-prt_sewb4,0,0	monster	ç›œèŸ²åµ	1048,10
-prt_sewb4,0,0	monster	ç›œèŸ²	1051,20
-prt_sewb4,0,0	monster	æµ®å‹’ç›œèŸ²	1053,20
-prt_sewb4,0,0	monster	ç‘ªå‹’ç›œèŸ²	1054,70
-prt_sewb4,0,0	monster	ç´…è™è 	1111,20
-prt_sewb4,0,0	monster	è—é¼ 	1209,5
-prt_sewb4,0,0,0,0	boss_monster	é»ƒé‡‘èŸ²	1086,1,3600000,600000,1
+prt_sewb4,0,0	monster	Üòu	1048,10
+prt_sewb4,0,0	monster	Üò	1051,20
+prt_sewb4,0,0	monster	nÒÜò	1053,20
+prt_sewb4,0,0	monster	jÒÜò	1054,70
+prt_sewb4,0,0	monster	Y`	1111,20
+prt_sewb4,0,0	monster	Í 	1209,5
+prt_sewb4,0,0,0,0	boss_monster	ÃÑò	1086,1,3600000,600000,1

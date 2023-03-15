@@ -15,50 +15,61 @@
 //==================================================
 // moc_pryd01 - Inside Pyramid F1
 //==================================================
-moc_pryd01,0,0	monster	吸血蝙蝠	1005,50
-moc_pryd01,0,0	monster	波波利	1031,20
+moc_pryd01,0,0	monster	8@Y`	1005,50
+moc_pryd01,0,0	monster	��)	1031,20
 
 //==================================================
 // moc_pryd02 - Inside Pyramid F2
 //==================================================
-moc_pryd02,0,0	monster	波波利	1031,20
-moc_pryd02,0,0	monster	紅蝙蝠	1111,20
-moc_pryd02,0,0	monster	木乃伊	1041,30
-moc_pryd02,0,0	monster	蛇女伊絲	1029,5
-moc_pryd02,0,0	monster	邪骸士兵	1028,30
-moc_pryd02,0,0	monster	邪骸弓箭手	1016,30
+moc_pryd02,0,0	monster	��)	1031,20
+moc_pryd02,0,0	monster	Y`	1111,20
+moc_pryd02,0,0	monster	(C
+	1041,30
+moc_pryd02,0,0	monster	�s
+r	1029,5
+moc_pryd02,0,0	monster	���u	1028,30
+moc_pryd02,0,0	monster	���K	1016,30
 
 //==================================================
 // moc_pryd03 - Inside Pyramid F3
 //==================================================
-moc_pryd03,0,0	monster	紅蝙蝠	1111,5
-moc_pryd03,0,0	monster	邪惡箱	1191,5
-moc_pryd03,0,0	monster	黑狐	1146,10
-moc_pryd03,0,0	monster	木乃伊	1041,70
-moc_pryd03,0,0	monster	畢萊特	1032,20,600000,300000
+moc_pryd03,0,0	monster	Y`	1111,5
+moc_pryd03,0,0	monster	��	1191,5
+moc_pryd03,0,0	monster	��	1146,10
+moc_pryd03,0,0	monster	(C
+	1041,70
+moc_pryd03,0,0	monster	b
+y	1032,20,600000,300000
 
 //==================================================
 // moc_pryd04 - Inside Pyramid F4
 //==================================================
-moc_pryd04,0,0	monster	木乃伊	1041,25
-moc_pryd04,0,0	monster	狂暴木乃伊	1297,3
-moc_pryd04,0,0	monster	蛇女伊絲	1029,50,150000,75000
-moc_pryd04,0,0	monster	邪惡箱	1191,15,600000,300000
-moc_pryd04,0,0,0,0	boss_monster	俄塞里斯	1038,1,3600000,600000,0
-moc_pryd04,0,0	monster	黑狐	1146,20
+moc_pryd04,0,0	monster	(C
+	1041,25
+moc_pryd04,0,0	monster	´(C
+	1297,3
+moc_pryd04,0,0	monster	�s
+r	1029,50,150000,75000
+moc_pryd04,0,0	monster	��	1191,15,600000,300000
+moc_pryd04,0,0,0,0	boss_monster	�^̯	1038,1,3600000,600000,0
+moc_pryd04,0,0	monster	��	1146,20
 
 //==================================================
 // moc_pryd05 - Inside Pyramid B1
 //==================================================
-moc_pryd05,0,0	monster	米洛斯	1149,60
-moc_pryd05,0,0	monster	木乃伊	1041,10
-moc_pryd05,0,0	monster	畢萊特	1032,50
+moc_pryd05,0,0	monster	s�	1149,60
+moc_pryd05,0,0	monster	(C
+	1041,10
+moc_pryd05,0,0	monster	b
+y	1032,50
 
 //==================================================
 // moc_pryd06 - Inside Pyramid B2
 //==================================================
-moc_pryd06,0,0	monster	畢萊特	1032,10
-moc_pryd06,0,0	monster	捲甲蟲	1194,20
-moc_pryd06,100,90,80,50	monster	狂暴木乃伊	1297,20
-moc_pryd06,100,90,80,50	monster	邪惡箱	1191,20
-moc_pryd06,102,85,1,1	boss_monster	古埃及王	1511,1,3600000,600000,0
+moc_pryd06,0,0	monster	b
+y	1032,10
+moc_pryd06,0,0	monster	r2�	1194,20
+moc_pryd06,100,90,80,50	monster	´(C
+	1297,20
+moc_pryd06,100,90,80,50	monster	��	1191,20
+moc_pryd06,102,85,1,1	boss_monster	��ʋ	1511,1,3600000,600000,0

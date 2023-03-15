@@ -13,10 +13,10 @@
 //==================================================
 // gon_fild01 - Kunlun Field
 //==================================================
-gon_fild01,0,0	monster	å°èŠ±è±¹	1415,40,600000,300000
-gon_fild01,0,0	monster	æ‹‰éŠç†Š	1417,20
-gon_fild01,0,0	monster	æ³¢æ³¢åˆ©	1031,20
-gon_fild01,0,0	monster	å…ƒå®µç«¥å­	1409,30
-gon_fild01,0,0	monster	äººè”˜ç²¾	1413,2,630000,330000
-gon_fild01,0,0	monster	ç¶ è‰	1080,5
-gon_fild01,0,0	monster	å…‰èŠ’è‰	1083,1
+gon_fild01,0,0	monster	±y	1415,40,600000,300000
+gon_fild01,0,0	monster	ÉJŠ	1417,20
+gon_fild01,0,0	monster	ââ)	1031,20
+gon_fild01,0,0	monster	CµåP	1409,30
+gon_fild01,0,0	monster	º¾	1413,2,630000,330000
+gon_fild01,0,0	monster	 I	1080,5
+gon_fild01,0,0	monster	I’I	1083,1
