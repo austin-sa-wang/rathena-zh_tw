@@ -218,7 +218,7 @@ lhz_dun03,139,117,20,11	monster	神射手 迪文	1644,1,2700000,2500000
 lhz_dun03,138,138,36,34	monster	神官 瑪嘉雷特	1643,1,3300000,3000000
 lhz_dun03,138,138,36,34	monster	超魔導師 凱特莉娜	1645,1,2580000,2460000
 
-lhz_dun03,2,2,0	script		-1,{
+lhz_dun03,2,2,0	script	summon_boss_lt	-1,{
 OnInit:
 	initnpctimer;
 	end;

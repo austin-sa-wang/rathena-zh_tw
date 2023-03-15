@@ -54,7 +54,7 @@ niflheim,0,0	monster	兔斯拉	1510,10,1200000,600000
 niflheim,0,0	monster	萬聖魔	1508,20,300000,150000
 niflheim,0,0	monster	南瓜魂	1509,20,300000,150000
 
-niflheim,1,1,0	script		-1,{
+niflheim,1,1,0	script	NifInvasion	-1,{
 OnInit:
 
 	while(1)
