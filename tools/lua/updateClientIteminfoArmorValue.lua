@@ -5,14 +5,13 @@
 
 -- Load required modules
 local json = require("lunajson")
-local serpent = require("serpent")
 
 -- Load the iteminfo table
 local iteminfo = require("iteminfo-TW_utf8")
 
 -- Set the input and output file paths
-local itemDbArmorIdDefPath = "rathena-zh_tw/database/item_db-prerenewal-armor-def-dict.json"
-local outputIteminfoPath = "rathena-zh_tw/client/iteminfo-prerenewal-TW_utf8.lua"
+local itemDbArmorIdDefPath = "../../database/item_db-prerenewal-armor-def-dict.json"
+local outputIteminfoPath = "../output/iteminfo-prerenewal-TW_utf8.lua"
 
 -- Open the armor ID and defense value JSON file for reading
 local armorIdDefDictionaryFile = io.open(itemDbArmorIdDefPath, "r")
@@ -64,18 +63,40 @@ end
 print('Updated IDs:', json.encode(updated_ids))
 print("Missing IDs:", json.encode(missing_ids))
 
--- Open the output file for writing
-local outFile = io.open(outputIteminfoPath, "w", "utf8")
+local itemsFormatted = ""
+for id, item in pairs(iteminfo) do
+  local unidentifiedDesc = ""
+  for _, line in ipairs(item.unidentifiedDescriptionName) do
+    unidentifiedDesc = unidentifiedDesc .. "\n      " .. "[=[" .. line .. "]=]" .. ","
+  end
+  local identifiedDesc = ""
+  for _, line in ipairs(item.identifiedDescriptionName) do
+    identifiedDesc = identifiedDesc .. "\n      " .. "[=[" .. line .. "]=]" .. ","
+  end
 
--- Serialize the updated iteminfo table to Lua code
-local table_str = serpent.block(iteminfo, {comment=false})
+  local itemDefinition = string.format(
+    "  [%d] = {\n    unidentifiedDisplayName = [=[%s]=],\n    unidentifiedResourceName = [=[%s]=],\n    unidentifiedDescriptionName = {%s\n    },\n    identifiedDisplayName = [=[%s]=],\n    identifiedResourceName = [=[%s]=],\n    identifiedDescriptionName = {%s\n    },\n    slotCount = %d,\n    ClassNum = %d,\n  },\n",
+    id,
+    item.unidentifiedDisplayName,
+    item.unidentifiedResourceName,
+    unidentifiedDesc,
+    item.identifiedDisplayName,
+    item.identifiedResourceName,
+    identifiedDesc,
+    item.slotCount,
+    item.ClassNum
+  )
+  itemsFormatted = itemsFormatted .. itemDefinition
+end
 
 -- Prepend with "local tbl = "
-table_str = "local tbl = " .. table_str
+table_str = "local tbl = " .. itemsFormatted
 
 -- Append with "return tbl"
 table_str = table_str .. "\n\nreturn tbl\n"
 
+-- Open the output file for writing
+local outFile = io.open(outputIteminfoPath, "w", "utf8")
 -- Write the updated iteminfo table to the output file
 outFile:write(table_str)
 
