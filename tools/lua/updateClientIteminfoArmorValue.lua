@@ -63,7 +63,7 @@ end
 print('Updated IDs:', json.encode(updated_ids))
 print("Missing IDs:", json.encode(missing_ids))
 
-local itemsFormatted = ""
+local itemsFormatted = "{\n"
 for id, item in pairs(iteminfo) do
   local unidentifiedDesc = ""
   for _, line in ipairs(item.unidentifiedDescriptionName) do
@@ -88,6 +88,7 @@ for id, item in pairs(iteminfo) do
   )
   itemsFormatted = itemsFormatted .. itemDefinition
 end
+itemsFormatted = itemsFormatted .. "\n}"
 
 -- Prepend with "local tbl = "
 table_str = "local tbl = " .. itemsFormatted
