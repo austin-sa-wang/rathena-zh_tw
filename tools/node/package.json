@@ -7,12 +7,14 @@
     "update-name-zh_tw": "node src/update-rathena-mob_db-name-to-zh_tw.mjs",
     "npc-mobs": "node src/translate-mob-spawn-file.mjs",
     "update-mob-spawn-npc-files": "node src/update-rathena-mob-spawn-files.mjs",
-    "translate-iteminfo": "node src/translate-itemifno.mjs"
+    "translate-iteminfo": "node src/translate-itemifno.mjs",
+    "translate-npc": "node src/translate-npc.mjs"
   },
   "dependencies": {
     "fs-extra": "^11.1.0",
     "iconv-lite": "^0.6.3",
     "luaparse": "^0.3.1",
-    "mariadb": "^3.1.0"
+    "mariadb": "^3.1.0",
+    "openai": "^3.2.1"
   }
 }

@@ -1,0 +1,80 @@
+//===== rAthena Script ======================================= 
+//= Mr. Smile Quest
+//===== By: ================================================== 
+//= kobra_k88, Akaru
+//===== Current Version: ===================================== 
+//= 1.4a
+//===== Compatible With: ===================================== 
+//= rAthena Project
+//===== Description: ========================================= 
+//= [Official Conversion]
+//= Trade Clover, Fluff and Jellopy for a Mr. Smile mask.
+//===== Additional Comments: ================================= 
+//= 1.4 Rescripted to Aegis 10.3 standards. [L0ne_W0lf]
+//= 1.4a Fixed a little Typo error in duplicates. (bugreport:749) [Samuray22]
+//============================================================ 
+
+-	script	Smile Assistance::SmileHelper	92,{
+	mes "__translated__[Smile Girl]"
+	mes "__translated__Hi ~ Hi ~ This is Smile Assistance. How may I help you ?"
+	next;
+	switch(select("^3355FFMr. Smile^000000 ?:Construct ^3355FFMr. Smile^000000 :Quit")) {
+	case 1:
+		mes "__translated__[Smile Girl]"
+		mes "__translated__National Event held by the command of ^5577FFHis majesty Tristram the 3rd^000000, that intends to encourage the nation of the Rune-Midgarts Kingdom to play in more enjoyable atmosphere! I am ^3355FF' Smile Assistance '^000000, .. who leads the national event under the name of ^3355FFSmile throughout the Rune-Midgarts Kingdom~^000000"
+		next;
+		mes "__translated__[Smile Girl]"
+		mes "__translated__With simple and easy-to-get items, I can provide you ^3355FF' Mr. Smile '^000000. The requirements are followings."
+		next;
+		mes "__translated__[Smile Girl]"
+		mes "__translated__^3355FF10 Jellopy^000000 ^3355FF10 Fluff^000000 ^3355FF10 Clover^000000"
+		next;
+		mes "__translated__[Smile Girl]"
+		mes "__translated__With this event Everybody will be happy and smile, getting together with other people, And will try to make Ragnarok the most enjoyable game in the world."
+		close;
+	case 2:
+		if (countitem(909) > 9 && countitem(914) > 9 && countitem(705) > 9) {
+			mes "__translated__[Smile Girl]"
+			mes "__translated__Congratulations ! Now please take this Mr.Smile."
+			next;
+			delitem 909,10; //Jellopy
+			delitem 914,10; //Fluff
+			delitem 705,10; //Clover
+			getitem 2278,1; //Mr_Smile
+			mes "__translated__[Smile Girl]"
+			mes "__translated__His majesty,Tristram the 3rd has promised to try his best to make Ragnarok better and more enjoyable."
+			next;
+			mes "__translated__The fact mentioned above was announced by the Public Information Bureau of the Rune-Midgarts Kingom."
+			close;
+		}
+		else {
+			mes "__translated__[Smile Girl]"
+			mes "__translated__Oh - unfortunately You have not brought enough items for Mr. Smile. ^3355FF10 Jellopy^000000 ^3355FF10 Fluff^000000 ^3355FF10 Clover^000000 Please check the requirements above."
+			close;
+		}
+	case 3:
+		mes "__translated__[Smile Girl]"
+		mes "__translated__Thank you for visiting us. We .. The Rune-Midgarts Kingdom always try to make Ragnarok better and more enjoyable game."
+		next;
+		mes "__translated__[Smile Girl]"
+		mes "__translated__We sincerely ask you to cooperate. The fact mentioned above was announced by the Public Information Bureau of the Rune-Midgarts Kingom."
+		close;
+	}
+}
+
+// Additional Smile Assistance staff
+alberta,113,53,4	duplicate(SmileHelper)	Smile Assistance#alb	92
+aldebaran,136,135,4	duplicate(SmileHelper)	Smile Assistance#alde	92
+geffen,119,107,4	duplicate(SmileHelper)	Smile Assistance#gef	92
+moc_ruins,59,154,3	duplicate(SmileHelper)	Smile Assistance#moc	92
+payon,186,104,5	duplicate(SmileHelper)	Smile Assistance#pay	92
+prontera,157,187,4	duplicate(SmileHelper)	Smile Assistance#prt	92
+
+//============================================================ 
+// Old changelog
+//============================================================ 
+//= Fully working. 1.1 Optimized
+//= 1.2 updated Payon coords [Lupus]
+//= 1.3 fixed exploit [Lupus]
+//============================================================ 
+
