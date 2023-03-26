@@ -15,49 +15,49 @@
 //============================================================ 
 
 -	script	Smile Assistance::SmileHelper	92,{
-	mes "__translated__[Smile Girl]"
-	mes "__translated__Hi ~ Hi ~ This is Smile Assistance. How may I help you ?"
+	mes "[微笑女孩]"
+	mes "嗨～嗨～這裡是微笑助理，我能為您效勞嗎？"
 	next;
 	switch(select("^3355FFMr. Smile^000000 ?:Construct ^3355FFMr. Smile^000000 :Quit")) {
 	case 1:
-		mes "__translated__[Smile Girl]"
-		mes "__translated__National Event held by the command of ^5577FFHis majesty Tristram the 3rd^000000, that intends to encourage the nation of the Rune-Midgarts Kingdom to play in more enjoyable atmosphere! I am ^3355FF' Smile Assistance '^000000, .. who leads the national event under the name of ^3355FFSmile throughout the Rune-Midgarts Kingdom~^000000"
+		mes "[微笑女孩]"
+		mes "根據^5577FFTristram III國王^000000的命令舉辦的國家活動，旨在鼓勵Rune-Midgarts王國的國民在更加愉快的氛圍下遊戲！我是名為^3355FF'微笑助理'^000000的人……負責在Rune-Midgarts王國范圍內以^3355FF微笑^000000之名主持此次國家活動。"
 		next;
-		mes "__translated__[Smile Girl]"
-		mes "__translated__With simple and easy-to-get items, I can provide you ^3355FF' Mr. Smile '^000000. The requirements are followings."
+		mes "[微笑女孩]"
+		mes "只要簡單易得的物品，我就能提供給你^3355FF'微笑先生'^000000。需求如下："
 		next;
-		mes "__translated__[Smile Girl]"
-		mes "__translated__^3355FF10 Jellopy^000000 ^3355FF10 Fluff^000000 ^3355FF10 Clover^000000"
+		mes "[微笑女孩]"
+		mes "^3355FF10 傑樂比結晶^000000 ^3355FF10 毛絨絨^000000 ^3355FF10 三葉草^000000"
 		next;
-		mes "__translated__[Smile Girl]"
-		mes "__translated__With this event Everybody will be happy and smile, getting together with other people, And will try to make Ragnarok the most enjoyable game in the world."
+		mes "[微笑女孩]"
+		mes "通過這個活動，每個人都會開心地微笑，與其他人一起玩，並試圖使Ragnarok成為世界上最有趣的遊戲。"
 		close;
 	case 2:
 		if (countitem(909) > 9 && countitem(914) > 9 && countitem(705) > 9) {
-			mes "__translated__[Smile Girl]"
-			mes "__translated__Congratulations ! Now please take this Mr.Smile."
+			mes "[微笑女孩]"
+			mes "恭喜！現在請收下這個微笑先生。"
 			next;
 			delitem 909,10; //Jellopy
 			delitem 914,10; //Fluff
 			delitem 705,10; //Clover
 			getitem 2278,1; //Mr_Smile
-			mes "__translated__[Smile Girl]"
-			mes "__translated__His majesty,Tristram the 3rd has promised to try his best to make Ragnarok better and more enjoyable."
+			mes "[微笑女孩]"
+			mes "Tristram III國王承諾將盡其所能使Ragnarok更好，更有趣。"
 			next;
-			mes "__translated__The fact mentioned above was announced by the Public Information Bureau of the Rune-Midgarts Kingom."
+			mes "上述事實已由Rune-Midgarts王國的公共信息局宣布。"
 			close;
 		}
 		else {
-			mes "__translated__[Smile Girl]"
-			mes "__translated__Oh - unfortunately You have not brought enough items for Mr. Smile. ^3355FF10 Jellopy^000000 ^3355FF10 Fluff^000000 ^3355FF10 Clover^000000 Please check the requirements above."
+			mes "[微笑女孩]"
+			mes "哦，不幸的是，您為微笑先生帶來的物品不夠。^3355FF10 傑樂比^000000 ^3355FF10 毛絨絨^000000 ^3355FF10 三葉草^000000 請檢查上面的要求。"
 			close;
 		}
 	case 3:
-		mes "__translated__[Smile Girl]"
-		mes "__translated__Thank you for visiting us. We .. The Rune-Midgarts Kingdom always try to make Ragnarok better and more enjoyable game."
+		mes "[微笑女孩]"
+		mes "感謝您的光臨。我們…… Rune-Midgarts王國始終致力於使Ragnarok成為更好、更有趣的遊戲。"
 		next;
-		mes "__translated__[Smile Girl]"
-		mes "__translated__We sincerely ask you to cooperate. The fact mentioned above was announced by the Public Information Bureau of the Rune-Midgarts Kingom."
+		mes "[微笑女孩]"
+		mes "我們誠摯地請求您的合作。上述事實已由Rune-Midgarts王國的公共信息局宣布。"
 		close;
 	}
 }

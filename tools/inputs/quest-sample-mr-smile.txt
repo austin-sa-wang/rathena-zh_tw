@@ -37,7 +37,7 @@
 		mes "The requirements are followings.";
 		next;
 		mes "[Smile Girl]";
-		mes "^3355FF10 Jellopy^000000";
+		mes "^3355FF10 傑樂比結晶^000000";
 		mes "^3355FF10 Fluff^000000";
 		mes "^3355FF10 Clover^000000";
 		next;
