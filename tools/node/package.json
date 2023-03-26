@@ -9,7 +9,8 @@
     "update-mob-spawn-npc-files": "node src/update-rathena-mob-spawn-files.mjs",
     "translate-iteminfo": "node src/translate-itemifno.mjs",
     "translate-npc": "node src/translate-npc.mjs",
-    "replace-npc-script-item": "translate-npc-items.mjs"
+    "replace-npc-script-item": "node src/replace-npm-script-item-dir.mjs",
+    "replace-npc-script-item-all": "node src/replace-npm-script-item-dir.mjs"
   },
   "dependencies": {
     "fs-extra": "^11.1.0",
