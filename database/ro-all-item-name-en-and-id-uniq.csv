@@ -1,0 +1,5359 @@
+name_english,id
+Red Potion,501
+Orange Potion,502
+Yellow Potion,503
+White Potion,504
+Blue Potion,505
+Green Potion,506
+Red Herb,507
+Yellow Herb,508
+White Herb,509
+Blue Herb,510
+Green Herb,511
+Apple,512
+Banana,513
+Grape,514
+Carrot,515
+Potato,516
+Meat,517
+Honey,518
+Milk,519
+Hinalle Leaflet,520
+Aloe Leaflet,521
+Mastela Fruit,522
+Holy Water,523
+Panacea,525
+Royal Jelly,526
+Monster's Feed,528
+Candy,529
+Candy Cane,530
+Apple Juice,531
+Banana Juice,532
+Grape Juice,533
+Carrot Juice,534
+Pumpkin,535
+Ice Cream,536
+Pet Food,537
+Well-baked Cookie,538
+Piece of Cake,539
+Falcon Food,540
+PecoPeco Food,541
+Raw Fish,544
+Condensed Red Potion,545
+Condensed Yellow Potion,546
+Condensed White Potion,547
+Cheese,548
+Yam,549
+Rice Cake,550
+Sushi,551
+Ketupat,552
+Bao,553
+Mochi,554
+Traditional Rice Cake,555
+Rice Cake Stick,556
+Neatly Sliced Rice Cake,557
+Chocolate,558
+Hand-made Chocolate,559
+Handmade White Chocolate,560
+White Chocolate,561
+Doublecrust Swiss Fondue,562
+Rice Ball,564
+Vita500,565
+Tom Yum Goong,566
+Shrimp,567
+Lemon,568
+Novice Potion,569
+Lucky Candy,570
+Lucky Candy Cane,571
+Lucky Cookie,572
+Chocolate Drink,573
+Egg,574
+2nd Anniversary Cake,575
+Prickly Fruit,576
+Bag of Grain,577
+Strawberry,578
+Fresh Fish,579
+Bread,580
+Edible Mushroom,581
+Orange,582
+Ketupat Sayur,583
+Fish Cake Soup,584
+Brusti,585
+Mother's Cake,586
+Red Prickly Fruit,587
+Spaghetti,588
+Pizza,589
+Pretzel,590
+Caviar Pancake,591
+Jam Pancake,592
+Honey Pancake,593
+Sour-Cream Pancake,594
+Mushroom Pancake,595
+Cute Strawberry-Choco,596
+Lovely Choco-Tart,597
+Light Red Potion,598
+Light Orange Potion,599
+Fly Wing,601
+Butterfly Wing,602
+Old Blue Box,603
+Dead Branch,604
+Anodyne,605
+Aloevera,606
+Yggdrasil Berry,607
+Yggdrasil Seed,608
+Amulet,609
+Yggdrasil Leaf,610
+Magnifier,611
+Mini Furnace,612
+Iron Hammer,613
+Golden Hammer,614
+Oridecon Hammer,615
+Old Card Album,616
+Old Purple Box,617
+Worn Out Scroll,618
+Unripe Apple,619
+Orange Juice,620
+Bitter Herb,621
+Rainbow Carrot,622
+Earthworm the Dude,623
+Rotten Fish,624
+Rusty Iron,625
+Monster Juice,626
+Sweet Milk,627
+Well-Dried Bone,628
+Singing Flower,629
+Dew Laden Moss,630
+Deadly Noxious Herb,631
+Fatty Chubby Earthworm,632
+Sweet Potato,633
+Tropical Banana,634
+Orc Trophy,635
+No Recipient,636
+Old Broom,637
+Silver Knife of Chastity,638
+Armlet of Obedience,639
+Shining Stone,640
+Contract in Shadow,641
+Book of the Devil,642
+Pet Incubator,643
+Gift Box,644
+Concentration Potion,645
+Awakening Potion,656
+Berserk Potion,657
+Union of Tribe,658
+Her Heart,659
+Forbidden Red Candle,660
+Soft Apron,661
+Authoritative Badge,662
+Korean Rice Cake,663
+Red Envelope,668
+Tempting Rice-Cake Soup,669
+Bag of Gold Coins,670
+Gold Coin,671
+Bag of Bronze Coins,672
+Bronze Coin,673
+Mithril Coin,674
+Silver Coin,675
+Bag of Silver Coins,676
+Platinum Coin,677
+Poison Bottle,678
+Pilule,679
+Magic Carnation,680
+Sweet Memory of Marriage,681
+Distilled Fighting Spirit,682
+Herb of Incantation,683
+Durian,684
+Ramadan,685
+Level 3 Earth Spike,686
+Level 5 Earth Spike,687
+Level 3 Cold Bolt,688
+Level 5 Cold Bolt,689
+Level 3 Fire Bolt,690
+Level 5 Fire Bolt,691
+Level 3 Lightening Bolt,692
+Level 5 Lightening Bolt,693
+Level 3 Soul Strike,694
+Level 5 Soul Strike,695
+Level 1 Fire Ball,696
+Level 5 Fire Ball,697
+Level 1 Fire Wall,698
+Level 5 Fire Wall,699
+Level 1 Frost Diver,700
+Ora Ora,701
+Animal Gore,702
+Hinalle,703
+Aloe,704
+Clover,705
+Four Leaf Clover,706
+Singing Plant,707
+Ment,708
+Izidor,709
+Illusion Flower,710
+Shoot,711
+Flower,712
+Empty Bottle,713
+Emperium,714
+Yellow Gemstone,715
+Red Gemstone,716
+Blue Gemstone,717
+Garnet,718
+Amethyst,719
+Aquamarine,720
+Emerald,721
+Pearl,722
+Ruby,723
+Cursed Ruby,724
+Sardonyx,725
+Sapphire,726
+Opal,727
+Topaz,728
+Zircon,729
+1carat Diamond,730
+2carat Diamond,731
+3carat Diamond,732
+Cracked Diamond,733
+Red Frame,734
+Chung Jah,735
+China,736
+Black Ladle,737
+Pencil Case,738
+Rouge,739
+Puppet,740
+Poring Doll,741
+Chonchon Doll,742
+Spore Doll,743
+Bouquet,744
+Wedding Bouquet,745
+Glass Bead,746
+Crystal Mirror,747
+Witherless Rose,748
+Frozen Rose,749
+Baphomet Doll,750
+Osiris Doll,751
+Rocker Doll,752
+Yoyo Doll,753
+Raccoon Doll,754
+Rough Oridecon,756
+Rough Elunium,757
+Daenggie,901
+Tree Root,902
+Reptile Tongue,903
+Scorpion Tail,904
+Stem,905
+Pointed Scale,906
+Resin,907
+Spawn,908
+Jellopy,909
+Garlet,910
+Scell,911
+Zargon,912
+Tooth of Bat,913
+Fluff,914
+Chrysalis,915
+Feather of Birds,916
+Talon,917
+Sticky Webfoot,918
+Animal Skin,919
+Wolf Claw,920
+Mushroom Spore,921
+Orc's Fang,922
+Evil Horn,923
+Powder of Butterfly,924
+Bill of Birds,925
+Snake Scale,926
+Insect Feeler,928
+Immortal Heart,929
+Rotten Bandage,930
+Orcish Voucher,931
+Skel-Bone,932
+Memento,934
+Shell,935
+Scale Shell,936
+Venom Canine,937
+Sticky Mucus,938
+Bee Sting,939
+Grasshopper's Leg,940
+Nose Ring,941
+Yoyo Tail,942
+Solid Shell,943
+Horseshoe,944
+Raccoon Leaf,945
+Snail's Shell,946
+Horn,947
+Bear's Footskin,948
+Feather,949
+Heart of Mermaid,950
+Fin,951
+Cactus Needle,952
+Stone Heart,953
+Shining Scale,954
+Worm Peeling,955
+Gill,956
+Decayed Nail,957
+Horrendous Mouth,958
+Stinky Scale,959
+Nipper,960
+Conch,961
+Tentacle,962
+Sharp Scale,963
+Crab Shell,964
+Clam Shell,965
+Clam Flesh,966
+Turtle Shell,967
+Heroic Emblem,968
+Gold,969
+Alcohol,970
+Detrimindexta,971
+Karvodailnirol,972
+Counteragent,973
+Mixture,974
+Scarlet Dyestuffs,975
+Lemon Dyestuffs,976
+Cobaltblue Dyestuffs,978
+Darkgreen Dyestuffs,979
+Orange Dyestuffs,980
+Violet Dyestuffs,981
+White Dyestuffs,982
+Black Dyestuffs,983
+Oridecon,984
+Elunium,985
+Anvil,986
+Oridecon Anvil,987
+Golden Anvil,988
+Emperium Anvil,989
+Red Blood,990
+Crystal Blue,991
+Wind of Verdure,992
+Green Live,993
+Flame Heart,994
+Mystic Frozen,995
+Rough Wind,996
+Great Nature,997
+Iron,998
+Steel,999
+Star Crumb,1000
+Star Dust,1001
+Iron Ore,1002
+Coal,1003
+Chivalry Emblem,1004
+Hammer of Blacksmith,1005
+Old Magicbook,1006
+Necklace of Wisdom,1007
+Necklace of Oblivion,1008
+Hand of God,1009
+Phracon,1010
+Emveretarcon,1011
+Frill,1012
+Rainbow Shell,1013
+Ant Jaw,1014
+Tongue,1015
+Rat Tail,1016
+Mole Whiskers,1017
+Mole Claw,1018
+Trunk,1019
+Black Hair,1020
+Dokebi Horn,1021
+Nine Tails,1022
+Fish Tail,1023
+Squid Ink,1024
+Cobweb,1025
+Acorn,1026
+Porcupine Quill,1027
+Mane,1028
+Tiger Skin,1029
+Tiger's Footskin,1030
+Mantis Scythe,1031
+Maneater Blossom,1032
+Maneater Root,1033
+Blue Hair,1034
+Dragon Canine,1035
+Dragon Scale,1036
+Dragon Tail,1037
+Little Evil Horn,1038
+Little Evil Wing,1039
+Elder Pixie's Moustache,1040
+Lantern,1041
+Bug Leg,1042
+Orc Claw,1043
+Zenorc's Fang,1044
+Cultish Masque,1045
+Scorpion Nipper,1046
+Dead Medusa,1047
+Horrendous Hair,1048
+Skirt of Virgin,1049
+Tendon,1050
+Detonator,1051
+Single Cell,1052
+Ancient Tooth,1053
+Ancient Lips,1054
+Earthworm Peeling,1055
+Grit,1056
+Moth Dust,1057
+Moth Wings,1058
+Fabric,1059
+Golden Hair,1060
+Witched Starsand,1061
+Jack o' Pumpkin,1062
+Fang,1063
+Reins,1064
+Trap,1065
+Fine-grained Trunk,1066
+Solid Trunk,1067
+Barren Trunk,1068
+Orange Net Mushroom,1069
+Orange Gooey Mushroom,1070
+Unknown Test Tube,1071
+Delivery Message,1072
+Voucher,1073
+Delivery Box,1081
+Kafra Pass,1084
+Morocc Solution,1088
+Payon Solution,1089
+Empty Test Tube,1092
+Empty Potion Bottle,1093
+Short Daenggie,1094
+Needle of Alarm,1095
+Round Shell,1096
+Worn Out Page,1097
+Manacles,1098
+Worn-out Prison Uniform,1099
+Sword,1101
+Falchion,1104
+Blade,1107
+Rapier,1110
+Scimitar,1113
+Katana,1116
+Tsurugi,1119
+Ring Pommel Saber,1122
+Haedonggum,1123
+Orcish Sword,1124
+Saber,1126
+Flamberge,1129
+Nagan,1130
+Ice Falchion,1131
+Edge,1132
+Fireblend,1133
+Caesar's Sword,1134
+Cutlus,1135
+Solar Sword,1136
+Excalibur,1137
+Mysteltainn,1138
+Tirfing,1139
+Byeollungum,1140
+Immaterial Sword,1141
+Jeweled Sword,1142
+Gaia Sword,1143
+Sashimi,1144
+Holy Avenger,1145
+Town Sword,1146
+Star Dust Blade,1148
+Slayer,1151
+Bastard Sword,1154
+Two-Handed Sword,1157
+Broad Sword,1160
+Balmung,1161
+Claymore,1163
+Muramasa,1164
+Masamune,1165
+Dragon Slayer,1166
+Schweizersabel,1167
+Zweihander,1168
+Executioner,1169
+Katzbalger,1170
+Atlas Weapon,1175
+Muscle Cutter,1176
+Muramash,1177
+Tae Goo Lyeon,1181
+Bloody Eater,1182
+Brave Assaulter's Katzbalger,1183
+Valorous Assaulter's Katzbalger,1184
+Violet Fear,1185
+Death Guidance,1186
+Glorious Claymore,1187
+Veteran Sword,1188
+Krasnaya,1189
+Knife,1201
+Cutter,1204
+Main Gauche,1207
+Dirk,1210
+Dagger,1213
+Stiletto,1216
+Gladius,1219
+Damascus,1222
+Fortune Sword,1223
+Swordbreaker,1224
+Mailbreaker,1225
+Weeder Knife,1227
+Combat Knife,1228
+Kitchen Knife,1229
+Ice Pick,1230
+Bazerald,1231
+Assassin Dagger,1232
+Exorciser,1233
+Moonlight Dagger,1234
+Azoth,1235
+Sucsamad,1236
+Grimtooth,1237
+Zeny Knife,1238
+Poison Knife,1239
+Princess Knife,1240
+Cursed Dagger,1241
+Dagger of Counter,1242
+Novice Main-Gauche,1243
+Holy Dagger,1244
+Cinquedea,1245
+Kindle Dagger,1247
+Obsidian Dagger,1248
+Fisherman's Dagger,1249
+Jur,1250
+Katar,1252
+Jamadhar,1254
+Katar of Frozen Icicle,1256
+Katar of Quaking,1257
+Katar of Raging Blaze,1258
+Katar of Piercing Wind,1259
+Sharpened Legbone of Ghoul,1260
+Infiltrator,1261
+Loki's Nail,1262
+Unholy Touch,1263
+Specialty Jur,1264
+Bloody Roar,1265
+Wild Beast Claw,1268
+Inverse Scale,1269
+Drill Katar,1270
+Blood Tears,1271
+Scratcher,1272
+Refined Bloody Roar,1273
+Refined Unholy Touch,1274
+Brave Carnage Katar,1279
+Valorous Carnage Katar,1280
+Glorious Bloody Roar,1281
+Glorious Jamadhar,1282
+Katar Of Speed,1283
+Krishna,1284
+Chakram,1285
+Axe,1301
+Orcish Axe,1304
+Cleaver,1305
+War Axe,1306
+Windhawk,1307
+Golden Axe,1308
+Glorious Cleaver,1310
+Vecer Axe,1311
+Tourist Axe,1313
+Tomahawk,1314
+Light Epsilon,1315
+Battle Axe,1351
+Hammer,1354
+Buster,1357
+Two-Handed Axe,1360
+Bloody Axe,1363
+Great Axe,1364
+Sabbath,1365
+Slaughter,1367
+Guillotine,1369
+Doom Slayer,1370
+Refined Bloody Axe,1373
+Berdysz,1375
+Heart Breaker,1376
+Hurricane's Fury,1377
+Refined Great Axe,1378
+Valorous Insane Battle Axe,1379
+Brave Insane Battle Axe,1380
+Novice Battle Axe,1381
+Glorious Two-Handed Axe,1382
+Celestial Axe,1383
+Veteran Axe,1384
+Bradium Stone Hammer,1385
+Giant Axe,1387
+Javelin,1401
+Spear,1404
+Pike,1407
+Lance,1410
+Gungnir,1413
+Gelerdria,1414
+Brocca,1415
+Tjungkuletti,1416
+Pole Axe,1417
+Long Horn,1420
+Battle Hook,1421
+Hunting Spear,1422
+Pole XO,1423
+Refined Brocca,1424
+Assaulter Spear,1425
+Glorious Spear,1426
+Spear Of Excellent,1427
+Guisarme,1451
+Glaive,1454
+Partizan,1457
+Trident,1460
+Halberd,1463
+Crescent Scythe,1466
+Bill Guisarme,1467
+Zephyrus,1468
+Longinus's Spear,1469
+Brionac,1470
+Hellfire,1471
+Soul Staff,1472
+Wizardry Staff,1473
+Gae Bolg,1474
+Equestrian's Spear,1475
+Spectral Spear,1477
+Ahlspiess,1478
+Assaulter Lance,1482
+Ivory Lance,1483
+Cardo,1484
+Battle Fork,1485
+Glorious Lance,1486
+Club,1501
+Mace,1504
+Smasher,1507
+Flail,1510
+Morning Star,1513
+Sword Mace,1516
+Chain,1519
+Stunner,1522
+Spike,1523
+Golden Mace,1524
+Long Mace,1525
+Slash,1526
+Quadrille,1527
+Grand Cross,1528
+Iron Driver,1529
+Mjolnir,1530
+Wrench,1531
+Warrior's Balmung,1533
+Hollgrehenn's Hammer,1535
+Good Morning Star,1536
+Refined Quadrille,1537
+Nemesis,1541
+Valorous Battlefield Morning Star,1542
+Brave Battlefield Morning Star,1543
+Lunakaligo,1544
+Novice Mace,1545
+Glorious Morning Star,1546
+Mace Of Madness,1547
+Veteran Hammer,1548
+Pile Bunker,1549
+Book,1550
+Bible,1551
+Tablet,1552
+Book of Billows,1553
+Book of Mother Earth,1554
+Book of the Blazing Sun,1555
+Book of Gust of Wind,1556
+Book of the Apocalypse,1557
+Girl's Diary,1558
+Legacy of Dragon,1559
+Sage's Diary,1560
+Hardcover Book,1561
+Battlefield Textbook,1562
+Encyclopedia,1564
+Ledger of Death,1565
+Diary Of Great Basil,1566
+Refined Hardcover Book,1567
+Book of Blazing Sun,1570
+Principles of Magic,1572
+Ancient Magic,1573
+Brave Battle Strategy Book,1574
+Valorous Battle Strategy Book,1575
+Glorious Tablet,1576
+Glorious Apocalypse,1577
+Book Of Prayer,1578
+Book of the Dead,1579
+Giant Encyclopedia,1580
+Diary Of Great Sage,1581
+Angra Manyu,1599
+Rod,1601
+Wand,1604
+Staff,1607
+Arc Wand,1610
+Mighty Staff,1613
+Wand of Occult,1614
+Evil Bone Wand,1615
+Wing Staff,1616
+Survivor's Rod,1617
+Hypnotist's Staff,1621
+Lich's Bone Wand,1624
+Healing Staff,1625
+Piercing Staff,1626
+Staffy,1627
+Refined Survivor's Rod,1628
+Gentleman's Staff,1629
+Release of Wish,1630
+Holy Stick,1631
+Warlock's Magic Wand,1632
+Warlock's Battle Wand,1633
+Strong Recovery Wand,1634
+Speedy Recovery Wand,1635
+Thorn Staff of Darkness,1636
+Eraser,1637
+Staff Of Healing,1638
+Novice Rod,1639
+Glorious Arc Wand,1640
+Glorious Cure Wand,1641
+Staff Of Darkness,1642
+Dead Tree Cane,1643
+Staff of Piercing,1644
+La'cryma Stick,1646
+Croce Staff,1647
+Staff Of Bordeaux,1648
+Bow,1701
+Composite Bow,1704
+Great Bow,1707
+Crossbow,1710
+Arbalest,1713
+Gakkung Bow,1714
+Hunter Bow,1718
+Roguemaster's Bow,1719
+Rudra Bow,1720
+Repeating Crossbow,1721
+Ballista,1722
+Luna Bow,1723
+Dragon Wing,1724
+Minstrel Bow,1725
+Burning Bow,1730
+Frozen Bow,1731
+Earth Bow,1732
+Gust Bow,1733
+Orc Archer Bow,1734
+Kkakkung,1735
+Double Bound,1736
+Ixion Wings,1737
+Valorous Battle CrossBow,1738
+Brave Battle CrossBow,1739
+Nepenthes Bow,1740
+Cursed Lyre,1741
+Novice Composite Bow,1742
+Glorious Hunter Bow,1743
+Bow Of Evil,1744
+Falken Blitz,1745
+Arrow,1750
+Silver Arrow,1751
+Fire Arrow,1752
+Steel Arrow,1753
+Crystal Arrow,1754
+Arrow of Wind,1755
+Stone Arrow,1756
+Immaterial Arrow,1757
+Stun Arrow,1758
+Frozen Arrow,1759
+Flash Arrow,1760
+Cursed Arrow,1761
+Rusty Arrow,1762
+Poison Arrow,1763
+Sharp Arrow,1764
+Oridecon Arrow,1765
+Arrow of Counter Evil,1766
+Arrow of Shadow,1767
+Sleep Arrow,1768
+Mute Arrow,1769
+Iron Arrow,1770
+Venom Knife,1771
+Holy Arrow,1772
+Waghnak,1801
+Knuckle Dusters,1803
+Studded Knuckles,1805
+Fist,1807
+Claw,1809
+Finger,1811
+Kaiser Knuckle,1813
+Berserk,1814
+Hatii Claw,1815
+Magma Fist,1818
+Icicle Fist,1819
+Electric Fist,1820
+Seismic Fist,1821
+Combo Battle Glove,1822
+Valorous Battle Fist,1823
+Brave Battle Fist,1824
+Horn of Hillslion,1825
+Glorious Claw,1826
+Glorious Fist,1827
+Monk Knuckle,1828
+Violin,1901
+Mandolin,1903
+Lute,1905
+Guitar,1907
+Harp,1909
+Gumoongoh,1911
+Electric Guitar,1913
+Burning Passion Guitar,1914
+Loner's Guitar,1915
+Green Acre Guitar,1916
+Gentle Breeze Guitar,1917
+Oriental Lute,1918
+Bass Guitar,1919
+Berserk Guitar,1920
+Gun Moon Gom,1921
+Valorous Battlefield Guitar,1923
+Brave Battlefield Guitar,1924
+Cello,1925
+Harp of Nepenthes,1926
+Glorious Guitar,1927
+Spirited Guitar,1928
+Rope,1950
+Whip,1952
+Wire Whip,1954
+Rante Whip,1956
+Tail Whip,1958
+Lariat Whip,1962
+Rapture Rose,1963
+Chemeti Whip,1964
+Red Flame Whip,1965
+Icicle Whip,1966
+Gaia Whip,1967
+Skipping Rope,1968
+Blade Whip,1969
+Queen's Whip,1970
+Electric Wire,1971
+Electric Eel,1972
+Sea Witch's Foot,1973
+Carrot Whip,1974
+Queen Is Whip,1975
+Valorous Battle Lariat,1977
+Brave Battle Lariat,1978
+Stem of Nepenthes,1979
+Whip of Balance,1980
+Glorious Lariat,1981
+Phenomena Whip,1982
+Staff of Destruction,2000
+Divine Cross,2001
+Glorious Destruction Staff,2002
+Kronos,2004
+Dea Staff,2005
+Staff Of Light,2006
+Guard,2101
+Buckler,2103
+Shield,2105
+Mirror Shield,2107
+Memory Book,2109
+Holy Guard,2110
+Sacred Mission,2111
+Novice Guard,2112
+Novice Shield,2113
+Stone Buckler,2114
+Valkyrja's Shield,2115
+Angelic Guard,2116
+Arm Guard,2117
+Advanced Arm Guard,2119
+Platinum Shield,2122
+Orleans's Server,2123
+Thorny Buckler,2124
+Strong Shield,2125
+Guyak Shield,2126
+Secular Mission,2127
+Exorcism Bible,2129
+Cross Shield,2130
+Magic Bible Vol1,2131
+Shell Of Resistance,2132
+Tournament Shield,2133
+Shield of Naga,2134
+Shadow Guard,2135
+Cracked Buckler,2136
+Neo Valkyrja's Shield,2137
+Bradium Shield,2138
+Flame Thrower,2139
+Ahura Mazdah,2199
+Sunglasses,2201
+Glasses,2203
+Diver Goggles,2205
+Wedding Veil,2206
+Fancy Flower,2207
+Ribbon,2208
+Hair Band,2210
+Bandana,2211
+Eye Patch,2212
+Kitty Band,2213
+Bunny Band,2214
+Flower Band,2215
+Biretta,2216
+Flu Mask,2218
+Hat,2220
+Turban,2222
+Goggles,2224
+Cap,2226
+Helm,2228
+Gemmed Sallet,2230
+Circlet,2232
+Tiara,2234
+Crown,2235
+Santa Hat,2236
+Bandit Beard,2237
+Monocle,2239
+Beard,2240
+Grampa Beard,2241
+Purple Glasses,2242
+Geek Glasses,2243
+Big Ribbon,2244
+Sweet Gent,2245
+Golden Gear,2246
+Romantic Gent,2247
+Western Grace,2248
+Coronet,2249
+Cute Ribbon,2250
+Monk Hat,2251
+Wizard Hat,2252
+Sunflower,2253
+Angel Wing,2254
+Evil Wing,2255
+Majestic Goat,2256
+Unicorn Horn,2257
+Spiky Band,2258
+Mini Propeller,2259
+Mini Glasses,2260
+Army Cap,2261
+Clown Nose,2262
+Zorro Masque,2263
+Munak Hat,2264
+Gangster Mask,2265
+Iron Cain,2266
+Cigarette,2267
+Pipe,2268
+Romantic Flower,2269
+Romantic Leaf,2270
+Jack be Dandy,2271
+Stop Post,2272
+Doctor Band,2273
+Ghost Bandana,2274
+Red Bandana,2275
+Angled Glasses,2276
+Nurse Cap,2277
+Mr. Smile,2278
+Bomb Wick,2279
+Sakkat,2280
+Opera Masque,2281
+Halo,2282
+Ear Muffs,2283
+Antlers,2284
+Apple of Archer,2285
+Elven Ears,2286
+Pirate Bandana,2287
+Mr. Scream,2288
+Poo Poo Hat,2289
+Funeral Hat,2290
+Masquerade,2291
+Welding Mask,2292
+Pretend Murdered,2293
+Stellar,2294
+Blinker,2295
+Binoculars,2296
+Goblin Mask,2297
+Green Feeler,2298
+Orc Helm,2299
+Cotton Shirt,2301
+Jacket,2303
+Adventurer's Suit,2305
+Mantle,2307
+Coat,2309
+Mink Coat,2311
+Padded Armor,2312
+Chain Mail,2314
+Full Plate,2316
+Lord's Clothes,2318
+Glittering Jacket,2319
+Formal Suit,2320
+Silk Robe,2321
+Scapulare,2323
+Saint's Robe,2325
+Holy Robe,2327
+Wooden Mail,2328
+Tights,2330
+Silver Robe,2332
+Mage Coat,2334
+Thief Clothes,2335
+Ninja Suit,2337
+Wedding Dress,2338
+Pantie,2339
+Novice Breastplate,2340
+Legion Plate Armor,2341
+Robe of Cast,2343
+Lucius's Fierce Armor of Volcano,2344
+Saphien's Armor of Ocean,2346
+Aebecee's Raging Typhoon Armor,2348
+Claytos Cracking Earth Armor,2350
+Tattered Novice Ninja Suit,2352
+Odin's Blessing,2353
+Goibne's Armor,2354
+Angelic Protection,2355
+Blessed Holy Robe,2356
+Valkyrian Armor,2357
+Angel's Dress,2358
+Meteo Plate Armor,2364
+Orleans's Gown,2365
+Divine Cloth,2366
+Sniping Suit,2367
+Golden Armor,2368
+Freyja Overcoat,2369
+Used Mage Coat,2370
+Diabolus Robe,2374
+Diabolus Armor,2375
+Assaulter Plate,2376
+Elite Engineer Armor,2377
+Assassin Robe,2378
+Warlock's Battle Robe,2379
+Medic's Robe,2380
+Elite Archer Suit,2381
+Elite Shooter Suit,2382
+Brynhild,2383
+Spiritual Tunic,2384
+Recuperative Armor,2385
+Chameleon Armor,2386
+Sprint Mail,2387
+Kandura,2388
+Armor of Naga,2389
+Improved Tights,2390
+Life Link,2391
+Old Green Pantie,2392
+Novice Adventurer's Suit,2393
+Glorious Suit,2394
+Glorious Popularized Suit,2395
+Glorious Mass-Production Suit,2396
+Incredible Event Resignation Coat,2397
+Dragon Vest,2399
+Sandals,2401
+Shoes,2403
+Boots,2405
+Crystal Pumps,2407
+Shackles,2408
+High Heels,2409
+Sleipnir,2410
+Greaves,2411
+Safety Boots,2413
+Novice Slippers,2414
+Bunny Slipper,2415
+Novice Shoes,2416
+Fricco's Shoes,2417
+Vidar's Boots,2418
+Goibne's Greaves,2419
+Angel's Reincarnation,2420
+Valkyrian Shoes,2421
+High Fashion Sandals,2422
+Variant Shoes,2423
+Tidal Shoes,2424
+Black Leather Boots,2425
+Shadow Walk,2426
+Golden Shoes,2427
+Freyja Boots,2428
+Iron Boots,2429
+Valley Shoes,2431
+Diabolus Boots,2433
+Battle Greaves,2435
+Combat Boots,2436
+Battle Boots,2437
+Paw Of Cat,2438
+Refresh Shoes,2439
+Sprint Shoes,2440
+Beach Sandals,2441
+Red Stocking Boots,2442
+Fisher's Boots,2443
+Glorious Shoes,2444
+Glorious Popularized Shoes,2445
+Glorious Mass-Production Shoes,2446
+Army Boots,2447
+Air Boss,2448
+Vital Tree Shoes,2450
+Hood,2501
+Muffler,2503
+Manteau,2505
+Ancient Cape,2507
+Ragamuffin Manteau,2508
+Survivor's Manteau,2509
+Somber Novice Hood,2510
+Skeleton Manteau,2511
+Novice Manteau,2512
+Heavenly Maiden Robe,2513
+Pauldron,2514
+Eagle Wing,2515
+Falcon Muffler,2516
+Vali's Manteau,2517
+Morpheus's Shawl,2518
+Morrigane's Manteau,2519
+Goibne's Spaulders,2520
+Angelic Cardigan,2521
+Undershirt,2522
+Valkyrian Manteau,2524
+Coat of Dragon Scale,2526
+Dragon Breath,2527
+Wool Scarf,2528
+Rider Insignia,2529
+Ulfhedinn,2531
+Mithril Magic Cape,2532
+Freyja Cape,2533
+Ruffler,2534
+Cloak Of Survival,2535
+Skin of Ventus,2536
+Diabolus Manteau,2537
+Captain's Manteau,2538
+Commander's Manteau,2539
+Sheriff's Manteau,2540
+Asprika,2541
+Flame Manteau of Naght Sieger,2542
+Sylphid Manteau,2543
+Leather of Tendrilion,2544
+Musika,2545
+Beach Manteau,2546
+Cheap Undershirt,2547
+Neo Muffler,2548
+Glorious Muffler,2549
+Fisher's Muffler,2550
+Crest of the Rider,2551
+Mithril Magic Manteau,2552
+Dragon Manteau,2553
+Nydhorgg's Shadow Garb,2554
+Ring,2601
+Earring,2602
+Necklace,2603
+Glove,2604
+Brooch,2605
+Clip,2607
+Rosary,2608
+Skull Ring,2609
+Gold Ring,2610
+Silver Ring,2611
+Flower Ring,2612
+Diamond Ring,2613
+Eye of Dullahan,2614
+Safety Ring,2615
+Critical Ring,2616
+Celebrant's Mitten,2617
+Matyr's Leash,2618
+Bow Thimble,2619
+Rogue's Treasure,2620
+Belt,2627
+Novice Armlet,2628
+Megingjard,2629
+Brisingamen,2630
+Celebration Ring,2631
+Wedding Ring,2634
+Gold Christmas Ring,2636
+Silver Christmas Ring,2637
+Sacred Incense,2638
+Occult Incense,2639
+Kafra Ring,2640
+Fashion Hip Sack,2641
+Serin's Gold Ring,2642
+The Sign,2644
+Moonlight Ring,2645
+Bunch of Carnations,2646
+Nile Rose,2647
+Morpheus's Ring,2648
+Morpheus's Bracelet,2649
+Morrigane's Belt,2650
+Morrigane's Pendant,2651
+Goddess of Fortune's Cursed Brooch,2652
+Sacrifice Ring,2653
+Shinobi Sash,2654
+Bloodied Shackle Ball,2655
+Armor Charm,2656
+Laboratory Permit,2657
+Vesper Core 01,2659
+Vesper Core 02,2660
+Vesper Core 03,2661
+Vesper Core 04,2662
+Gauntlet of Hit,2663
+Belcarf,2664
+Exorcising Ring,2665
+Lantern of Hope,2666
+Renown Archer's Gloves,2667
+Woman Glory,2668
+RJC Necklace,2669
+Ring of Longing,2670
+3rd Anniversary Celebration Ring,2672
+Warrior's Shining Ring,2673
+Ring of Honor,2674
+Lord Ring,2675
+Hunter's Earring,2676
+Spiritual Ring,2677
+Ring Of Flame Lord,2678
+Ring Of Resonance,2679
+Lesser Elemental Ring,2680
+Republic Anniversary Ring,2681
+Ring of Water,2682
+Ring of Fire,2683
+Ring of Wind,2684
+Ring of Earth,2685
+Steel Flower,2687
+Red Silk Seal,2700
+Orleans's Glove,2701
+Bison Horn,2702
+Expert Ring,2703
+Golden Accessories,2704
+Arrest Handcuffs,2706
+GUSLI,2707
+Chinese Handicraft,2708
+5th Anniversary Coin,2709
+Bloody Iron Ball,2710
+Ragnarok Limited Edition,2712
+Certificate,2713
+Marvelous Pendant,2714
+Librarian Glove,2716
+Pocket Watch,2717
+Lunatic Brooch,2718
+Iron Wrist,2719
+Medal of Honor,2720
+Icarus Wings,2726
+Bowman Scarf,2727
+Cursed Hand,2728
+Diabolus Ring,2729
+Seal of Continental Guard,2730
+Rune Spellstone,2731
+Death Loop,2732
+Sheriff Badge,2733
+Directive,2734
+Navel Ring,2736
+Foot Ring,2737
+Shiny Coin,2738
+Ordinary Coin,2739
+Rusty Coin,2740
+All In One Ring,2741
+Angelic Ring,2743
+Sprint Ring,2744
+Pinguicula Corsage,2745
+Cold Heart,2746
+Black Cat,2747
+Cursed Star,2748
+Linen Glove,2749
+Academy Of Badge,2751
+Praccsinos,2752
+Beholder Ring,2753
+Hallow Ring,2754
+Clamorous Ring,2755
+Chemical Ring,2756
+Insecticide Ring,2757
+Fischer Ring,2758
+Decussate Ring,2759
+Bloody Ring,2760
+Satanic Ring,2761
+Dragon Ring,2762
+Neo Skull Ring,2763
+Small Fishing Rod,2764
+Novice Figure,2765
+Swordman Figure,2766
+Acolyte Figure,2767
+Mage Figure,2768
+Archer Figure,2769
+Thief Figure,2770
+Merchant Figure,2771
+Glorious Ring,2772
+Glorious Mass-Production Ring,2773
+Glorious Popularized Ring,2774
+Lure,2775
+Adventurer's Trusty Towel,2776
+Shaman Ring,2777
+Shaman Earrings,2778
+Dark Knight Belt,2779
+Dark Knight Glove,2780
+Aumdura's Benefit,2781
+Ring of the Ancient Wise King,2782
+Eye Stone Ring,2783
+Christmas Musicbox,2784
+Orlean's Gloves,2785
+Waterdrop Brooch,2787
+Bradium Earring,2788
+Bradium Ring,2789
+Bradium Brooch,2790
+Magic Stone Ring,2794
+Green Apple Ring,2795
+Rocks,2796
+Will Of Exhausted Angel,2798
+Kuirpenring,2799
+Accelerator,2800
+Hovering Booster,2801
+Suicidal Device,2802
+Shape Shifter,2803
+Cooling Device,2804
+Magnetic Field Generator,2805
+Barrier Builder,2806
+Repair Kit,2807
+Camouflague Generator,2808
+High Quality Cooler,2809
+Special Cooler,2810
+Swordsman Manual,2819
+Thief Manual,2820
+Acolyte Manual,2821
+Archer Manual,2822
+Merchant Manual,2823
+Mage Manual,2824
+Poring Card,4001
+Fabre Card,4002
+Pupa Card,4003
+Drops Card,4004
+Santa Poring Card,4005
+Lunatic Card,4006
+Peco Peco Egg Card,4007
+Picky Card,4008
+Chonchon Card,4009
+Willow Card,4010
+Picky Egg Card,4011
+Thief Bug Egg Card,4012
+Andre Egg Card,4013
+Roda Frog Card,4014
+Condor Card,4015
+Thief Bug Card,4016
+Savage Babe Card,4017
+Andre Larva Card,4018
+Hornet Card,4019
+Familiar Card,4020
+Rocker Card,4021
+Spore Card,4022
+Baby Desert Wolf Card,4023
+Plankton Card,4024
+Skeleton Card,4025
+Female Thief Bug Card,4026
+Kukre Card,4027
+Tarou Card,4028
+Wolf Card,4029
+Mandragora Card,4030
+Peco Peco Card,4031
+Ambernite Card,4032
+Poporing Card,4033
+Wormtail Card,4034
+Hydra Card,4035
+Muka Card,4036
+Snake Card,4037
+Zombie Card,4038
+Stainer Card,4039
+Creamy Card,4040
+Coco Card,4041
+Steel Chonchon Card,4042
+Andre Card,4043
+Smokie Card,4044
+Horn Card,4045
+Martin Card,4046
+Ghostring Card,4047
+Poison Spore Card,4048
+Vadon Card,4049
+Male Thief Bug Card,4050
+Yoyo Card,4051
+Elder Willow Card,4052
+Vitata Card,4053
+Angeling Card,4054
+Marina Card,4055
+Dustiness Card,4056
+Metaller Card,4057
+Thara Frog Card,4058
+Soldier Andre Card,4059
+Goblin Card,4060
+Cornutus Card,4061
+Anacondaq Card,4062
+Caramel Card,4063
+Zerom Card,4064
+Kaho Card,4065
+Orc Warrior Card,4066
+Megalodon Card,4067
+Scorpion Card,4068
+Drainliar Card,4069
+Eggyra Card,4070
+Orc Zombie Card,4071
+Golem Card,4072
+Pirate Skeleton Card,4073
+Bigfoot Card,4074
+Argos Card,4075
+Magnolia Card,4076
+Phen Card,4077
+Savage Card,4078
+Mantis Card,4079
+Flora Card,4080
+Hode Card,4081
+Desert Wolf Card,4082
+Rafflesia Card,4083
+Marine Sphere Card,4084
+Orc Skeleton Card,4085
+Soldier Skeleton Card,4086
+Giearth Card,4087
+Frilldora Card,4088
+Swordfish Card,4089
+Munak Card,4090
+Kobold Card,4091
+Skeleton Worker Card,4092
+Obeaune Card,4093
+Archer Skeleton Card,4094
+Marse Card,4095
+Zenorc Card,4096
+Matyr Card,4097
+Dokebi Card,4098
+Pasana Card,4099
+Sohee Card,4100
+Sandman Card,4101
+Whisper Card,4102
+Horong Card,4103
+Requiem Card,4104
+Marc Card,4105
+Mummy Card,4106
+Verit Card,4107
+Myst Card,4108
+Jakk Card,4109
+Ghoul Card,4110
+Strouf Card,4111
+Marduk Card,4112
+Marionette Card,4113
+Argiope Card,4114
+Hunter Fly Card,4115
+Isis Card,4116
+Sidewinder Card,4117
+Earth Petite Card,4118
+Bathory Card,4119
+Sky Petite Card,4120
+Phreeoni Card,4121
+Deviruchi Card,4122
+Eddga Card,4123
+Medusa Card,4124
+Deviace Card,4125
+Minorous Card,4126
+Nightmare Card,4127
+Golden Thief Bug Card,4128
+Bapho Jr. Card,4129
+Scorpion King Card,4130
+Moonlight Flower Card,4131
+Mistress Card,4132
+Raydric Card,4133
+Dracula Card,4134
+Orc Lord Card,4135
+Khalitzburg Card,4136
+Drake Card,4137
+Anubis Card,4138
+Joker Card,4139
+Abysmal Knight Card,4140
+Evil Druid Card,4141
+Doppelganger Card,4142
+Orc Hero Card,4143
+Osiris Card,4144
+Berzebub Card,4145
+Maya Card,4146
+Baphomet Card,4147
+Pharaoh Card,4148
+Gargoyle Card,4149
+Goat Card,4150
+Gajomart Card,4151
+Galapago Card,4152
+Crab Card,4153
+Dumpling Child Card,4154
+Goblin Leader Card,4155
+Goblin Steamrider Card,4156
+Goblin Archer Card,4157
+Sky Deleter Card,4158
+Nine Tail Card,4159
+Firelock Soldier Card,4160
+Grand Peco Card,4161
+Grizzly Card,4162
+Gryphon Card,4163
+Gullinbursti Card,4164
+Gig Card,4165
+Nightmare Terror Card,4166
+Nereid Card,4167
+Dark Lord Card,4168
+Dark Illusion Card,4169
+Dark Frame Card,4170
+Dark Priest Card,4171
+The Paper Card,4172
+Demon Pungus Card,4173
+Deviling Card,4174
+Poisonous Toad Card,4175
+Dullahan Card,4176
+Dryad Card,4177
+Dragon Tail Card,4178
+Dragon Fly Card,4179
+Driller Card,4180
+Disguise Card,4181
+Diabolic Card,4182
+Vagabond Wolf Card,4183
+Lava Golem Card,4184
+Rideword Card,4185
+Raggler Card,4186
+Raydric Archer Card,4187
+Leib Olmai Card,4188
+Wraith Dead Card,4189
+Wraith Card,4190
+Loli Ruri Card,4191
+Rotar Zairo Card,4192
+Lude Card,4193
+Rybio Card,4194
+Leaf Cat Card,4195
+Marin Card,4196
+Mastering Card,4197
+Maya Purple Card,4198
+Merman Card,4199
+Megalith Card,4200
+Majoruros Card,4201
+Mao Guai Card,4202
+Mutant Dragonoid Card,4203
+Mini Demon Card,4204
+Mimic Card,4205
+Myst Case Card,4206
+Mysteltainn Card,4207
+Miyabi Doll Card,4208
+Violy Card,4209
+Wanderer Card,4210
+Vocal Card,4211
+Bongun Card,4212
+Brilight Card,4213
+Bloody Murderer Card,4214
+Blazer Card,4215
+Sasquatch Card,4216
+Enchanted Peach Tree Card,4217
+Succubus Card,4218
+Sage Worm Card,4219
+Solider Card,4220
+Skeleton General Card,4221
+Skeleton Prisoner Card,4222
+Stalactic Golem Card,4223
+Stem Worm Card,4224
+Stone Shooter Card,4225
+Sting Card,4226
+Spring Rabbit Card,4227
+Sleeper Card,4228
+Tower Keeper Card,4229
+Shinobi Card,4230
+Mi Gao Card,4231
+Hermit Plant Card,4232
+Baby Leopard Card,4233
+Anolian Card,4234
+Christmas Cookie Card,4235
+Amon Ra Card,4236
+Owl Duke Card,4237
+Owl Baron Card,4238
+Iron Fist Card,4239
+Arclouze Card,4240
+Arc Angeling Card,4241
+Apocalipse Card,4242
+Antonio Card,4243
+Alarm Card,4244
+Am Mut Card,4245
+Assaulter Card,4246
+Aster Card,4247
+Ancient Mummy Card,4248
+Ancient Worm Card,4249
+Executioner Card,4250
+Elder Card,4251
+Alligator Card,4252
+Alice Card,4253
+Ogretooth Card,4254
+Orc Lady Card,4255
+Orc Archer Card,4256
+Wild Rose Card,4257
+Evil Nymph Card,4258
+Wooden Golem Card,4259
+Wootan Shooter Card,4260
+Wootan Fighter Card,4261
+Cloud Hermit Card,4262
+Samurai Spector Card,4263
+Wind Ghost Card,4264
+Jing Guai Card,4265
+Eclipse Card,4266
+Explosion Card,4267
+Injustice Card,4268
+Incubus Card,4269
+Giant Spider Card,4270
+Giant Hornet Card,4271
+Zhu Po Long Card,4272
+Shell Fish Card,4273
+Zombie Master Card,4274
+Zombie Prisoner Card,4275
+Lord of The Dead Card,4276
+Zealotus Card,4277
+Gibbet Card,4278
+Earth Deleter Card,4279
+Geographer Card,4280
+Zipper Bear Card,4281
+Tengu Card,4282
+Greatest General Card,4283
+Chepet Card,4284
+Choco Card,4285
+Karakasa Card,4286
+Kapha Card,4287
+Carat Card,4288
+Caterpillar Card,4289
+Cat O' Nine Tails Card,4290
+Kobold Leader Card,4291
+Kobold Archer Card,4292
+Cookie Card,4293
+Quve Card,4294
+Kraben Card,4295
+Cramp Card,4296
+Cruiser Card,4297
+Creamy Fear Card,4298
+Clock Card,4299
+Chimera Card,4300
+Killer Mantis Card,4301
+Tao Gunka Card,4302
+Giant Whisper Card,4303
+Tamruan Card,4304
+Turtle General Card,4305
+Toad Card,4306
+Beetle King Card,4307
+Tri Joint Card,4308
+Parasite Card,4309
+Panzer Goblin Card,4310
+Permeter Card,4311
+Seal Card,4312
+Punk Card,4313
+Penomena Card,4314
+Pest Card,4315
+False Angel Card,4316
+Mobster Card,4317
+Stormy Knight Card,4318
+Freezer Card,4319
+Bloody Knight Card,4320
+Hylozoist Card,4321
+High Orc Card,4322
+Hatii Babe Card,4323
+Hatii Card,4324
+Harpy Card,4325
+Sea-Otter Card,4326
+Bloody Butterfly Card,4327
+Yao Jun Card,4328
+Phendark Card,4329
+Evil Snake Lord Card,4330
+Heater Card,4331
+Waste Stove Card,4332
+Venomous Card,4333
+Noxious Card,4334
+Pitman Card,4335
+Ungoliant Card,4336
+Porcellio Card,4337
+Obsidian Card,4338
+Mineral Card,4339
+Teddy Bear Card,4340
+Metaling Card,4341
+RSX-0806 Card,4342
+Holden Card,4343
+Anopheles Card,4344
+Hill Wind Card,4345
+Egnigem Cenia Card,4346
+Armeyer Dinze Card,4347
+Wickebine Tres Card,4348
+Errende Ebecee Card,4349
+Laurell Weinder Card,4350
+Kavach Icarus Card,4351
+General Egnigem Cenia Card,4352
+Remover Card,4353
+Gemini-S58 Card,4354
+Gremlin Card,4355
+Beholder Card,4356
+Lord Knight Card,4357
+Seyren Windsor Card,4358
+Assassin Cross Card,4359
+Eremes Guile Card,4360
+MasterSmith Card,4361
+Howard Alt-Eisen Card,4362
+High Priest Card,4363
+Margaretha Sorin Card,4364
+High Wizard Card,4365
+Kathryne Keyron Card,4366
+Sniper Card,4367
+Cecil Damon Card,4368
+Venatu Card,4369
+Dimik Card,4370
+Archdam Card,4371
+White Lady Card,4372
+Green Maiden Card,4373
+Vesper Card,4374
+Orc Baby Card,4375
+Lady Tanee Card,4376
+Grove Card,4377
+Gold Acidus Card,4378
+Blue Acidus Card,4379
+Red Ferus Card,4380
+Green Ferus Card,4381
+Yellow Novus Card,4382
+Red Novus Card,4383
+Hydrolancer Card,4384
+Dragon Egg Card,4385
+Detardeurus Card,4386
+Ancient Mimic Card,4387
+Death Word Card,4388
+Plasma Card,4389
+Breeze Card,4390
+Baroness of Retribution Card,4391
+Dame of Sentinel Card,4392
+Mistress of Shelter Card,4393
+Lady Solace Card,4394
+Maero of Thanatos Card,4395
+Odium of Thanatos Card,4396
+Despero of Thanatos Card,4397
+Dolor of Thanatos Card,4398
+Memory of Thanatos Card,4399
+Aliza Card,4400
+Alicel Card,4401
+Aliot Card,4402
+Kiel-D-01 Card,4403
+Skogul Card,4404
+Frus Card,4405
+Skeggiold Card,4406
+Randgris Card,4407
+Gloom Under Night Card,4408
+Agav Card,4409
+Echio Card,4410
+Vanberk Card,4411
+Isilla Card,4412
+Hodremlin Card,4413
+Seeker Card,4414
+Snowier Card,4415
+Siroma Card,4416
+Ice Titan Card,4417
+Gazeti Card,4418
+Ktullanux Card,4419
+Muscipular Card,4420
+Drosera Card,4421
+Roween Card,4422
+Galion Card,4423
+Stapo Card,4424
+Atroce Card,4425
+Byorgue Card,4426
+Sword Guardian Card,4427
+Bow Guardian Card,4428
+Salamander Card,4429
+Ifrit Card,4430
+Kasa Card,4431
+Magmaring Card,4432
+Imp Card,4433
+Knocker Card,4434
+Zombie Slaughter Card,4435
+Ragged Zombie Card,4436
+Hell Poodle Card,4437
+Banshee Card,4438
+Flame Skull Card,4439
+Necromancer Card,4440
+Fallen Bishop Hibram Card,4441
+Tatacho Card,4442
+Aqua Elemental Card,4443
+Draco Card,4444
+Luciola Vespa Card,4445
+Centipede Card,4447
+Cornus Card,4448
+Dark Shadow Card,4449
+Banshee Master Card,4450
+Entweihen Crothen Card,4451
+Centipede Larva Card,4452
+Hillsrion Card,4453
+STR+1,4700
+STR+2,4701
+STR+3,4702
+STR+4,4703
+STR+5,4704
+STR+6,4705
+STR+7,4706
+STR+8,4707
+STR+9,4708
+STR+10,4709
+INT+1,4710
+INT+2,4711
+INT+3,4712
+INT+4,4713
+INT+5,4714
+INT+6,4715
+INT+7,4716
+INT+8,4717
+INT+9,4718
+INT+10,4719
+DEX+1,4720
+DEX+2,4721
+DEX+3,4722
+DEX+4,4723
+DEX+5,4724
+DEX+6,4725
+DEX+7,4726
+DEX+8,4727
+DEX+9,4728
+DEX+10,4729
+AGI+1,4730
+AGI+2,4731
+AGI+3,4732
+AGI+4,4733
+AGI+5,4734
+AGI+6,4735
+AGI+7,4736
+AGI+8,4737
+AGI+9,4738
+AGI+10,4739
+VIT+1,4740
+VIT+2,4741
+VIT+3,4742
+VIT+4,4743
+VIT+5,4744
+VIT+6,4745
+VIT+7,4746
+VIT+8,4747
+VIT+9,4748
+VIT+10,4749
+LUK+1,4750
+LUK+2,4751
+LUK+3,4752
+LUK+4,4753
+LUK+5,4754
+LUK+6,4755
+LUK+7,4756
+LUK+8,4757
+LUK+9,4758
+LUK+10,4759
+MATK+1%,4760
+MATK+2%,4761
+FLEE+6,4762
+FLEE+12,4763
+CRI+5,4764
+CRI+7,4765
+ATK+2%,4766
+ATK+3%,4767
+Headset,5001
+Jewel Crown,5002
+Joker Jester,5003
+Oxygen Mask,5004
+Gas Mask,5005
+Machoman's Glasses,5006
+Grand Circlet,5007
+Puppy Love,5008
+Safety Helmet,5009
+Indian Fillet,5010
+Aerial,5011
+Ph.D Hat,5012
+Lord Kaho's Horn,5013
+Fin Helm,5014
+Egg Shell,5015
+Boy's Cap,5016
+Bone Helm,5017
+Feather Bonnet,5018
+Corsair,5019
+Kafra Band,5020
+Grief for Greed,5021
+Hat of the Sun God,5022
+Parcel Hat,5023
+Cake Hat,5024
+Helm of Angel,5025
+Chef Hat,5026
+Mage Hat,5027
+Candle,5028
+Spore Hat,5029
+Panda Hat,5030
+Mine Hat,5031
+Sunday Hat,5032
+Raccoon Hat,5033
+Bulb Band,5034
+Poring Hat,5035
+Cross Hat,5036
+Nut Shell,5037
+Deviruchi Hat,5038
+Rainbow Eggshell,5039
+Blush,5040
+Heart Hairpin,5041
+Bao Bao,5042
+Opera Phantom Mask,5043
+Evil Wing Ears,5044
+Magician Hat,5045
+Bongun Hat,5046
+Fashionable Glasses,5047
+Cresent Hairpin,5048
+Striped Hairband,5049
+Wonder Nutshell,5050
+Pussy Cat Bell,5051
+Blue Hairband,5052
+Sphinx Hat,5053
+Assassin Mask,5054
+Novice False Eggshell,5055
+Fruit of Love,5056
+Black Cat Ears,5057
+Drooping Cat,5058
+Teddybear Hat,5059
+Party Hat,5060
+Flower Hairpin,5061
+Straw Hat,5062
+Giant Band Aid,5063
+Smokie Leaf,5064
+Blue Fish,5065
+Succubus Horn,5066
+Sombrero,5067
+Kitsune Mask,5069
+Hot-blooded Headband,5070
+Indian Headband,5071
+Incubus Horn,5072
+Model Training Hat,5073
+Angel Wing Ears,5074
+Cowboy Hat,5075
+Beanie,5076
+Tulip Hairpin,5077
+Sea-Otter Hat,5078
+X Hairpin,5079
+Crown of Ancient Queen,5080
+Crown of Mistress,5081
+Decorative Mushroom,5082
+Red Ribbon,5083
+Lazy Smokie,5084
+Small Ribbons,5085
+Alarm Mask,5086
+Poker Face,5087
+Surprised Mask,5088
+Annoyed Mask,5089
+Goblin Leader Mask,5090
+Decorative Golden Bell,5091
+Coif,5092
+Helmet of Orc Hero,5094
+Holiday Hat,5097
+Tiger Mask,5098
+Neko Mimi,5099
+Sales Banner,5100
+Takius's Blindfold,5101
+Blank Eyes,5102
+Sunflower Hairpin,5103
+Dark Blinder,5104
+2nd Anniversary Hat,5105
+Crunch Toast,5107
+Renown Detective's Cap,5108
+Red Bonnet,5109
+Baby Pacifier,5110
+Galapago Cap,5111
+Super Novice Hat,5112
+Angry Snarl,5113
+Bucket Hat,5114
+Winter Hat,5115
+Banana Hat,5116
+Mystic Rose,5117
+Puppy Headband,5118
+Zealotus Mask,5121
+Magni's Cap,5122
+Ulle's Cap,5123
+Fricca's Circlet,5124
+Angel's Kiss,5125
+Morpheus's Hood,5126
+Morrigane's Helm,5127
+Goibne's Helm,5128
+Bird Nest,5129
+Lion Mask,5130
+Close Helmet,5131
+Angeling Hat,5132
+Sheep Hat,5133
+Pumpkin-Head,5134
+Cyclop's Eye,5135
+Antonio's Santa Hat,5136
+Alice Doll,5137
+Magic Eyes,5138
+Hibiscus,5139
+Charming Ribbon,5140
+Marionette Doll,5141
+Crescent Helm,5142
+Kabuki Mask,5143
+Gambler Hat,5144
+Carnival Joker Jester,5145
+Elephant Hat,5146
+Baseball Cap,5147
+Phrygian Cap,5148
+Silver Tiara,5149
+Note Headphones,5151
+Chinese Crown,5152
+Angeling Hairpin,5153
+Father's Sunglasses,5154
+Father's White Moustache,5155
+Father's Mask,5156
+Bride Mask,5169
+Feather Beret,5170
+Valkyrie Helm,5171
+Beret,5172
+Magistrate Hat,5173
+Ayam,5174
+Censor Bar,5175
+Hahoe Mask,5176
+Mythical Lion Mask,5177
+Golden Tiara,5179
+France Holiday Hat,5180
+Helm of Darkness,5181
+Puppy Hat,5182
+Bird Nest Hat,5183
+Captain's Hat,5184
+Laurel Wreath,5185
+Geographer Band,5186
+Twin Ribbon,5187
+Wandering Minstrel Hat,5188
+Autumn Leaves,5189
+Independence Memorial Hat,5190
+Black Ribbon,5191
+Yellow Ribbon,5192
+Green Ribbon,5193
+Pink Ribbon,5194
+Orange Ribbon,5196
+White Ribbon,5197
+Drooping Bunny,5198
+Coppola,5200
+Fantastic Pumpkin-Head,5202
+Smiling Mask,5203
+Rudolph's Nose,5204
+Emperor's Laurel Crown,5205
+Romantic White Flower,5206
+Angel Blessing,5207
+Rideword Hat,5208
+Love Dad Cap,5209
+Flapping Angel Wing,5210
+Dress Hat,5211
+Satellite Hairband,5212
+Sheila Hairnet,5213
+Moonlight Flower Hat,5214
+Evolved Angel Wing,5215
+Evolved Evil Wing,5216
+Evolved Majestic Goat,5217
+Evolved Bunny Band,5218
+Evolved Drooping Cat,5219
+Evolved Pipe,5220
+Evolved Pair of Red Ribbon,5221
+Evolved Blue Fish,5222
+Evolved Big Golden Bell,5223
+Evolved Orc Hero Helm,5224
+Parade Hat,5225
+Red Deviruchi Hat,5227
+Gray Deviruchi Hat,5228
+Brown Deviruchi Hat,5229
+Gray Drooping Cat,5230
+Brown Drooping Cat,5231
+Pink Drooping Cat,5232
+Blue Drooping Cat,5233
+Yellow Drooping Cat,5234
+Brown Beanie,5235
+Blue Beanie,5236
+Pink Beanie,5237
+Red Mage Hat,5238
+Gray Mage Hat,5239
+Brown Mage Hat,5240
+Blue Mage Hat,5241
+Yellow Mage Hat,5242
+Shafka,5243
+Elven Blindfold,5244
+Elven Sunglasses,5245
+Angelic Helm,5246
+Satanic Helm,5247
+Robotic Blindfold,5248
+Human Blindfold,5249
+Robotic Ears,5250
+Round Ears,5251
+Drooping Ninetail,5252
+Lif Doll Hat,5253
+Deviling Hat,5254
+Triple Poring Hat,5255
+Valkyrie Feather Band,5256
+Soul Ring,5257
+Afro Wig,5258
+Cookie Hat,5260
+Pagdayaw,5263
+Australian Flag Hat,5264
+Phoenix Crown,5271
+Tongue Mask,5272
+Happy Wig,5273
+Shiny Wig,5274
+Marvelous Wig,5275
+Fantastic Wig,5276
+Yellow Bandana,5277
+Refined Drooping Cat,5279
+Baphomet Horns,5280
+Refined Deviruchi Hat,5281
+Europe Baseball Cap,5282
+Chick Hat,5283
+Water Lily Crown,5284
+Vane Hairpin,5285
+Pecopeco Hairband,5286
+Vacation Hat,5287
+Red Glasses,5288
+Vanilmirth Hat,5289
+Kettle Hat,5291
+Dragon Skull,5292
+Ramen Hat,5293
+Whisper Mask,5294
+Golden Bandana,5295
+Drooping Nine Tail,5296
+Soul Wing,5297
+Dokebi's Wig,5298
+Bullock Helm,5300
+Victory Hairband,5301
+Flower Lily,5302
+Flower Crown,5303
+Cap Of Blindness,5304
+Pirate Dagger,5305
+Freya's Crown,5306
+Carmen Miranda's Hat,5307
+Brazil National Flag Hat,5308
+Wool Mask,5309
+Shining Electric Bulb Hairband,5310
+Large Hisbiscus,5311
+Ayothaya King's Hat,5312
+Diadem,5313
+Hockey Mask,5314
+Observer,5315
+Umbrella Hat,5316
+Fisherman's Hat,5317
+Poring Party Hat,5318
+Hello Mother Hat,5319
+Champion Wreath,5320
+Bandana Merah Putih,5321
+Kerchief,5322
+Misstrance Crown,5323
+Little Angel Doll,5324
+Robo Eye,5325
+Masquerade C,5326
+Refined Helmet of Orc Hero,5327
+Evil Wing Ears C,5328
+Dark Blindfold C,5329
+kRO Drooping Kitty C,5330
+Corsair C,5331
+Loki Mask,5332
+Radio Antenna,5333
+Flapping Angeling,5334
+Jumping Poring,5335
+Guildsman Recruiter Hat,5336
+Party Recruiter Hat,5337
+Bf Recruiter Hat,5338
+Friend Recruiter Hat,5339
+Defolty Doll Hat,5340
+Glaris Doll Hat,5341
+Sorin Doll Hat,5342
+Telling Doll Hat,5343
+Bennit Doll Hat,5344
+W Doll Hat,5345
+Gf Recruiter Hat,5346
+Poporing Cap,5352
+Muslim Hat M,5354
+Selendang,5355
+Festival Pumpkin Hat,5356
+Wings Of Victory,5357
+Peco Ears,5358
+Ship Captain Hat,5359
+Hyuke's Black Cat Ears,5360
+Gangster Scarf,5361
+Ninja Scroll,5362
+Helm Of Abyss,5363
+Evil Snake Lord Hat,5364
+Magnolia Hat,5365
+Love Dad Bandana,5366
+Hyegun Hat,5367
+White Wing,5368
+Dark Wing,5369
+Orchid Hairband,5370
+Judge Hat,5371
+Koneko Hat,5372
+Dark Randgris Helm,5373
+Gigantic Majestic Goat,5374
+Orc Hero Headdress,5375
+Flying Evil Wing,5376
+Gentleman's Pipe,5377
+Bunny Top Hat,5378
+Tam,5379
+Fish Head Hat,5380
+Santa Poring Hat,5381
+Bell Ribbon,5382
+Hunter's Cap,5383
+Twin Pompom By JB,5384
+Yoyo Hat,5385
+Neko Mimi Kafra,5387
+Snake Head Hat,5388
+Angel Spirit,5389
+Frozen Twin Pompom,5390
+Toast,5391
+Luoyang NewYear Hat,5392
+Love Valentine's Hat,5393
+Bubblegum,5394
+Striped Hat,5395
+Jasper Crest,5396
+Scuba Gear,5397
+Bone Head,5398
+Mandragora Cap,5399
+Fox Hat,5400
+Black Frame Glasses,5401
+Mischievous Fairy,5402
+Fish In Mouth,5403
+Blue Ribbon,5404
+Filir Hat,5405
+Academy Freshman Hat,5406
+Academy Completion Hat,5407
+Old Bandana,5408
+Purple Cowboy Hat,5409
+Brown Paperbag Hat,5410
+White Snake Hat,5411
+Sweet Candy,5412
+Pop Corn Hat,5413
+Camp Fire Hat,5414
+Poring Cake Hat,5415
+Beer Hat,5416
+Crown Parrots,5417
+Legionnaire Hat,5418
+Leaves Of Grass,5419
+Mask Of Ifrit,5420
+Ears Of Ifrit,5421
+Linguistic Book Hat,5422
+I Love China,5423
+Fanta Orange Can Hat,5424
+Fanta Grape Can Hat,5425
+Karada Meguricha Hat,5426
+Black Tea Kochakaden Hat,5427
+RWC Anniversary Bread Envelope,5428
+Bogy Cap,5429
+Torch Cap,5430
+Chicken Hat,5431
+bRO 4th Anniversary Hat,5432
+Golden Laurel,5433
+Red Minstrel Hat,5435
+Bride's Corolla,5436
+Fairy Flower,5437
+Cute Green Ribbon,5438
+Cute Red Ribbon,5439
+Cute Blue Ribbon,5440
+Cute White Ribbon,5441
+Necktie,5442
+Statue Of Baby Angel,5443
+Hair Brush,5444
+Candy Cane In Mouth,5445
+Catfoot Hairpin,5446
+Frog Hat,5447
+Soloplay Box1,5448
+Soloplay Box2,5449
+Solar Hat,5450
+RWC 2008 Dragon Helm Gold,5451
+RWC 2008 Dragon Helm Silver,5452
+RWC 2008 Dragon Helm Copper,5453
+Decorative Geographer,5455
+Summer Hat,5456
+Moon Rabbit Hat,5457
+Pinwheel Hat,5458
+Evolved Dragon Skull Hat,5460
+Evolved Whisper Mask,5461
+Spiked Scarf,5462
+Rainbow Scarf,5463
+Zaha Doll Hat,5464
+Grand Peco Hairband,5476
+Brazilian Flag Hat,5477
+Classic Hat,5478
+Shaman's Hair Decoration,5479
+Bijofnil Wings,5480
+Hermode Cap,5481
+Dark Knight Mask,5482
+Odin Mask,5483
+Tiger Face,5485
+Anniversary Hat,5486
+Twin Santa Hat,5488
+Love Daddy Hat,5489
+Anubis Helm,5490
+Bandit Hat,5491
+Student Cap,5492
+Power Of Thor,5495
+Dice Hat,5496
+King Tiger Doll Hat,5497
+Wandering Wolf Helm,5498
+Pizza Hat,5499
+Icecream Hat,5500
+Pirate's Pride,5501
+Necromancer's Hood,5502
+Magic Rabit Hat,5503
+Wedding Weil,5504
+Asara Fairy Hat,5505
+Blue Night Cap,5506
+Pink Night Cap,5507
+Shark Hat,5508
+Sting hat,5509
+Shower Cap,5510
+Samambaia,5511
+Aquarius Diadem,5512
+Aquarius Crown,5513
+Pisces Diadem,5514
+Pisces Crown,5515
+hawk Eyes,5516
+Peacock Feather,5519
+Rabbit Earplugs,5520
+Angry Mouth,5521
+Fanta Zero Lemon Hat,5522
+Sakura Mist Hat,5523
+Sakura Milk Tea Hat,5524
+Flower Hat,5525
+Tanigumi Girl Doll,5526
+Lunatic Hat,5527
+Frog King Hat,5528
+Satanic Bone Helm,5529
+Raven Cap,5530
+Baby Dragon Hat,5531
+Emperor Wreath,5533
+Side Cap,5535
+Spare Card,5536
+Kwati Hat,5537
+Tucan Hat,5538
+Jaguar Hat,5539
+Freyja SCirclet7,5540
+Freyja SCirclet30,5541
+Freyja SCirclet60,5542
+Freyja SCirclet90,5543
+Time Keeper Hat,5544
+Aries Diadem,5545
+Aries Crown,5546
+RJC Katusa Flower,5547
+Scarlet Rose,5548
+Taurus Diadem,5549
+Taurus Crown,5550
+Festival Grand Circlet,5552
+Festival Bunny Band,5553
+Octopus Hat,5554
+Leaf Cat Hat,5555
+Seal Hat,5556
+Wild Rose Hat,5557
+Luxury Hat,5558
+Piece Of White Cloth,5559
+Magic Rabbit Hat,5561
+Luxurious Wedding Veil,5562
+Crown of Deceit,5564
+Dragon Arhat Mask,5565
+Tiger Arhat Mask,5566
+Bright Fury,5567
+Rabbit Bonnet,5568
+Gemini Diadem,5569
+Gemini Crown,5570
+Savage Babe Hat,5572
+Well-Chewed Pencil,5574
+Rice Ball Hat,5575
+Voyage_Hat,5578
+Wanderer's Sakkat,5579
+Cancer Diadem,5581
+Cancer Crown,5582
+Eden Team Hat,5583
+Majestic Evil Horns,5584
+Rune Cloth Circlet,5585
+Mosquito Coil,5586
+Sigrun's Wings,5592
+Donut In Mouth,5594
+4Leaf Clover In Mouth,5596
+Bubble Gum In Mouth,5597
+Brazil Twin Ribbon,5600
+RTC First Place,5603
+RTC Second Place,5604
+RTC Third Place,5605
+Darkness Helm,5653
+Holy Marching Hat,5654
+Imp Hat,5658
+Sleeper Hat,5659
+Gryphon Hat,5660
+Filir's Pinions,5664
+Shaman Hat,5665
+Golden Crown,5666
+Skull Hood,5667
+Weird Pumpkin Hat,5668
+Drooping Morocc Minion,5671
+Triangle Rune Cap,5682
+Ornate Crown,5684
+Nice Hat Feather,5686
+Red Wing Hat,5690
+Sailor's Bandana,5691
+Sea Cat Hat,5692
+Snowman Hat,5738
+Eternal Egg Shell,5741
+Rudolph Santa Hat,5742
+Splash Hat,5770
+Family Hat,5771
+Choco Donut In Mouth,5775
+Persika,5781
+Ancient Elven Ear,5786
+3D Glasses,5788
+Fish Pin,5792
+Ribbon Of Life,5793
+Cheer Scarf,5796
+Cheer Scarf2,5797
+Cheer Scarf3,5798
+Cheer Scarf4,5799
+Blush of Groom,5800
+Red Tailed Ribbon,5801
+Upgraded Elephant Hat,5802
+Love Flower Hat,5803
+Pirate Eye Bandage,5804
+Victorious Coronet,5805
+Poet Natalie's Hat,5806
+October Fest Cap,5807
+Dark Bacilium,5808
+Boom Boom Hat,5809
+Ph.D Hat V,5810
+Santa's Beard,5811
+Hat Of Expert,5812
+Valentine Pledge,5817
+Carnival Hat,5818
+Carnival Circlet,5819
+Gold Tulip Hairpin,5821
+Love Chick Hat,5822
+Fools Day Hat,5824
+Valkyrie Helmet,5826
+Book File Hat,5827
+Honor Gold Ring,5828
+Loyal Ring3,5844
+Buzzy Ball Gum,5846
+Summer Knight,5851
+Passion FB Hat,5856
+Cool FB Hat,5857
+Victory FB Hat,5858
+Glory FB Hat,5859
+Ashes of Darkness,6000
+Essence of Fire,6001
+Token of Apostle,6002
+Pendant of Spirit,6003
+Cursed Baphomet Doll,6004
+New Year Rice Cake,6005
+Rice Cake Delivery Box,6006
+New Year Rice Cake Soup,6007
+Wood,6008
+Big Fan Of Magic,6009
+Hoe,6010
+Blue B Card,6011
+Blue C Card,6012
+Blue J Card,6013
+Blue M Card,6015
+Blue Q Card,6016
+Blue T Card,6017
+Blue V Card,6018
+Blue Z Card,6019
+Fur,6020
+Peaked Hat,6021
+Hard Skin,6022
+Mystic Horn,6023
+17Carat Diamond,6024
+Towel of Memory,6025
+Written Oath Of Marriage,6026
+Crystal Of Feardom,6027
+Sealed Scroll,6028
+Morocc Tracing Log,6029
+Glittering Paper,6030
+Horn of Tendrilion,6033
+Weird Part,6034
+Decaying Stem,6035
+Meeting Invitation,6036
+Messy File,6037
+Neat Report,6038
+Piece of Fish,6039
+Part of a Report,6040
+Strong Vine,6041
+Ordinary Branch,6042
+Letter from Lugen,6043
+Letter from Otto,6044
+Supply Box,6045
+Clothing Dye Coupon,6046
+Clothing Dye Coupon II,6047
+Unidentified Mineral,6048
+Marlin,6049
+Mercenary Contract,6050
+Gray Hollow,6051
+Ornament Hairpin,6052
+Circle Step,6053
+Number 6 Card,6054
+Character Week Card,6055
+Character Year Card,6056
+Character Lee Card,6057
+Character Ben Card,6058
+Character Project Card,6059
+Month Viewing Ticket,6060
+Blood Beginner,6061
+Letter Moon Cake,6062
+Leather Rabbit,6068
+Abundance,6069
+Shaman's Document,6070
+Broken Sword,6071
+Bijofnil Feather,6072
+Dragon's Mane,6073
+Bazett's Order,6074
+Crystalized Teardrop,6075
+Portable Toolbox,6076
+Rough Mineral,6077
+Stone Fragment,6078
+Flower Of Alfheim,6079
+Manuk Coin,6080
+Splendide Coin,6081
+Spirit Of Alfheim,6082
+Capsule Dolls,6083
+Bradium Fragments,6084
+Shaggy Muffler,6085
+Withered Flower,6086
+Spiritual Crystal,6087
+Dark Piece,6089
+Refined Bradium,6090
+Dark Red Scale,6091
+Piece Of Singing Crystal,6092
+Draco's Egg,6093
+Traditional Sweets,6094
+Flavored Alcohol,6095
+Fish With Blue Back,6096
+Pumpkin Pie,6097
+Small Snow Flower,6098
+Grilled Rice Cake,6099
+Damp Darkness,6100
+Attendance Card,6101
+Report On Splendide,6102
+Report On Manuk,6103
+Big Cell,6104
+Morning Dew,6105
+Well Ripened Berry,6106
+Sunset On The Rock,6107
+Apple Pudding,6108
+Plant Neutrient,6109
+Vital Flower,6110
+Mystic Stone,6111
+Fresh Plant,6112
+Flame Gemstone,6114
+Bun,6115
+Succubus Pet Exchange Coupon,6116
+Imp Pet Exchange Coupon,6117
+Chung E Exchange Coupon,6118
+Cow Leather,6119
+Face Paint,6120
+Makeover Brush,6121
+Paint Brush,6122
+Surface Paint,6123
+Wolf Flute,6124
+Spring Time Box,6125
+Summer Happy Box,6126
+Purification Stone,6127
+Antidote,6128
+Nightmare Terror Exchange Coupon,6129
+Loli Ruri Exchange Coupon,6130
+Goblin Leader Exchange Coupon,6131
+Incubus Exchange Coupon,6132
+Miyabi Ningyo Exchange Coupon,6133
+Giant Whisper Exchange Coupon,6134
+Evil Nymph Exchange Coupon,6135
+Medusa Exchange Coupon,6136
+Stone Shooter Exchange Coupon,6137
+Marionette Exchange Coupon,6138
+Leaf Cat Exchange Coupon,6139
+Dullahan Exchange Coupon,6140
+Shinobi Exchange Coupon,6141
+Golem Exchange Coupon,6142
+Civil Servant Exchange Coupon,6143
+Regrettable Tears,6144
+Vulcan Bullet,6145
+Magic Gear Fuel,6146
+Liquid Condensed Bullet,6147
+Eternity Of Chocolate,6148
+Simple Chocolate,6149
+Key of The Mansion,6150
+Giant Bradium Fragment,6151
+Glittering Crystal,6152
+Special Exchange Ticket,6153
+Broken Horn Pipe,6154
+Member Card,6155
+Approval Report,6156
+Poring Exchange Ticket,6157
+Drops Exchange Ticket,6158
+Poporing Exchange Ticket,6159
+Lunatic Exchange Ticket,6160
+Picky Exchange Ticket,6161
+Peco Peco Exchange Ticket,6162
+Savage Babe Exchange Ticket,6163
+Spore Exchange Ticket,6164
+Poison Spore Exchange Ticket,6165
+Chonchon Exchange Ticket,6166
+Steel Chonchon Exchange Ticket,6167
+Sky Petite Exchange Ticket,6168
+Deviruchi Exchange Ticket,6169
+Isis Exchange Ticket,6170
+Smokie Exchange Ticket,6171
+Dokebi Exchange Ticket,6172
+Baby Desert Wolf Exchange Ticket,6173
+Yoyo Exchange Ticket,6174
+Sohee Exchange Ticket,6175
+Rocker Exchange Ticket,6176
+Hunter Fly Exchange Ticket,6177
+Orc Warrior Exchange Ticket,6178
+Bapho Jr. Exchange Ticket,6179
+Munak Exchange Ticket,6180
+Bongun Exchange Ticket,6181
+Christmas Goblin Exchange Ticket,6182
+Rice Cake Exchange Ticket,6183
+Zherlthsh Exchange Ticket,6184
+Alice Exchange Ticket,6185
+Monkey Wrench,6186
+Blank Card,6187
+Slotting Advertisement,6188
+Spell Book (Fire Bolt),6189
+Spell Book (Cold Bolt),6190
+Spell Book (Lightening Bolt),6191
+Spell Book (Storm Gust),6192
+Spell Book (Lord Of Vermilion),6193
+Spell Book (Meteor Storm),6194
+Spell Book (Comet),6195
+Spell Book (Tetra Vortex),6196
+Spell Book (Thunder Storm),6197
+Spell Book (Jupitel Thunder),6198
+Spell Book (Water Ball),6199
+Spell Book (Heaven's Drive),6200
+Spell Book (Earth Spike),6201
+Spell Book (Earth Strain),6202
+Spell Book (Chain Lightning),6203
+Spell Book (Crimson Rock),6204
+Spell Book (Drain Life),6205
+I Love You,6206
+Thank You,6207
+I Respect You,6208
+Knight's Honor,6209
+Seed Of Thorny Plant,6210
+Bloodsuck Plant Seed,6211
+Bomb Mushroom Spore,6212
+Explosive Powder,6213
+Smoke Powder,6214
+Tear Gas,6215
+Oil Bottle,6216
+Mandragora Flowerpot,6217
+Delivery_Daishin_Box,6218
+Eden Group Mark,6219
+Mysterious Dyestuff,6220
+Mystic Leaf Cat Ball,6221
+Shining Beads,6222
+Carnium,6223
+Bradium,6224
+HD Carnium,6225
+HD Bradium,6226
++9 Weapon Refine Ticket,6228
++8 Weapon Refine Ticket,6229
++7 Weapon Refine Ticket,6230
++6 Weapon Refine Ticket,6231
++9 Armor Refine Ticket,6232
++8 Armor Refine Ticket,6233
++7 Armor Refine Ticket,6234
++6 Armor Refine Ticket,6235
+Blue Card 7,6236
+Guarana Fruit,6237
++11 Weapon Refine Ticket,6238
++11 Armor Refine Ticket,6239
+HD Oridecon,6240
+HD Elunium,6241
+Midgard Coin,6242
+Exchange Coupon,6243
+Gun Powder,6244
+Black Powder,6245
+Yellow Powder,6246
+White Powder,6247
+Melange Pot,6248
+Savage Meat,6249
+Cooking Skewer,6250
+Black Charcoal,6251
+Blood Of Wolf,6252
+Cold Ice,6253
+Beef Head,6254
+Large Cookpot,6255
+Ice Piece,6256
+Ice Crystal,6257
+Comodo Tropical Fruit,6258
+Drosera Tentacle,6259
+Petite's Tail,6260
+Fine Noodles,6261
+Cool Gravy,6262
+Coconut Fruit,6263
+Melon,6264
+Pineapple,6265
+Key Of Deception,6266
+Key Of Illusion,6267
+Key Of Gaiety,6268
+A Master's Blush,6269
+A Picture Of Minstrel Song,6270
+Receipt,6271
+Experiment Seed,6272
+Seed For Experiment,6273
+A Piece Of Cloth Of A Saint,6274
+Shield Of King,6275
+Clear Reagent,6276
+Red Reagent,6277
+Black Reagent,6278
+Apple Bomb Guidebook,6279
+Pineapple Bomb Guidebook,6280
+Coconut Fruit Bomb Guidebook,6281
+Melon Bomb Guidebook,6282
+Banana Bomb Guidebook,6283
+How To Grow Plant Genes,6284
+Manual: How To Make High Quality Potion,6285
+F Max Weight Up Scroll,6286
+F Clothing Dye Coupon,6287
+F Happy Box,6288
+F Mysterious Dyestuff,6289
+F New Style Coupon,6290
+F Enriched Elunium,6291
+F Enriched Oridecon,6292
+F Token Of Siegfried,6293
+F Marriage Covenant,6294
+F Clothing Dye Coupon2,6295
+Training Notice,6296
+Throwing Bottle,6297
+Pumpkin Head Crushed,6298
+Worn Cloth Piece,6299
+event,6300
+GM Handwriting,6302
+Changed Hydra Ball,6303
+Proof Of Sapha's Honor,6304
+Frozen Piece Of Skin,6305
+Hard Bloodstain,6306
+Cursed Magical Stone,6307
+Unidentified Relic,6308
+E Max Weight Up Scroll,6309
+E Cloth Dye Coupon,6310
+E Happy Box,6311
+E Mysterious Dyestuff,6312
+E New Style Coupon,6313
+E Enriched Elunium,6314
+E Enriched Oridecon,6315
+E Token Of Siegfried,6316
+E Marriage Covenant,6317
+E Cloth Dye Coupon2,6318
+Small Bradium,6319
+Premium Reset Stone,6320
+Rakehorn Helm,6321
+Antler Helmet,6322
+Two-Horned Helmet,6323
+Single Horned Helmet,6324
+White Spider Limb,6325
+Queen Wing Piece,6326
+Calender January,6328
+Calender February,6329
+Calender March,6330
+Calender April,6331
+Calender May,6332
+Calender June,6333
+Calender July,6334
+Calender August,6335
+Calender September,6336
+Calender October,6337
+Calender November,6338
+Calender December,6339
+Fade Notation Green,6340
+Fade Notation Red,6341
+Fade Notation Purple,6342
+Fade Notation Blue,6343
+Muscle Story,6344
+Love Ball,6345
+Seagate Mark,6346
+Bless Word Paper,6347
+Fortune Cookie Fail,6357
+Free Cash Coupon,6358
+Guidebook Exchange,6359
+Scarlet Point,6360
+Indigo Point,6361
+Yellow Wish Point,6362
+Lime Green Point,6363
+Amatsu Bead A,6369
+Amatsu Bead Ma,6370
+Amatsu Bead Tsu,6371
+Amatsu Bead Jam,6372
+Amatsu Bead Bo,6373
+Amatsu Bead Ree,6374
+Amatsu Bead !,6375
+KVM Badge,6376
+Buy Market Permit,6377
+Winning Mark,6378
+7Star Board,6379
+Mora Coin,6380
+Field Shovel,6381
+Urn,6382
+Lope's Clue,6383
+Lope's Ring,6384
+Research Tool Bag,6385
+Bath Water Sample,6386
+Teeth Sample,6387
+Scale Sample,6388
+Sample Of Puddle Research,6389
+Small Pocket,6390
+Splendid Supply Kit,6391
+Bradium Box,6392
+Round Feather,6393
+Golden Feather,6394
+Angel Magic Power,6395
+Auger Of Spirit,6396
++5 Weapon Refine Ticket,6456
++5 Armor Refine Ticket,6457
+Makibishi,6493
+Ancient Grudge,6499
+Fire Amulet,6512
+Ice Amulet,6513
+Wind Amulet,6514
+Earth Amulet,6515
+Mould Powder,7001
+Ogre Tooth,7002
+Anolian Skin,7003
+Mud Lump,7004
+Skull,7005
+Wing of Red Bat,7006
+Claw of Rat,7007
+Stiff Horn,7008
+Glitter Shell,7009
+Tail of Steel Scorpion,7010
+Claw of Monkey,7011
+Tough Scalelike Stem,7012
+Coral Reef,7013
+Old Portrait,7014
+Bookclip in Memory,7015
+Spoon Stub,7016
+Executioner's Mitten,7017
+Young Twig,7018
+Loki's Whispers,7019
+Mother's Nightmare,7020
+Foolishness of the Blind,7021
+Old Hilt,7022
+Blade Lost in Darkness,7023
+Bloody Edge,7024
+Lucifer's Lament,7025
+Key of Clock Tower,7026
+Key of Underground,7027
+Invite for Duel,7028
+Admission for Duel,7029
+Claw of Desert Wolf,7030
+Old Frying Pan,7031
+Piece of Egg Shell,7032
+Poison Spore,7033
+Red Stocking,7034
+Matchstick,7035
+Fang of Hatii,7036
+Coupon,7037
+Yarn,7038
+Newbie Tag,7039
+Megaphone,7040
+Fine Grit,7041
+Leather Bag of Infinity,7042
+Fine Sand,7043
+Vigorgra,7044
+Magic Paint,7045
+Cart Parts,7046
+Alice's Apron,7047
+Talon of Griffon,7048
+Stone,7049
+Cotton Mat,7050
+Silk Mat,7051
+Old Papers,7052
+Cyfar,7053
+Brigan,7054
+Animal Poop,7055
+Payment Statement for Kafra Employee,7056
+Gjallar,7057
+Gleipnir,7058
+Free Ticket for Kafra Storage,7059
+Free Ticket for Kafra Transportation,7060
+Free Ticket for the Cart Service,7061
+Broken Turtle Shell,7062
+Soft Feather,7063
+Wing of Dragonfly,7064
+Sea-Otter Fur,7065
+Ice Cubic,7066
+Burnt Tree,7068
+Destroyed Armor,7069
+Broken Shell,7070
+Tattered Clothes,7071
+Old Shuriken,7072
+Freya's Jewel,7073
+Thor's Gauntlets,7074
+Iron Maiden,7075
+Wheel of the Unknown,7076
+Silver Ornament,7077
+Wrath of Valkyrie,7078
+Feather of Angel Wing,7079
+Cat Tread,7080
+Woman's Moustache,7081
+Root of Stone,7082
+Spirit of Fish,7083
+Sputum of Bird,7084
+Sinew of Bear,7085
+Emblem of the Sun God,7086
+Breath of Spirit,7087
+Snow Crystal,7088
+Omen of Tempest,7089
+Ripple,7090
+Billow,7091
+Drifting Air,7092
+Cogwheel,7093
+Fragment,7094
+Metal Fragment,7095
+Lava,7096
+Burning Heart,7097
+Live Coal,7098
+Worn-out Magic Scroll,7099
+Sharp Leaf,7100
+Peco Peco Feather,7101
+Nightmare,7102
+Unknown Liquid Bottle,7103
+False Angel Wing,7104
+False Heaven Ring,7105
+Antelope Horn,7106
+Antelope Skin,7107
+Piece of Shield,7108
+Shining Spear Blade,7109
+Slick Paper,7111
+Sharp Paper,7112
+Broken Pharaoh Emblem,7113
+Masque of Tutankhamen,7114
+Harpy Feather,7115
+Harpy Talon,7116
+Torn Magic Book,7117
+Torn Scroll,7118
+Bacillus,7119
+Burning Horseshoe,7120
+Honey Pot,7121
+Burning Hair,7122
+Dragon Skin,7123
+Sand Clump,7124
+Scorpion Claw,7125
+Large Jellopy,7126
+Alcohol Creation Guide,7127
+Bottle Grenade Creation Guide,7128
+Acid Bottle Creation Guide,7129
+Plant Bottle Creation Guide,7130
+Marine Sphere Creation Guide,7131
+Glistening Coat Creation Guide,7132
+Condensed Potion Creation Guide,7133
+Medicine Bowl,7134
+Bottle Grenade,7135
+Acid Bottle,7136
+Plant Bottle,7137
+Marine Sphere Bottle,7138
+Glistening Coat,7139
+Seed of Life,7140
+Morning Dew of Yggdrasil,7141
+Embryo,7142
+Glass Tube,7143
+Potion Creation Guide,7144
+Ragnarok T-shirt,7145
+Vacation Ticket,7146
+Jasmine,7147
+Mother's Letter,7148
+Yellow Plate,7149
+Piece of Bamboo,7150
+Oil Paper,7151
+Glossy Hair,7152
+Worn-out Kimono,7153
+Poisonous Powder,7154
+Poisonous Toad Skin,7155
+Broken Shuriken,7156
+Dark Mask,7157
+Broken Liquor Jar,7158
+Tengu Nose,7159
+Feudal Lord Permit,7160
+Black Bear Skin,7161
+Cloud Crumb,7162
+Hard Feeler,7163
+Solid Peach,7164
+Transparent Celestial Robe,7165
+Soft Silk,7166
+Strange Steel Piece,7167
+Giant Butterfly Wing,7168
+Ba Gua,7169
+Tuxedo,7170
+Leopard Skin,7171
+Leopard Claw,7172
+iROGM02's Backpack,7173
+Wrapping Lace,7174
+Wrapping Paper,7175
+Royal Certificate,7176
+Crumb of Sobbing Starlight,7177
+Sobbing Starlight,7178
+Proof of Donation,7179
+Hahn Sukbong's Recommendation,7180
+Cacao,7182
+Letter from Sister,7183
+Piano Key,7184
+Quiz Entry,7185
+Thin Trunk,7186
+Festival Mask,7187
+Brown Root,7188
+Wooden Heart,7189
+Solid Husk,7190
+Lamp,7191
+Vane,7192
+Sprout,7193
+Soft Blade of Grass,7194
+Slingshot,7195
+Shoulder Protector,7196
+Tough Vines,7197
+Huge Leaf,7198
+Elastic Band,7200
+Log,7201
+Pincher of Beetle,7202
+Strong Branch,7203
+Gunpowder,7204
+Piece of Black Cloth,7205
+Black Cat Doll,7206
+Old Manteau,7207
+Rusty Kitchen Knife,7208
+Helm of Dullahan,7209
+Armor Piece of Dullahan,7210
+Fragment of Rossata Stone,7211
+Hung Doll,7212
+Needle Packet,7213
+Bat Cage,7214
+Broken Needle,7215
+Red Muffler,7216
+Spool,7217
+Decomposed Rope,7218
+Striped Sock,7219
+Ectoplasm,7220
+Tangled Chains,7221
+Wooden Gnarl,7222
+Contorted Self-Portrait,7223
+Stone of Sage,7224
+Pumpkin Lantern,7225
+Pellet,7226
+TCG Card,7227
+Gold Bullion,7228
+Silver Bullion,7229
+Platinum Bullion,7230
+Gold Ore,7231
+Silver Ore,7232
+Mithril Ore,7233
+Spirit of Guild,7234
+Spirit of Charge,7235
+Spirit of Protection,7236
+Spirit of Association,7237
+Spirit of Coordination,7238
+Spirit of Advance,7239
+Spirit of Trust,7240
+Spirit of Union,7241
+Spirit of Combination,7242
+Spirit of Cooperation,7243
+Spirit of Solidarity,7244
+Spirit of Friendship,7245
+Spirit of Peace,7246
+Spirit of Determination,7247
+Spirit of Honor,7248
+Spirit of Service,7249
+Spirit of Glory,7250
+Spirit of Victory,7251
+Herbal Medicine,7252
+Golden Korean Flag,7253
+Digital Picture Printing Coupon,7254
+Mystic Orb,7255
+Folding Fan of Cat Ghost,7262
+Cat's Eye,7263
+Dry Sand,7264
+Dragon Horn,7265
+Denture from Dragon Mask,7266
+Tiger Panty,7267
+Little Ghost Doll,7268
+Pinafore,7269
+Nursing Bottle,7270
+Rice Ball Doll,7272
+RWC Necklace,7273
+Translated Ancient Language,7274
+Record of Ancient Language,7275
+Doodled Message,7276
+Munak Doll,7277
+Letter to Wife,7278
+Vita500 Lid,7279
+1st Quiz Entry,7280
+2nd Quiz Entry,7281
+3rd Quiz Entry,7282
+4th Quiz Entry,7283
+5th Quiz Entry,7284
+Holy Threads,7285
+Red Chile,7286
+Holier Threads,7287
+Engagement Ring,7288
+Peridot,7289
+Phlogopite,7290
+Agate,7291
+Muscovite,7292
+Rose Quartz,7293
+Turquoise,7294
+Citrin,7295
+Pyroxene,7296
+Biotite,7297
+Fig Leaf,7298
+Straw Basket,7299
+Gemstone,7300
+Tassel,7301
+Krathong,7302
+Straw Rice Bag,7303
+Witch's Spell Scroll,7304
+Symbol of the Nine Realms,7305
+Piece of Spirit,7306
+Spiritual Whispers,7307
+Witch's Tonic,7308
+Crow Wing,7309
+Free Ticket for Peco Ride,7310
+Free Ticket for Flyship,7311
+Jubilee,7312
+Witch's Medal,7313
+Dark Crystal Fragment,7315
+Insect Leg,7316
+Rusty Screw,7317
+Old Pick,7318
+Used Iron Plate,7319
+Dust Pollutant,7320
+Crystal Fragment,7321
+Toxic Gas,7322
+Battered Kettle,7323
+Flexible Tube,7325
+Fluorescent Liquid,7326
+Flashlight,7327
+Legend of Songkran,7328
+Old Bronze Key,7329
+Heaven Flower,7331
+Complete Tablet,7332
+Prontera Tablet,7333
+Payon Tablet,7334
+Morocc Tablet,7335
+Geffen Tablet,7336
+Eye of Hellion,7337
+One-way Ticket,7338
+Commemorative Travel Card,7339
+Will of the Darkness,7340
+Old Pendant,7341
+File Folder,7342
+Sealed File Folder,7343
+Shinokas Case File,7344
+Handcuffs,7345
+Ymir's Heart Piece,7346
+Research Chart,7347
+Membership Card,7348
+Archive Permit,7349
+Pass,7350
+Friend's Diary,7351
+Transparent Plate,7352
+Crest Piece,7356
+RO Festival Invitation,7360
+Lotto Ball 01,7361
+Lotto Ball 02,7362
+Lotto Ball 03,7363
+Lotto Ball 04,7364
+Lotto Ball 05,7365
+Lotto Ball 06,7366
+Lotto Ball 07,7367
+Lotto Ball 08,7368
+Lotto Ball 09,7369
+Lotto Ball 10,7370
+Lotto Ball 11,7371
+Lotto Ball 12,7372
+Lotto Ball 13,7373
+Lotto Ball 14,7374
+Lotto Ball 15,7375
+Lotto Ball 16,7376
+Lotto Ball 17,7377
+Lotto Ball 18,7378
+Lotto Ball 19,7379
+Lotto Ball 20,7380
+Lotto Ball 21,7381
+Lotto Ball 22,7382
+Lotto Ball 23,7383
+Lotto Ball 24,7384
+Lotto Ball 25,7385
+Lotto Ball 26,7386
+Lotto Ball 27,7387
+Lotto Ball 28,7388
+Lotto Ball 29,7389
+Lotto Ball 30,7390
+Lotto Ball 31,7391
+Lotto Ball 32,7392
+Lotto Ball 33,7393
+Lotto Ball 34,7394
+Lotto Ball 35,7395
+Lotto Ball 36,7396
+Lotto Ball 37,7397
+Lotto Ball 38,7398
+Selamat,7399
+Hari,7400
+Kemerdekaan,7401
+Republik,7402
+Indonesia,7403
+Ke-60,7404
+Crushed Can,7405
+Yuebing,7406
+Summoning Stone,7415
+Letter of Recommendation,7416
+Written Request(A),7417
+Written Request(B),7418
+Embryo Creation Guide,7419
+Red Key,7421
+Yellow Key,7422
+Blue Key,7423
+Green Key,7424
+Black Key,7425
+Red Charm Stone,7426
+Yellow Charm Stone,7427
+Blue Charm Stone,7428
+Green Charm Stone,7429
+Black Charm Stone,7430
+Pile of Books,7431
+Leather Pouch,7432
+Blank Scroll,7433
+Elemental Potion Creation Guide,7434
+Golden Ornament,7435
+Fragment of Agony,7436
+Fragment of Misery,7437
+Fragment of Hatred,7438
+Fragment of Despair,7439
+Red Feather,7440
+Blue Feather,7441
+Cursed Seal,7442
+Three-Headed Dragon's Head,7443
+Treasure Box,7444
+Green Bijou,7445
+Blue Bijou,7446
+Red Bijou,7447
+Yellow Bijou,7448
+Bloody Page,7449
+Skeletal Armor Piece,7450
+Fire Dragon Scale,7451
+Yellow Spice,7452
+Sweet Sauce,7453
+Savory Sauce,7454
+Spicy Sauce,7455
+Red Spice,7456
+Cooking Oil,7457
+Fortune Horn,7458
+Idul Fitri Card,7459
+Niflheim Express Ticket,7460
+Blue A Card,7461
+Blue E Card,7462
+Blue F Card,7463
+Blue H Card,7464
+Blue L Card,7465
+Blue N Card,7466
+Blue O Card,7467
+Blue P Card,7468
+Blue U Card,7469
+Blue W Card,7470
+Blue Y Card,7471
+Level 1 Cookbook,7472
+Level 2 Cookbook,7473
+Level 3 Cookbook,7474
+Level 4 Cookbook,7475
+Level 5 Cookbook,7476
+Level 6 Cookbook,7477
+Level 7 Cookbook,7478
+Level 8 Cookbook,7479
+Level 9 Cookbook,7480
+Level 10 Cookbook,7481
+Pot,7482
+Key of the Seal,7483
+Symbol of a Brave Warrior,7484
+Cloud General,7485
+Wind General,7486
+Culinary Wine,7487
+Delivery Package,7488
+Cottage Key,7489
+Letter to Elly,7490
+Steel Box,7491
+Yellow Keycard,7492
+Golden Key,7493
+Luxurious Button,7494
+Blue Keycard,7495
+Red Keycard,7496
+Rosimier Mansion Keys,7498
+Family Portrait,7499
+Woman's Portrait,7500
+K.H's Letter,7501
+James's Note,7502
+Man's Portrait,7503
+Power Device,7504
+Toy Key,7505
+Black Keycard,7506
+Solid Iron Piece,7507
+Allysia's Ring,7508
+Luxurious Keycard,7509
+Valhalla's Flower,7510
+Rune of Darkness,7511
+Burnt Part,7512
+Monster Ticket,7514
+Prize Medal,7515
+Green Keycard,7516
+Women's Medal,7518
+Handsel,7519
+Please Be Rich,7520
+Flame Stone,7521
+Ice Stone,7522
+Wind Stone,7523
+Shadow Orb,7524
+Summer Festival Ticket,7525
+Manuscript Paper,7526
+Book About True Life,7527
+Lottery Ticket,7528
+Stolen Sandal,7529
+Travel Brochure [Amatsu],7530
+Travel Brochure [Kunlun],7531
+Travel Brochure [Luoyang],7532
+Travel Brochure [Ayothaya],7533
+Amatsu Completed Photo Album,7534
+Kunlun Completed Photo Album,7535
+Luoyang Completed Photo Album,7536
+Ayothaya Completed Photo Album,7537
+Sand for Work,7538
+Poring Coin,7539
+Lotto Ball 39,7540
+Lotto Ball 40,7541
+Lotto Ball 41,7542
+Lotto Ball 42,7543
+Lotto Ball 43,7544
+Lotto Ball 44,7545
+Lotto Ball 45,7546
+Soccer Ball,7547
+Soccer Shoes,7548
+Brazilian Flag,7549
+6.13 Ticket,7550
+6.18 Ticket,7551
+6.22 Ticket,7552
+Lotus Flower,7553
+Striped Candle,7554
+Green Incense,7555
+Longing Heart,7556
+Invitation Letter,7557
+Invitation Ticket,7558
+Key to the Secret Garden,7559
+Glacial Heart,7561
+Ice Scale,7562
+Bloody Rune,7563
+Rotten Meat,7564
+Sticky Poison,7565
+Will of Red Darkness,7566
+Suspicious Hat,7567
+White Mask,7568
+Wind Hammer,7569
+Temple Lottery Ticket,7570
+Bruspetti's Diary,7571
+Ashy Necklace,7572
+Sparkling Necklace,7573
+Freezing Snow Powder,7574
+Red Jewel,7575
+Blue Jewel,7576
+Yellow Jewel,7577
+Countermagic Crystal,7578
+Silk Handkerchief of Zhi Nu,7579
+Black Marble,7580
+Celebration Document,7581
+Jewel of Destruction,7582
+Evil Mind,7583
+Guard's First Proof,7584
+Guard's Second Proof,7585
+Guard's Third Proof,7586
+Guard's Fourth Proof,7587
+IPOD Coupon,7588
+Lettered Moon Snack 01,7589
+Lettered Moon Snack 02,7590
+Lettered Moon Snack 03,7591
+Lettered Moon Snack 04,7592
+Lettered Moon Snack 05,7593
+Sonia's Letter,7594
+Special Sword,7595
+Special Shield,7596
+Magic Stone,7597
+RO Party Invitation Ticket,7603
+Flour,7604
+Chicken Egg,7605
+Token of the Ox,7606
+Neck of Demon Dragon,7607
+Premium Ticket,7608
+Pumpkin Mojo,7609
+Food Exchange Ticket,7610
+Symbol of Fox,7611
+Heart of Queen Fox,7612
+Small Rice Cake Dough,7613
+MVP Voucher,7615
+Miniboss Voucher,7616
+Monster Voucher,7617
+Monster Crystal,7618
+Enriched Elunium,7619
+Enriched Oridecon,7620
+Token Of Siegfried,7621
+Hairstyle Coupon,7622
+Ticket Of Identification,7623
+Spring Stanza23,7624
+Registration Ticket,7625
+Bubble Gum Token,7626
+Sage Key,7627
+Idiot Key,7628
+Pink Gift Box,7629
+Clean Beach Brush,7630
+Trash Debris,7631
+Sachet,7635
+Soul,7701
+Special Cogwheel,7702
+Piece of Cogwheel,7703
+Broken Thermometer,7704
+Note of Geologist,7705
+Broken Carrot Juice,7706
+Broken Banana Juice,7707
+Broken Apple Juice,7708
+Broken Grape Juice,7709
+Black Gemstone,7710
+Event Ticket,7711
+Nokia 5500,7712
+Blue A(2) Card,7713
+Blue R(2) Card,7714
+Handmade Chocolate Recipe,7715
+Chocolate Strawberry Recipe,7716
+Chocolate Tart Recipe,7717
+Cacao Bean,7718
+Blue G Card,7719
+Debt Note,7722
+Diamond of Ruin,7723
+Forbidden Secret Art,7724
+Unlucky Emerald,7725
+Token of King,7726
+HP Doctor Ticket,7727
+SP Doctor Ticket,7728
+Rok Star Badge,7729
+Mission Ticket 1,7730
+Mission Ticket 2,7731
+Mission Ticket 3,7732
+Mission Ticket 4,7733
+Mission Ticket 5,7734
+Mission Ticket 6,7735
+Mission Ticket 7,7736
+Mission Ticket 8,7737
+Mission Ticket 9,7738
+Mission Ticket 10,7739
+Mission Ticket 11,7740
+Mission Ticket 12,7741
+Kaong,7742
+Gulaman,7743
+Leche Flan,7744
+Ube Jam,7745
+Sago,7746
+Langka,7747
+Sweet Beans,7748
+Sweet Bananas,7749
+Macapuno,7750
+Old White Cloth,7751
+Clattering Skull,7752
+Broken Farming Utensil,7753
+Broken Crown,7754
+Research Note,7755
+Sealed Book,7756
+Mithril,7757
+Star Crystal,7758
+Geologist's Report,7759
+Yaga's Magic Book,7760
+Magic Gourd Bottle,7761
+Yaga's Pestle,7762
+Sticky Herb,7763
+High Strength Adhesive,7764
+Baba Yaga's Secret Medicine,7765
+Bok Choy,7766
+Green Maiden's Cake,7767
+Squid,7768
+Egg Yolk,7769
+Sweet Rice,7770
+Lotus Leaf,7771
+String,7772
+Wat Badge,7773
+Green Maiden Ticket,7774
+Spring Rabbit Ticket,7775
+Gym Pass,7776
+Sealed Golden Box,7777
+Sealed Silver Box,7778
+Silver Key,7780
+Engrave Treasure Box,7781
+Episode 13.1 Poporing Key,7782
+Episode 13.2 Poring Key,7783
+Free Coupon 1,7784
+Free Coupon 2,7785
+Free Coupon 3,7786
+Free Coupon 4,7787
+Free Coupon 5,7788
+Free Coupon 6,7789
+Free Coupon 7,7790
+Free Coupon 8,7791
+Guyak,7792
+Golden Apple,7793
+The Crow of Destiny,7794
+Mammi's Photo Album,7795
+Author's Autograph,7796
+Author's Memo,7797
+Fragment of Darkness,7798
+Crystal of Darkness,7799
+Golden Charm Apple,7800
+Girl's Letter,7801
+Signature Notebook,7802
+Beginner's Field Manual,7803
+Brown Jenoss's Family Ring,7805
+God Anvil,7806
+God Mineral,7807
+God Hammer,7808
+God Furnace,7809
+Symbol of Richness,7810
+Symbol of Bravery,7812
+Red Jenoss's Family Ring,7813
+Green Jenoss's Family Ring,7814
+Blue Jenoss's Family Ring,7815
+Symbol of Faith,7816
+Symbol of Peace,7817
+Jessur's Necklace,7818
+Nokia 5300,7819
+Piece of Morocc Skin,7820
+Green Apple,7821
+Whole Barbecue,7822
+Meat Veg Skewer,7823
+Spirit Liquor,7824
+Heroic Stone,7825
+Continental Guard Paper,7826
+Mineral Evals,7827
+Bravery Badge,7828
+Valor Badge,7829
+Goddess Tear,7830
+Valkyrie's Token,7831
+Brynhild Armor Piece,7832
+Hero's Remains,7833
+Andvari's Ring,7834
+Dusk Glow,7835
+Dawn Essence,7836
+Cold Moonlight,7837
+Hazy Starlight,7838
+Crystal Key,7839
+Valkyrie's Gift,7840
+Stained Piece Of Paper,7841
+Torn Piece Of Paper,7842
+Old Piece Of Paper,7843
+Burnt Pieces Of Paper,7844
+Copy Of Spotted Paper,7845
+Copy Of Torn Paper,7846
+Copy Of Old Paper,7847
+Copy Of Burnt Paper,7848
+Soul Crystal,7849
+Wooden Block,7850
+Wii Raffle Ticket,7851
+Divx Player Raffle Ticket,7852
+iPod nano Raffle Ticket,7853
+Comodo Festival Ticket,7854
+Heart,7855
+Girl's Bouquet,7856
+Hand-made Kitty Doll,7857
+Dragonball Yellow,7858
+Game Ticket,7859
+Peeps,7860
+Jelly Bean,7861
+Marshmallow,7862
+Special Gold,7863
+Love Flower,7864
+Gold Pouch,7865
+Sesame Bag,7867
+Fresh Water,7868
+Rice Pouch,7869
+Corn,7870
+Bean Bag,7871
+Herb,7872
+MVP Monster Scroll,7873
+Create Monster Scroll,7874
+Pirate Treasure,7875
+Red Ring,7877
+Lusalka's Hair,7878
+Golden Thread,7879
+Baba Yaga's Silver Spoon,7880
+Mystery Magic Book,7881
+Sharp Branch,7882
+Wooden Flute,7883
+Jade Plate,7884
+Sacred Arrow,7885
+Bean Paste,7886
+Dried Fruit Box,7887
+Bag of Nuts,7888
+Chicken Feed,7889
+Mug,7891
+Charcoal,7892
+Sulphur,7893
+Nitrogen Acid,7894
+Rama5 Book,7895
+Loykrathong Book,7896
+Constitution Book,7897
+VV Strong Balmung,7898
+Dagger Of Psychic,7899
+Jonathan Family Ring,7900
+Jillberriel Family Ring,7901
+Jessur Family Ring,7902
+Jenoss Family Ring,7903
+Poppy Wreath,7906
+Bobbin Of Goddess,7907
+Louise's Beauty Coupon,7908
+Stolen Cookie,7909
+Stolen Candy,7910
+Yulia's Hat,7911
+Portable Snowman Machine,7912
+Battle Test Certificate,7913
+Ancient Language Document,7914
+Magic Potion,7917
+Fragment Of Memory,7918
+Festival Ticket,7919
+He's Arsenal,7920
+Essence Of Dragon,7921
+RWC Voucher Items,7922
+Brazil National Flag,7928
+Devil's Cattle Ring,7930
+Poison Kit,7931
+Poison Herb Nerium,7932
+Poison Herb Rantana,7933
+Poison Herb Makulata,7934
+Poison Herb Seratum,7935
+Poison Herb Scoporia,7936
+Poison Herb Amoena,7937
+Light Granule,7938
+Elder Branch,7939
+Special Alloy Trap,7940
+Halloween Ticket,7941
+Chico Cesar Letter,7942
+Caskinya,7943
+Sealed Box,7944
+Universal Amulet,7945
+Gold Ring Of Valentine,7946
+Silver Ring Of Valentine,7947
+Box,7948
+Woven Wool,7949
+Ayothaya Fest Ticket,7950
+Golden Tulip Flower,7951
+Gift Of Lomi Ross,7952
+Gift Of Juliet,7953
+Lost Card1,7955
+Lost Card2,7956
+Lost Card3,7957
+Lost Card4,7958
+Ancient Gold Coin,7959
+Ancient Silver Coin,7960
+Weapon Exchange,7961
+Treasure Map1,7962
+Treasure Map2,7963
+Treasure Map3,7964
+Treasure Map4,7965
+Weird Parchment1,7966
+Weird Parchment2,7967
+Weird Parchment3,7968
+Weird Parchment4,7969
+Unwritten Letter1,7970
+Unwritten Letter2,7971
+Oath Day Letter,7972
+Immortality Egg,7973
+Illusion Piece,7974
+Cupid Choco,7975
+Gf Magic Coin,7976
+Hunting Medal Badge,7977
+Spring Stanza1,7978
+Spring Stanza2,7979
+Spring Stanza3,7980
+Spring Stanza4,7981
+Spring Stanza5,7982
+Spring Stanza6,7983
+Spring Stanza7,7984
+Spring Stanza8,7985
+Spring Stanza9,7986
+Spring Stanza10,7987
+Spring Stanza11,7988
+Spring Stanza12,7989
+Spring Stanza13,7990
+Spring Stanza14,7991
+Spring Stanza15,7992
+Spring Stanza16,7993
+Spring Stanza17,7994
+Spring Stanza18,7995
+Spring Stanza19,7996
+Spring Stanza20,7997
+Spring Stanza21,7998
+Spring Stanza22,7999
+Poring Egg,9001
+Drops Egg,9002
+Poporing Egg,9003
+Lunatic Egg,9004
+Picky Egg,9005
+Chonchon Egg,9006
+Steel Chonchon Egg,9007
+Hunter Fly Egg,9008
+Savage Babe Egg,9009
+Baby Desert Wolf Egg,9010
+Rocker Egg,9011
+Spore Egg,9012
+Poison Spore Egg,9013
+Peco Peco Egg,9014
+Smokie Egg,9015
+Yoyo Egg,9016
+Orc Warrior Egg,9017
+Munak Egg,9018
+Dokebi Egg,9019
+Sohee Egg,9020
+Isis Egg,9021
+Green Petite Egg,9022
+Deviruchi Egg,9023
+Bapho Jr. Egg,9024
+Bongun Egg,9025
+Zealotus Egg,9026
+Alice Egg,9027
+Hard Rice Cake,9028
+Christmas Goblin's Egg,9029
+Green Maiden Egg,9030
+Spring Rabbit Egg,9031
+Knife Goblin Egg,9032
+Flail Goblin Egg,9033
+Hammer Goblin Egg,9034
+Red Deleter Egg,9035
+Diabolic Egg,9036
+Wanderer Egg,9037
+New Year Doll Egg,9038
+Bacsojin Egg,9039
+Civil Servant Egg,9040
+Leaf Cat Egg,9041
+Loli Ruri Egg,9042
+Marionette Egg,9043
+Shinobi Egg,9044
+Whisper Egg,9045
+Goblin Leader Egg,9046
+Wicked Nymph Egg,9047
+Miyabi Ningyo Egg,9048
+Dullahan Egg,9049
+Medusa Egg,9050
+Stone Shooter Egg,9051
+Incubus Egg,9052
+Golem Egg,9053
+Nightmare Terror Egg,9054
+Succubus Egg,9055
+Imp Egg,9056
+Skull Helm,10001
+Monster Oxygen Mask,10002
+Transparent Head Protector,10003
+Pacifier,10004
+Wig,10005
+Queen's Hair Ornament,10006
+Silk Ribbon,10007
+Punisher,10008
+Wild Flower,10009
+Battered Pot,10010
+Stellar Hairpin,10011
+Tiny Egg Shell,10012
+Backpack,10013
+Rocker Glasses,10014
+Green Lace,10015
+Golden Bell,10016
+Bark Shorts,10017
+Monkey Circlet,10018
+Red Scarf,10019
+Grave Keeper's Sword,10020
+Circular Headgear,10021
+Gold Earring,10022
+Green Jewel Bag,10023
+Fashion Glasses,10024
+Hairband Of Stars,10025
+Tassel for Durumagi,10026
+Pet Soul Ring,10027
+Beautiful Badges,10028
+Jade Trinket,10029
+Summer Fan,10030
+Ring Of Death,10031
+Queen's Coronet,10032
+Afro,10033
+Masked Ball,10034
+Spring,10035
+Horn Of Hell,10036
+Black Butterfly Mask,10037
+Horn Barrier,10038
+History book of Prontera,11000
+Adventure Story Vol.1,11001
+Chef King Orleans Vol.1,11002
+Kafra Legend Vol.1,11003
+Old Book,11004
+Rune Royal Family Book,11005
+Blood Flower Vol.1,11006
+Blood Flower Vol.2,11007
+Biographical Dictionary Copy Edition,11008
+Adventure Story Vol.2,11009
+Battlegrounds Catalog,11010
+Varmunt's Note,11011
+Expedition Report,11012
+Expedition Report Vol1,11013
+Expedition Report Vol2,11014
+Expedition Report Vol3,11015
+Expedition Report Vol4,11016
+KVM Reward Items Catalog,11017
+Splendide Selling Item,11018
+Manuk Selling Item,11019
+Japan Book1,11020
+Japan Book2,11021
+Mix Cook Book,11022
+Increase Stamina Study,11023
+Vital Drink CB,11024
+Swordman Book Basic,11025
+Swordman Book Practice,11026
+Swrodman Book Misc,11027
+Thief Book Basic,11028
+Thief Book Practice,11029
+Thief Book Misc,11030
+Archer Book Basic,11031
+Archer Book Practice,11032
+Archer Book Misc,11033
+Acol Book Basic,11034
+Acol Book Practice,11035
+Acol Book Misc,11036
+Mage Book Basic,11037
+Mage Book Practice,11038
+Mage Book Misc,11039
+Mer Book Basic,11040
+Mer Book Practice,11041
+Mer Book Misc,11042
+TK Book Basic,11043
+TK Book Practice,11044
+TK Book Misc,11045
+Ninja Book Basic,11046
+Ninja Book Practice,11047
+Ninja Book Misc,11048
+Gun Book Basic,11049
+Gun Book Practice,11050
+Gun Book Misc,11051
+SN Book Basic,11052
+SN Book Practice,11053
+SN Book Misc,11054
+Basic Adventure,11055
+Elemental Spirit Guide,11056
+Light Yellow Potion,11500
+Light White Potion,11501
+Light Blue Potion,11502
+WoE White Potion,11503
+WoE Blue Potion,11504
+Iris,11505
+Fanta Orange,11506
+Fanta Grape,11507
+Karada Meguricha,11508
+Black Tea Kochakaden,11509
+Coca Cola Zero,11510
+Diet Coca Cola,11511
+Coca Cola,11512
+Protect Neck Candy,11513
+Enriched Slim Pot,11514
+Coconut,11515
+Asai Fruit,11516
+Puri Potion,11517
+Beef Toast,11519
+Mora Mandar,11520
+Pingui Berry Juice,11521
+Red Raffle Sap,11522
+Yellow Raffle Sap,11523
+White Raffle Sap,11524
+Mora HIp Tea,11525
+Rafflecino,11526
+Baklava,11527
+Kanafeh,11528
+Maamoul,11529
+Jujube,11530
+Coffee,11531
+Moon Cookie,11702
+Mystery Blood,11703
+Children's Potion,11705
+Steak,11706
+Roast Beef,11707
+Fore Flank Sirloin,11708
+Fanta Zero Lemon,11709
+Sakura Mist,11710
+Sakura Milk Tea,11711
+Level 5 Frost Diver,12000
+Level 3 Heal,12001
+Level 5 Heal,12002
+Level 1 Teleport,12003
+Quiver,12004
+Iron Arrow Quiver,12005
+Steel Arrow Quiver,12006
+Oridecon Arrow Quiver,12007
+Fire Arrow Quiver,12008
+Silver Arrow Quiver,12009
+Wind Arrow Quiver,12010
+Stone Arrow Quiver,12011
+Crystal Arrow Quiver,12012
+Shadow Arrow Quiver,12013
+Immaterial Arrow Quiver,12014
+Rusty Arrow Quiver,12015
+Speed Potion,12016
+Slow Potion,12017
+Firecracker,12018
+Holy Egg,12019
+Cursed Water,12020
+Pork,12021
+Galbi,12022
+Wrapped Box,12023
+Red Pouch,12024
+Dano Festival Egg,12025
+Giggling Box,12027
+Box of Thunder,12028
+Box of Gloom,12029
+Box of Resentment,12030
+Box of Drowsiness,12031
+Box of Storms,12032
+Box of Sunlight,12033
+Box of Panting,12034
+Lotto Box 01,12035
+Lotto Box 02,12036
+Lotto Box 03,12037
+Lotto Box 04,12038
+Lotto Box 05,12039
+Fried Grasshopper Legs,12041
+Seasoned Sticky Webfoot,12042
+Bomber Steak,12043
+Herb Marinade Beef,12044
+Lutie Lady's Pancake,12045
+Grape Juice Herbal Tea,12046
+Autumn Red Tea,12047
+Honey Herbal Tea,12048
+Morocc Fruit Wine,12049
+Mastela Fruit Wine,12050
+Steamed Crab Nippers,12051
+Assorted Seafood,12052
+Clam Soup,12053
+Seasoned Jellyfish,12054
+Spicy Fried Bao,12055
+Frog Egg Squid Ink Soup,12056
+Smooth Noodle,12057
+Tentacle Cheese Gratin,12058
+Lutie Cold Noodle,12059
+Steamed Bat Wing in Pumpkin,12060
+Honey Grape Juice,12061
+Chocolate Mousse Cake,12062
+Fruit Mix,12063
+Cream Sandwich,12064
+Green Salad,12065
+Fried Monkey Tails,12066
+Mixed Juice,12067
+Fried Sweet Potato,12068
+Steamed Ancient Lips,12069
+Fried Scorpion Tails,12070
+Shiny Marinade Beef,12071
+Whole Roast,12072
+Bearfoot Special,12073
+Tendon Satay,12074
+Steamed Tongue,12075
+Red Mushroom Wine,12076
+Special Royal Jelly Herbal Tea,12077
+Royal Family Tea,12078
+Tristan XII,12079
+Dragon Breath Cocktail,12080
+Awfully Bitter Bracer,12081
+Sumptuous Feast,12082
+Giant Burito,12083
+Ascending Dragon Soup,12084
+Immortal Stew,12085
+Chile Shrimp Gratin,12086
+Steamed Alligator with Vegetable,12087
+Incredibly Spicy Curry,12088
+Special Meat Stew,12089
+Steamed Desert Scorpions,12090
+Peach Cake,12091
+Soul Haunted Bread,12092
+Special Toast,12093
+Heavenly Fruit Juice,12094
+Hwergelmir's Tonic,12095
+Lucky Soup,12096
+Assorted Shish Kebob,12097
+Strawberry Flavored Rice Ball,12098
+Blood Flavored Soda,12099
+Cooked Nine Tail's Tails,12100
+Citron,12101
+Grilled Skewer,12102
+Bloody Branch,12103
+Random Quiver,12104
+Taming Gift Set,12105
+Jewelry Box,12106
+Wrapped Mask,12107
+Scroll Package,12108
+Poring Box,12109
+First Aid Kit,12110
+Bundle of Food,12111
+Tropical Sograt,12112
+Vermilion on the Beach,12113
+Elemental Converter,12114
+Fireproof Potion,12118
+Coldproof Potion,12119
+Earthproof Potion,12120
+Thunderproof Potion,12121
+Sesame Pastry,12122
+Honey Pastry,12123
+Rainbow Cake,12124
+Outdoor Cooking Kit,12125
+Home Cooking Kit,12126
+Professional Cooking Kit,12127
+Royal Cooking Kit,12128
+Fantastic Cooking Kit,12129
+Cookie Bag,12130
+Lucky Potion,12131
+Santa's Bag,12132
+McDonald's Ice Cone,12133
+Green Ale,12135
+Women's Bundle,12136
+First Stage Prize,12137
+Second Stage Prize,12138
+Third Stage Prize,12139
+Fourth Stage Prize,12140
+Fifth Stage Prize,12141
+Book of Magic,12142
+Red Can,12143
+Lightning Sphere Pack,12144
+Blind Sphere Pack,12145
+Poison Sphere Pack,12146
+Freezing Sphere Pack,12147
+Flare Sphere Pack,12148
+Cartridge,12149
+Blood Cartridge,12150
+Silver Cartridge,12151
+Special Present,12152
+Bowman Scroll 1,12153
+Bowman Scroll 2,12154
+Bowman Scroll 3,12155
+Bowman Scroll 4,12156
+Bowman Scroll 5,12157
+Bowman Scroll 6,12158
+Bowman Scroll 7,12159
+Bowman Scroll 8,12160
+Bowman Scroll 9,12161
+Bowman Scroll 10,12162
+Fencer Scroll 1,12163
+Fencer Scroll 2,12164
+Fencer Scroll 3,12165
+Fencer Scroll 4,12166
+Fencer Scroll 5,12167
+Fencer Scroll 6,12168
+Fencer Scroll 7,12169
+Fencer Scroll 8,12170
+Fencer Scroll 9,12171
+Fencer Scroll 10,12172
+Spearman Scroll 1,12173
+Spearman Scroll 2,12174
+Spearman Scroll 3,12175
+Spearman Scroll 4,12176
+Spearman Scroll 5,12177
+Spearman Scroll 6,12178
+Spearman Scroll 7,12179
+Spearman Scroll 8,12180
+Spearman Scroll 9,12181
+Spearman Scroll 10,12182
+Holy Arrow Quiver,12183
+Mercenary Red Potion,12184
+Mercenary Blue Potion,12185
+Old Red Box,12186
+Old Green Box,12187
+Grace Moon Cake,12188
+Moon Cake,12190
+Special Moon Cake,12191
+Hometown Gift,12194
+Plain Rice Cake,12195
+Hearty Rice Cake,12196
+Salty Rice Cake,12197
+Lucky Rice Cake,12198
+Scroll of Magic,12199
+X-mas Cake,12200
+Commonplace Red Box,12201
+Steamed Scorpion,12203
+Stew Of Immortality,12207
+Battle Manual,12208
+Life Insurance,12209
+Bubble Gum,12210
+Kafra Card,12211
+Giant Fly Wing,12212
+Neuralizer,12213
+Convex Mirror,12214
+LV10 Blessing Scroll,12215
+LV10 Agil Scroll,12216
+LV5 Aspersio Scroll,12217
+LV5 Assumptio Scroll,12218
+LV10 Wind Walker Scroll,12219
+LV5 Adrenaline Scroll,12220
+Sweet Candy Cane,12225
+Examination 1,12226
+Examination 2,12227
+Examination 3,12228
+Examination 4,12229
+Examination 5,12230
+Examination 6,12231
+Ginger Bread,12232
+Kvass,12233
+Fierce Cacao 99%,12234
+Chocolate Strawberry,12235
+Chocolate Tart,12236
+Junky Chocolate,12237
+Old Yellow Box,12240
+Mercenary Concentration Potion,12241
+Mercenary Awakening Potion,12242
+Mercenary Berserk Potion,12243
+Old Gift Box,12244
+Mystical Card Album,12246
+Halo-Halo,12247
+Fancy Ball Box,12248
+Cooked Nine Tail,12254
+PRO Gift Box,12256
+Cold Medicine,12257
+Bomb Poring Box,12258
+Miracle Tonic,12259
+Cool Summer Outfit,12260
+Leap of Fantasy,12261
+Field Manual,12263
+Life Insurrance,12265
+Tasty Pink Ration,12269
+Tasty White Ration,12270
+Military Ration A,12271
+Military Ration B,12272
+Military Ration C,12273
+Daehwandan,12274
+Taecheongdan,12275
+Mimic Scroll,12276
+Disguise Scroll,12277
+Alice Scroll,12278
+Undead Elemental Scroll,12279
+Holy Elemental Scroll,12280
+Event Treasure Box,12281
+Internet Cafe1,12282
+Internet Cafe2,12283
+Internet Cafe3,12284
+Internet Cafe4,12285
+Masquerade Ball Box2,12286
+Love Angel Magic Powder,12287
+Squirrel Magic Powder,12288
+Gogo Magic Powder,12289
+Mysterious Can Magic Powder,12290
+Mysterious PET Bottle,12291
+Unripe Fruit,12292
+Dried Yggdrasilberry,12293
+PC-Room Coin Box,12294
+SP Consumption Reduction Potion,12298
+Mega Resist Potion,12299
+Wild Rose Contract,12300
+Doppelganger Contract,12301
+Egnigem Cenia Contract,12302
+Blessing Of Water,12303
+Diary Magic Powder,12304
+Mini Heart Magic Powder,12305
+Freshman Magic Powder,12306
+Kid Magic Powder,12307
+Magic Magic Powder,12308
+JJangu Magic Powder,12309
+Spray Of Flowers,12310
+Huge Spray Of Flowers,12311
+Thick Battle Manual,12312
+Guardian Angel,12313
+Noive Box,12314
+Goddess Of Blessing,12315
+Angel Of Blessing,12316
+Snow Powder,12317
+Small Hearts,12318
+Rune Strawberry Cake,12319
+Schwarzwald Pine Jubilee,12320
+Arunafeltz Desert Sandwich,12321
+Chocolate Pie,12322
+Novice Fly Wing,12323
+Novice Butterfly Wing,12324
+Novice Magnifier,12325
+Large Firecracker,12326
+Charm Of Luck,12327
+Charm Of Happiness,12328
+Summon Male GameMaster Scroll,12329
+Summon Female GameMaster Scroll,12330
+Ginseng,12331
+Fruit Juice,12332
+Ancilla,12333
+Treasure Edition Helm Box,12334
+Grilled Delicious Skewer,12335
+Grilled Mushroom,12336
+Grilled Sausages,12337
+Grilled Corn,12338
+Treasure Edition Box,12339
+Chewy Rice Powder,12340
+Special Alloy Trap Box,12341
+Manuk's Opportunity,12342
+Manuk's Courage,12343
+Pinguicula's Fruit Jam,12344
+Luciola's Honey Jam,12345
+Unripe Acorn,12346
+Acorn Jelly,12347
+Manuk's Faith,12348
+Cornus' Tears,12349
+Angeling Potion,12350
+Scream Megaphone,12351
+Dungeon Teleport Scroll 3,12352
+Small Bottle,12353
+Buche De Noel,12354
+Xmas Gift,12355
+Louise Costume Box,12356
+Shiny Wing Gown,12357
+Fan Of Wind,12358
+Very Soft Plant,12359
+Very Red Juice,12360
+Delicious Shaved Ice,12361
+Kuloren,12362
+Fit Pipe,12363
+Staff Of Leader,12364
+Charming Lotus,12365
+Girl's Doll,12366
+Luxury Whisky Bottle,12367
+Splendid Mirror,12368
+Oilpalm Coconut,12369
+Girl's Naivety,12370
+Magical Lithography,12371
+Hell Contract,12372
+Boy's Pure Heart,12373
+Ice Fireworks,12374
+Akaraje,12375
+Mysterious Can2,12376
+Mysterious PET Bottle2,12377
+Rice Cake Soup,12378
+Pope Cookie,12379
+Job Change Flute,12380
+Ancient Languages Scroll,12381
+Vulcan Bullet Magazine,12383
+Rainbow Ruby,12384
+Rhydo Runestone For Apprentice,12388
+Pertz Runestone For Apprentice,12389
+Verkana Runestone For Apprentice,12390
+Lucky Egg,12391
+Repair A,12392
+Repair B,12393
+Repair C,12394
+Tantan Noodle,12395
+Gift Box?,12396
+PCBang Gift Box,12398
+Castle Treasure Box,12399
+Water Of Blessing,12400
+Rune Kn Test Int,12401
+29Fruit,12402
+Lucky Egg2,12403
+Acti Potion,12404
+Underripe Yggseed,12405
+Psychic ArmorS,12406
+PCBang Coupon Box,12407
+Leaf Cat Ball,12408
+1st Class Pork Belly,12409
+Thick Pork Belly H,12410
+HE Battle Manual,12411
+HE Bubble Gum,12412
+PCBang Coupon Box2,12413
+Guarana Candy,12414
+Siege Teleport Scroll Silver,12415
+Lucky Egg C3,12416
+Boost500,12417
+Full SwingK,12418
+Mana Plus,12419
+Stamina Up M,12420
+Falmons F,12421
+HP Increase Potion (Small),12422
+HP Increase Potion (Medium),12423
+HP Increase Potion (Large),12424
+SP Increase Potion (Small),12425
+SP Increase Potion (Medium),12426
+SP Increase Potion (Large),12427
+Concentrated White Potion Z,12428
+Savage Full Roast,12429
+Cocktail Warg Blood,12430
+Minor Stew,12431
+Siroma Iced Tea,12432
+Drosera Herb Salad,12433
+Petite Tail Noodles,12434
+Black Mass,12435
+Vitata 500,12436
+Concentrated Ceromain Soup,12437
+F Giant Fly Wing,12438
+F Battle Manual,12439
+F Insurance,12440
+F Bubble Gum,12441
+F Kafra Card,12442
+F Neuralizer,12443
+F Dun Tele Scroll1,12444
+F Str Dish10,12445
+F Agi Dish10,12446
+F Int Dish10,12447
+F Dex Dish10,12448
+F Luk Dish10,12449
+F Vit Dish10,12450
+F WOB Rune,12451
+F WOB Schwarz,12452
+F WOB Rachel,12453
+F WOB Local,12454
+F Greed Scroll,12456
+F Glass Of Illusion,12457
+F Abrasive,12458
+F Med Life Potion,12459
+F Small Life Potion,12460
+F Regeneration Potion,12461
+F B Mdef Potion,12462
+F S Mdef Potion,12463
+F B Def Potion,12464
+F S Def Potion,12465
+F Blessing 10 Scroll,12466
+F Inc Agi 10 Scroll,12467
+F Aspersio 5 Scroll,12468
+F Wind Walk 10 Scroll,12470
+F Adrenaline Scroll,12471
+F Convex Mirror,12472
+RWC Parti Box,12473
+RWC Final Comp Box,12474
+Cure Free,12475
+PCBang Coupon Box3,12476
+Gift Bundle,12477
+Chance Box,12478
+Caracas Ring Box,12479
+Attend 3Day Box,12480
+Attend 7Day Box,12481
+Attend 10Day Box,12482
+Attend 15Day Box,12483
+Attend 20Day Box,12484
+Attend 25Day Box,12485
+GoldPC First Box,12486
+PC 4Leaf Clover Box,12487
+Ticket Gift Box,12488
+Ticket Gift Box2,12489
+Vivid Notation,12490
+Curious Snowball,12491
+Crumpled Paper,12492
+Lucky Egg C4,12493
+E Giant Fly Wing,12494
+E Battle Manual,12495
+E Insurance,12496
+E Bubble Gum,12497
+E Kafra Card,12498
+E Neuralizer,12499
+E Dun Tele Scroll1,12500
+E Str Dish10,12501
+E Agi Dish10,12502
+E Int Dish10,12503
+E Dex Dish10,12504
+E Luk Dish10,12505
+E Vit Dish10,12506
+Yellow Butterfly Wing,12507
+Green Butterfly Wing,12508
+Red Butterfly Wing,12509
+Blue Butterfly Wing,12510
+E Siege Teleport Scroll,12511
+E Greed Scroll,12512
+E Glass Of Illusion,12513
+E Abrasive,12514
+E Med Life Potion,12515
+E Small Life Potion,12516
+E Regeneration Potion,12517
+E B Mdef Potion,12518
+E S Mdef Potion,12519
+E B Def Potion,12520
+E S Def Potion,12521
+E Blessing 10 Scroll,12522
+E Inc Agi 10 Scroll,12523
+E Aspersio 5 Scroll,12524
+E Assumptio 5 Scroll,12525
+E Wind Walk 10 Scroll,12526
+E Adrenaline Scroll,12527
+E Convex Mirror,12528
+White Slim Potion Box,12529
+Mastela Fruit Box,12530
+White Potion Box,12531
+Royal Jelly Box2,12532
+Blue Herb Box2,12533
+Yggdrasil Seed Box,12534
+Iggdrasilberry Box,12535
+NY Rice Cake Soup,12536
+Solo Gift Basket,12537
+Couple Event Basket,12538
+Splendid Box,12539
+GM Warp Box,12540
+Fortune Cookie1,12541
+Fortune Cookie2,12542
+Fortune Cookie3,12543
+Mystic Tree Branch,12544
+Lucky Egg C5,12545
+Suspicious Dish,12546
+Chalcenodny Box,12547
+Shabby Purchase Street Stall License,12548
+White Slim Pot Box2,12549
+Poison Bottle Box2,12550
+MVP Tele Scroll,12551
+Quest Tele Scroll,12552
+Brysinggamen Piece Box,12553
+Asprika Piece Box,12554
+Brynhild Piece Box,12555
+Sleipnir Piece Box,12556
+Mjolnir Piece Box,12557
+Magingiorde Piece Box,12558
+Tenkaippin Strong,12559
+Tenkaippin Clean,12560
+Mysterious Seed,12561
+Bubble Gum Plus,12562
+BM75,12563
+3D Glasses Box,12564
+Cheer Scarf Box,12565
+Cheer Scarf2 Box,12566
+Cheer Scarf3 Box,12567
+Cheer Scarf4 Box,12568
+Cheer Scarf6 Box,12569
+Cheer Scarf8 Box,12570
+Cheer Scarf10 Box,12571
+Cheer Scarf10 Box2,12572
+Fruit Basket,12573
+Mora Berry,12574
+Arrow Of Elf Cntr,12575
+Hunting Arrow Cntr,12576
+Lucky Egg C6,12577
+Rapid Life Water,12578
+Ring Of Valkyrie Box,12579
+Universal Catalog Silver,12580
+Universal Catalog Gold,12581
+Universal Catalog Bronze,12591
+Old Ore Box,12609
+Old Navy Box,12702
+Elixir of Life,12704
+Noble Nameplate,12705
+Guyak Candy,12709
+Guyak Pudding,12710
+Green Beer,12712
+Monster Extract,12713
+Easter Scroll,12714
+Black Treasure Box,12715
+Indian Rice Cake,12716
+Paralyze,12717
+Leech End,12718
+Oblivion Curse,12719
+Disheart,12720
+Toxin,12721
+Pyrexia,12722
+Magic Mushroom,12723
+Venom Bleed,12724
+Nauthiz Rune,12725
+Raido Rune,12726
+Berkana Rune,12727
+Isa Rune,12728
+Othila Rune,12729
+Uruz Rune,12730
+Thurisaz Rune,12731
+Wyrd Rune,12732
+Hagalaz Rune,12733
+Luxurious Rune,12734
+Ancient Rune,12735
+Mystic Rune,12736
+General Rune,12737
+Rare Rune,12738
+Snow Flowers,12739
+Amplification Scroll,12740
+Intellect Amplification Scroll,12741
+Valentine Gift Box,12742
+Chocolate Box,12744
+Skull Scroll,12745
+Destruction Scroll,12746
+Royal Scroll,12747
+Immune Scroll,12748
+Mystic Scroll,12749
+Battle Scroll,12750
+Armor Scroll,12751
+Prayer Scroll,12752
+Soul Scroll,12753
+Chinese Pastel,12754
+Chinese Fireworks,12755
+Chinese New Year Envelope,12756
+Loyal Ring1 Box,12757
+Loyal Ring2 Box,12758
+Loyal Ring3 Box,12759
+Bubble Gum Green,12760
+Bubble Gum Yellow,12761
+Bubble Gum Orange,12762
+Bubble Gum Red,12763
+Fools Day Box Tw,12764
+Summer Knight Box,12765
+Reward Job BM25,12766
+Passion FB Hat Box,12767
+Cool FB Hat Box,12768
+Victory FB Hat Box,12769
+Glory FB Hat Box,12770
+Passion Hat Box2,12771
+Cool Hat Box2,12772
+Victory Hat Box2,12773
+Potion Box,12831
+Falcon Flute,12848
+Battle Manual Box,12900
+Insurance Package,12901
+Bubble Gum Box,12902
+Steamed Tongue Box,12903
+Steamed Scorpion Box,12904
+Dragon Breath Cocktail Box,12905
+Hwergelmir's Tonic Box,12906
+Nine Tail Dish Box,12907
+Stew Of Immortality Box,12908
+Kafra Card Box,12909
+Giant Fly Wing Box,12910
+Neuralizer Box,12911
+Convex Mirror Box,12912
+Blessing 10 Scroll Box,12913
+Increase AGI 10 scroll Box,12914
+Aspersio 5 Scroll Box,12915
+Assumptio 5 Scroll Box,12916
+Wind Walk 10 Scroll Box,12917
+Adrenaline 5 Scroll Box,12918
+Megaphone Box,12919
+Enriched Elunium Box,12920
+Enriched Oridecon Box,12921
+Token of Siegfried Box,12922
+December Lucky Box,12923
+Pet Egg Box 2,12924
+Kafra Item Mall Prize Package,12925
+Aspersio Scroll Box,12927
+Sacred Scroll,12928
+Pet Egg Box 3,12929
+Pet Egg Box 4,12930
+Pet Egg Box 5,12931
+Episode 13.2 Key Package,12932
+Summer Hat Pack,12933
+Pet Egg Scroll5,12934
+Infiltrator Box,12935
+Muramasa Box,12936
+Excalibur Box,12937
+Combat Knife Box,12938
+Dagger of Counter Box,12939
+Kaiser Knuckle Box,12940
+Poll Axe Box,12941
+Mighty Staff Box,12942
+Light Epsilon Box,12943
+Ballista Box,12944
+Sage's Diary Box,12945
+Asura Box,12946
+Apple of Archer Box,12947
+Bunny Band Box,12948
+Sakkat Box,12949
+Grand Circlet Box,12950
+Elven Ears Box,12951
+Steel Flower Box,12952
+Critical Ring Box,12953
+Earring Box,12954
+Ring Box,12955
+Necklace Box,12956
+Glove Box,12957
+Brooch Box,12958
+Rosary Box,12959
+Safety Ring Box,12960
+Vesper Core 01 Box,12961
+Vesper Core 02 Box,12962
+Vesper Core 03 Box,12963
+Vesper Core 04 Box,12964
+Emergency Level 1 Scroll Box,12965
+Emergency Level 2 Scroll Box,12966
+Emergency Level 3 Scroll Box,12967
+Emergency Level 1 Scroll,12968
+Emergency Level 2 Scroll,12969
+Emergency Level 3 Scroll,12970
+Teleport Scroll Box 1,12971
+Teleport Scroll Box 2,12972
+Teleport Scroll Box 3,12973
+Teleport Scroll Box 4,12974
+Teleport Scroll Box 5,12975
+Teleport Scroll Box 6,12976
+Teleport Scroll 1,12977
+Teleport Scroll 2,12978
+Teleport Scroll 3,12979
+Teleport Scroll 4,12980
+Teleport Scroll 5,12981
+Teleport Scroll 6,12982
+Pet Egg Scroll Box 6,12983
+Pet Egg Scroll Box 7,12984
+Pet Egg Scroll Box 8,12985
+Adventurer Pack Box,12986
+Pet Egg Scroll Box 10,12987
+Pet Egg Scroll Box 11,12988
+Pet Egg Scroll 6,12989
+Pet Egg Scroll 7,12990
+Party Hard Pack,12991
+Adventurer Pack,12992
+Pet Egg Scroll 10,12993
+Pet Egg Scroll 11,12994
+White Herb Box,12995
+Blue Herb Box,12996
+Elunium Box,12997
+Oridecon Box,12998
+Dead Branch Box,12999
+Jujube Dagger,13000
+Dragon Killer,13001
+Ginnungagap,13002
+Cowardice Blade,13003
+Angelic Wing Dagger,13005
+Khukri,13006
+Jitte,13007
+Kamaitachi,13009
+Asura,13010
+Murasame,13012
+Hakujin,13014
+Ashura,13023
+Refined Swordbreaker,13024
+Refined Mailbreaker,13025
+Scalpel,13027
+Tooth Blade,13028
+Prinsense Knife,13029
+Desert Twilight,13034
+Sandstorm,13035
+Brave Assassin's Damascus,13036
+Valorous Assassin's Damascus,13037
+Dagger of Hunter,13038
+Ivory Knife,13039
+Novice Cutter,13040
+Novice Main Gauche,13041
+Glorious Gladius,13042
+Krierg,13046
+Weihna,13047
+Six Shooter,13100
+Crimson Bolt,13102
+Garrison,13104
+Gold Lux,13106
+Wasteland's Outlaw,13107
+Soldier Revolver,13108
+Wasteland Outlaw,13109
+Glorious Pistol,13110
+Eden Revlover I,13112
+Eden Revlover II,13113
+Branch,13150
+Cyclone,13151
+Dusk,13153
+Rolling Stone,13154
+Black Rose,13155
+Gate Keeper,13156
+Drifter,13157
+Butcher,13158
+Destroyer,13160
+Inferno,13162
+Long Barrel,13163
+Jungle Carbine,13165
+Gate Keeper-DD,13167
+Thunder P,13168
+Lever Action Rifle,13170
+Soldier Rifle,13171
+Soldier Gatling Gun,13172
+Soldier Shotgun,13173
+Soldier Grenade Launcher,13174
+Glorious Rifle,13176
+Glorious Gatling Gun,13177
+Glorious Shotgun,13178
+Glorious Grenade Launcher,13179
+Bullet,13200
+Silver Bullet,13201
+Bloody Shell,13202
+Flare Sphere,13203
+Lightning Sphere,13204
+Poison Sphere,13205
+Blind Sphere,13206
+Freezing Sphere,13207
+Shuriken,13250
+Nimbus Shuriken,13251
+Flash Shuriken,13252
+Sharp Leaf Shuriken,13253
+Thorn Needle Shuriken,13254
+Icicle Kunai,13255
+Black Earth Kunai,13256
+High Wind Kunai,13257
+Heat Wave Kunai,13258
+Fell Poison Kunai,13259
+Apple Bomb,13260
+Coconut Bomb,13261
+Melon Bomb,13262
+Pineapple Bomb,13263
+Banana Bomb,13264
+Black Lump,13265
+Hard Black Lump,13266
+Extremely Hard Black Lump,13267
+Mysterious Powder,13268
+Throwing Boost 500,13269
+Throwing Full Swing K,13270
+Throwing Mana Plus,13271
+Throwing Cure Free,13272
+Throwing Muramura M,13273
+Throwing Falmons F,13274
+Throwing Increase HP Potion (Small),13275
+Throwing Increase HP Potion (Medium),13276
+Throwing Increase HP Potion (Large),13277
+Throwing Increase SP Potion (Small),13278
+Throwing Increase SP Potion (Medium),13279
+Throwing Increase SP Potion (Large),13280
+Throwing Concentrated White Potion Z,13281
+Throwing Vitata 500,13282
+Throwing Ceromain Soup,13283
+Throwing Savage Full Roast,13284
+Throwing Cocktail Warg Blood,13285
+Throwing Minor Stew,13286
+Throwing Siroma Iced Tea,13287
+Throwing Drosera Herb Salad,13288
+Throwing Petite Tail Soup,13289
+Throwing Black Mass,13290
+Explosive Kunai,13294
+Huuma Wing Shuriken,13300
+Huuma Giant Wheel Shuriken,13301
+Huuma Blaze Shuriken,13303
+Huuma Calm Mind,13304
+Brave Huuma Front Shuriken,13305
+Valorous Huuma Front Shuriken,13306
+Glorious Shuriken,13307
+Platinum Shotel,13404
+Curved Sword,13405
+Edger,13406
+Refined Nagan,13407
+Refined Fireblend,13408
+Refined Immaterial Sword,13409
+Valorous Gladiator Blade,13410
+Brave Gladiator Blade,13411
+Twin Edge of Naght Sieger,13412
+Elemental Sword,13414
+Novice Falchion,13415
+Glorious Flamberge,13416
+Glorious Rapier,13417
+Glorious Holy Avenger,13418
+Holy saber,13419
+Honglyun's Sword,13420
+Ruber,13421
+Life Insurrance Box,13500
+Experience Scroll Box,13501
+Refined Drooping Cat Box,13502
+Baphomet Horns Box,13503
+Refined Deviruchi Hat Box,13504
+Executioner Box,13505
+Refined Bloody Axe Box,13506
+Tomahawk Box,13507
+Rudra Bow Box,13508
+Cutlus Box,13509
+Solar Sword Box,13510
+Refined Swordbreaker Box,13511
+Refined Mailbreaker Box,13512
+Moonlight Dagger Box,13513
+Wrench Box,13514
+Grape Box,13515
+Royal Jelly Box,13516
+Yggdrasil Berry Box,13517
+Weapon Card Pet Egg Scroll Box,13518
+Armor Card Pet Egg Scroll Box,13519
+Helmet Card Pet Egg Scroll Box,13520
+Garment Card Pet Egg Scroll Box,13521
+Shield Card Pet Egg Scroll Box,13522
+Shoes Card Pet Egg Scroll Box,13523
+Accessory Card Pet Egg Scroll Box,13524
+Zeny Pet Egg Scroll Box,13525
+Pet Egg Scroll Box 12,13526
+Pet Egg Scroll Box 13,13527
+Pet Egg Scroll Box 14,13528
+Pet Egg Scroll Box 15,13529
+Pet Egg Scroll Box 16,13530
+Light Red Potion Box,13531
+Light Orange Potion Box,13532
+Light Yellow Potion Box,13533
+Light White Potion Box,13534
+Light Concentration Potion Box,13535
+Light Awakening Potion Box,13536
+Light Berserk Potion Box,13537
+Meteor Storm Scroll Box,13538
+Storm Gust Scroll Box,13539
+Lord of Vermilion Scroll Box,13540
+Lex Aeterna Scroll Box,13541
+Magnificat Scroll Box,13542
+Chemical Protection Helm Scroll Box,13543
+Chemical Protection Shield Scroll Box,13544
+Chemical Protection Armor Scroll Box,13545
+Chemical Protection Weapon Scroll Box,13546
+Repair Weapon Scroll Box,13547
+Big Bun Box,13548
+Pill Box,13549
+Fish Slice Box,13550
+Chewy Ricecake Box,13551
+Pastry Box,13552
+Dungeon Teleport Scroll 5 Box,13553
+Weapon Card Pet Egg Scroll,13558
+Armor Card Pet Egg Scroll,13559
+Helmet Card Pet Egg Scroll,13560
+Garment Card Pet Egg Scroll,13561
+Shield Card Pet Egg Scroll,13562
+Shoes Card Pet Egg Scroll,13563
+Accessory Card Pet Egg Scroll,13564
+PVP Teleport Scroll Box,13569
+Giant Fly Wing 50 Box,13570
+Giant Fly Wing 100 Box,13571
+Hwergelmir's Tonic 30 Box,13572
+Hwergelmir's Tonic 50 Box,13573
+Nine Tail Dish 30 Box,13574
+Nine Tail Dish 50 Box,13575
+Increase Agility Scroll 30 Box,13576
+Increase Agility Scroll 50 Box,13577
+Stew of Immortality 30 Box,13578
+Stew of Immortality 50 Box,13579
+Life Insurrance 30 Box,13580
+Life Insurrance 50 Box,13581
+Convex Mirror 5 Box,13582
+Convex Mirror 30 Box,13583
+Blessing Scroll 30 Box,13584
+Blessing Scroll 50 Box,13585
+Adrenaline Rush Scroll 30 Box,13586
+Adrenaline Rush Scroll 50 Box,13587
+Assumptio Scroll 30 Box,13588
+Assumptio Scroll 50 Box,13589
+Aspersio Scroll 30 Box,13590
+Aspersio Scroll 50 Box,13591
+Steamed Scorpion 30 Box,13592
+Steamed Scorpion 50 Box,13593
+Wind Walk Scroll 30 Box,13594
+Wind Walk Scroll 50 Box,13595
+Dragon Breath Cocktail 30 Box,13596
+Dragon Breath Cocktail 50 Box,13597
+Field Manual Box,13598
+Field Manual 5 Box,13599
+Token of Siegfried 5 Box,13600
+Token of Siegfried 20 Box,13601
+Kafra Card 30 Box,13602
+Kafra Card 50 Box,13603
+Steamed Tongue 30 Box,13604
+Steamed Tongue 50 Box,13605
+Bubble Gum 5 Box,13607
+Megaphone 5 Box,13609
+Enriched Elunium 5 Box,13610
+Enriched Oridecon 5 Box,13611
+Arrest Handcuffs Box,13612
+Super Pet Egg Box 1,13613
+Super Pet Egg Box 2,13614
+Super Pet Egg Box 3,13615
+Super Pet Egg Box 4,13616
+Super Pet Egg 1,13617
+Super Pet Egg 2,13618
+Super Pet Egg 3,13619
+Super Pet Egg 4,13620
+Greed Scroll 30 Box,13621
+Greed Scroll 50 Box,13622
+Greed Scroll 100 Box,13623
+Evasion Scroll Box,13624
+Concentration Scroll Box,13625
+Super Card Pet Egg Box 1,13626
+Super Card Pet Egg Box 2,13627
+Super Card Pet Egg Box 3,13628
+Super Card Pet Egg Box 4,13629
+Super Card Pet Egg 1,13630
+Super Card Pet Egg 2,13631
+Super Card Pet Egg 3,13632
+Super Card Pet Egg 4,13633
+1 Hour Package Vol. 1,13634
+1 Hour Package Vol. 2,13635
+1 Hour Package Vol. 3,13636
+1 Hour Package Vol. 4,13637
+1 Hour Package Vol. 5,13638
+1 Hour Package Vol. 6,13639
+2 Hour Package Vol. 1,13640
+2 Hour Package Vol. 2,13641
+2 Hour Package Vol. 3,13642
+2 Hour Package Vol. 4,13643
+2 Hour Package Vol. 5,13644
+2 Hour Package Vol. 6,13645
+Refined Infiltrator Box,13646
+Refined Muramasa Box,13647
+Refined Excalibur Box,13648
+Refined Combat Knife Box,13649
+Refined Dagger of Counter Box,13650
+Refined Kaiser Knuckle Box,13651
+Refined Pole Axe Box,13652
+Refined Mighty Staff Box,13653
+Refined Light Epsilon Box,13654
+Refined Ballista Box,13655
+Refined Sage's Diary Box,13656
+Refined Ashura Box,13657
+Refined Apple of Archer Box,13658
+Refined Bunny Band Box,13659
+Refined Sakkat Box,13660
+Refined Grand Circlet Box,13661
+Refined Elven Ears Box,13662
+Refined Romantic Flower Box,13663
+Refined Critical Ring Box,13664
+Refined Earring Box,13665
+Refined Ring Box,13666
+Refined Necklace Box,13667
+Refined Glove Box,13668
+Refined Brooch Box,13669
+Refined Rosary Box,13670
+Refined Safety Ring Box,13671
+Refined Vesper Core 01 Box,13672
+Refined Vesper Core 02 Box,13673
+Refined Vesper Core 03 Box,13674
+Refined Vesper Core 04 Box,13675
+Refined Majestic Goat Box,13677
+Refined Executioner Box,13679
+Refined Tomahawk Box,13681
+Refined Rudra Bow Box,13682
+Refined Cutlus Box,13683
+Refined Solar Sword Box,13684
+Refined Moonlight Dagger Box,13687
+Refined Wrench Box,13688
+Bok Choy Box,13689
+Green Maiden Cake Box,13690
+Freya's Clothes Box,13691
+Freya's Boots Box,13692
+Freya's Manteau Box,13693
+Freya's Crown Box,13694
+Field Manual 25% Box,13695
+Field Manual 100% Box,13696
+Blessing Scroll 10 Box,13697
+Increase Agility Scroll 10 Box,13698
+Wind Walk Scroll 10 Box,13699
+Adrenaline Rush Scroll 10 Box,13700
+Pet Egg Scroll 12,13701
+Pet Egg Scroll 13,13702
+Pet Egg Scroll 14,13703
+Super Pet Egg 5,13704
+Super Pet Egg 6,13705
+Super Pet Egg 7,13706
+Super Pet Egg 8,13707
+Pet Egg Scroll E,13708
+BRO Package Box,13709
+Gym Pass Box,13710
+Small Life Potion 10 Box,13711
+Small Life Potion 30 Box,13712
+Small Life Potion 50 Box,13713
+Medium Life Potion 10 Box,13714
+Medium Life Potion 30 Box,13715
+Medium Life Potion 50 Box,13716
+Abrasive 5 Box,13717
+Abrasive 10 Box,13718
+Regeneration Potion 5 Box,13719
+Regeneration 10 Box,13720
+Dungeon Teleport Scroll 10 Box,13721
+Peco Peco Hairband Box,13722
+Red Glasses Box,13723
+Whisper Mask Box,13724
+Ramen Hat Box,13725
+Golden Box,13726
+Silver Box,13727
+Golden Key 1 Box,13728
+Golden Key 5 Box,13729
+Silver Key 1 Box,13730
+Silver Key 5 Box,13731
+Glass of Illusion 5 Box,13738
+Glass of Illusion 10 Box,13739
+Shadow Armor Scroll 5 Box,13740
+Shadow Armor Scroll 10 Box,13741
+Shadow Armor Scroll 30 Box,13742
+Holy Armor Scroll 5 Box,13743
+Holy Armor Scroll 10 Box,13744
+Holy Armor Scroll 30 Box,13745
+Small Defense Potion 10 Box,13746
+Small Defense Potion 30 Box,13747
+Small Defense Potion 50 Box,13748
+Big Defense Potion 10 Box,13749
+Big Defense Potion 30 Box,13750
+Big Defense Potion 50 Box,13751
+Small Magic Defense Potion 10 Box,13752
+Small Magic Defense Potion 30 Box,13753
+Small Magic Defense Potion 50 Box,13754
+Big Magic Defense Potion 10 Box,13755
+Big Magic Defense Potion 30 Box,13756
+Big Magic Defense Potion 50 Box,13757
+Field Manual 300% Box,13758
+Honey Box,13760
+Empty Bottle Box,13761
+Coin Box,13763
+Beginner's Field Manual 5 Box,13764
+Certificate Box,13765
+Refined Nagan Box,13766
+Refined Brocca Box,13767
+Refined Survivor's Rod Box,13768
+Refined Quadrille Box,13769
+Refined Great Axe Box,13770
+Refined Bloody Roar Box,13771
+Refined Hardcover Book Box,13772
+Refined Fireblend Box,13773
+Refined Immaterial Sword Box,13774
+Refined Unholy Touch Box,13775
+Refined Survivor's Manteau Box,13776
+Refined Masquerade Box,13777
+Refined Helmet of Orc Hero Box,13778
+Refined Wing of Diablo Box,13779
+Refined Dark Blinder Box,13780
+Refined Corsair Box,13782
+Refined Bloodied Shackle Ball Box,13783
+Refined Spiritual Ring Box,13784
+I Love You Firecracker Box,13804
+Whiteday Firecracker Box,13805
+Valentine's Day Firecracker Box,13806
+Birthday Firecracker Box,13807
+Xmas Firecracker Box,13808
+Blue Gemstone Box,13809
+Blue Potion Box,13810
+Food Box Vol 1,13811
+Food Box Vol 2,13812
+Food Box Vol 3,13813
+Healing Box,13814
+Knife Goblin Taming Box,13815
+Flail Goblin Taming Box,13816
+Hammer Goblin Taming Box,13817
+Red Deleter Taming Box,13818
+Diabolic Taming Box,13819
+Wanderer Taming Box,13820
+Green Apple Box,13821
+Barbeque Box,13822
+Meat Skewer Box,13823
+Spirit Liquor Box,13824
+Power Box 1,13826
+Power Box 2,13827
+Resist Box 1,13828
+Resist Box 2,13829
+Stat Boost 1,13830
+Stat Boost 2,13831
+Stat Boost 3,13832
+Stat Boost 4,13833
+Dungeon Teleport Scroll II 5 Box,13834
+Dungeon Teleport Scroll II 10 Box,13835
+Steamed Desert Scorpions Box,13837
+Cooked Nine Tail Box,13840
+Immortal Stew Box,13841
+Payment Statement for Kafra Employee Box,13842
+Heroic Stone Box,13844
+Mystery Travel Sack A,13845
+Mystery Travel Sack B,13846
+Mystery Travel Sack C,13847
+Mystery Travel Sack D,13848
+Yellow Butterfly Wing 5 Box,13849
+Yellow Butterfly Wing Box,13850
+Green Butterfly Wing 5 Box,13851
+Green Butterfly Wing Box,13852
+Red Butterfly Wing 5 Box,13853
+Red Butterfly Wing Box,13854
+Blue Butterfly Wing 5 Box,13855
+Blue Butterfly Wing Box,13856
+Candy 5 Box,13857
+Candy 10 Box,13858
+Directive Envelope A,13859
+Directive Envelope B,13860
+Small Field Manual Box,13861
+Trial Box,13862
+Repair Weapon Scroll 10 Box,13863
+Flying Angel Box,13866
+Neko Mimi Box,13867
+Moonlight Flower Hat Box,13868
+Baby Chick Hat Box,13869
+Beauty Gift Certificate Box,13870
+Mage Card Box,13871
+Acolyte Card Box,13872
+Archer Card Box,13873
+Swordman Card Box,13874
+Thief Card Box,13875
+Merchant Card Box,13876
+Clock Tower Card Box,13877
+Geffenia Card Box,13878
+Owl Card Box,13879
+Ghost Card Box,13880
+Nightmare Card Box,13881
+Curse Card Box,13882
+Sleep Card Box,13883
+Freeze Card Box,13884
+Stun Card Box,13885
+Silence Card Box,13886
+Blind Card Box,13887
+Chaos Card Box,13888
+Fire Converter Box,13891
+Water Converter Box,13892
+Wind Converter Box,13893
+Earth Converter Box,13894
+Starter Pack,13895
+Mimic Summoning 5 Box,13896
+Disguise Summoning 5 Box,13897
+Alice Summoning 5 Box,13898
+Mimic Summoning 10 Box,13899
+Disguise Summoning 10 Box,13900
+Alice Summoning 10 Box,13901
+Fish Head Hat Box,13902
+Santa Poring Box,13903
+Bell Ribbon Box,13904
+XM Hardcore Set Box,13905
+XM Kitty Set Box,13906
+XM Softcore Set Box,13907
+XM Deviruchi Set Box,13908
+MVP Hunting Box,13909
+XM Brewing Set Box,13910
+Christmas Pet Scroll,13911
+Party Blessing 10 Scroll Box,13912
+Party Increase Agi 10 Scroll Box,13913
+Party Assumptio 5 Scroll Box,13914
+Love Angel Magic Powder Box,13915
+Squirrel Magic Powder Box,13916
+Gogo Magic Powder Box,13917
+Crusader Card Box,13926
+Alchemist Card Box,13927
+Rogue Card Box,13928
+Bard Dancer Card Box,13929
+Sage card box,13930
+Monk Card Box,13931
+Sylph Box,13932
+Undine Box,13933
+Salamander Box,13934
+Soul Box,13935
+Gnome Box,13936
+Robo Eye Box,13937
+Maiden's Twin Ribbon Box,13938
+WoE Teleport Scroll 100 Box,13940
+Taiwan Valentine Scroll,13941
+Love Angel Magic Powder Box 30 Days,13942
+Squirrel Magic Powder Box 30 Days,13943
+Gogo Magic Powder Box 30 Days,13944
+Brazil Swordsman Package,13945
+Brazil Magician Package,13946
+Brazil Acolyte Package,13947
+Brazil Archer package,13948
+Brazil Merchant Package,13949
+Brazil Thief Package,13950
+Western Outlaw Box,13951
+Lever Action Rifle Box,13952
+All In One Ring Box,13953
+Spiritual Tunic Box,13954
+Recuvative Armor Box,13955
+Shell Of Resistance Box,13956
+Silf Manteau Box,13957
+Refresh Shoes Box,13958
+Crunch Toast Box,13959
+Identification Box,13960
+Mochi Box,13961
+Defolty Doll Hat Box,13962
+Glaris Doll Hat Box,13963
+Sorin Doll Hat Box,13964
+Tailring Doll Hat Box,13965
+Vinit Doll Hat Box,13966
+W Doll Hat Box,13967
+Iron Box,13970
+Coal Box,13972
+Poison Bottle Box,13973
+Fisherman Scroll,13974
+Diary Magic Powder Box,13975
+Mini Heart Magic Powder Box,13976
+Freshman Magic Powder Box,13977
+Kid Magic Powder Box,13978
+Magic Magic Powder Box,13979
+JJangu Magic Powder Box,13980
+Diary Magic Powder Box 30 Days,13981
+Mini Heart Magic Powder Box 30 Days,13982
+Freshman Magic Powder Box 30 Days,13983
+Kid Magic Powder Box 30 Days,13984
+Magic Magic Powder Box 30 Days,13985
+JJangu Magic Powder Box 30 Days,13986
+Rough Oridecon 5 Box,13987
+Rough Oridecon 50 Box,13988
+Acid Bomb 10 Box,13989
+JOB Battle Manual Box,13990
+Tiger Mask Box,13991
+Pussy Cat Bell Box,13992
+Alice Hat Box,13993
+Speed Potion 5 Box,13994
+Speed Potion 10 Box,13995
+Big Bun 100 Box,13996
+Big Bun 500 Box,13997
+Giant Fly Wing 500 Box,13998
+Pill 100 Box,13999
+Pill 500 Box,14000
+Recruit Siege Supply Box,14001
+Veteran Siege Supply Box,14002
+Elite Siege Supply Box,14003
+Poison Bottle 10 Box,14004
+Poison Bottle 5 Box,14005
+Evolved Drooping Cat Box,14006
+Evolved Rabbits Headband Box,14007
+Evolved Helmet Of Orc Hero Box,14008
+Squillroll Magic Powder Box,14010
+Squillroll Magic Powder Box 30 Days,14013
+SantaPoring Cap Box,14028
+Alice Summoning 10 Box),14035
+New Style Box,14036
+Little Angel Doll Box,14053
+Poring 3 Hats Box,14054
+Wine Glass of Illusion 5 Box,14074
+Scroll of Shadow Armor 5 Box,14076
+Scroll of Shadow Armor 10 Box,14077
+Scroll of Shadow Armor 30 Box,14078
+Scroll of Holy Armor 5 Box,14079
+Scroll of Holy Armor 10 Box,14080
+Scroll of Holy Armor 30 Box,14081
+Small Physical Defense Potion 30 Box,14083
+Small Physical Defense Potion 50 Box,14084
+Large Physical Defense Potion 30 Box,14086
+Large Physical Defense Potion 50 Box,14087
+Small Magical Defense Potion 30 Box,14089
+Small Magical Defense Potion 50 Box,14090
+Large Magical Defense Potion 30 Box,14092
+Large Magical Defense Potion 50 Box,14093
+Gym Membership Card Box,14103
+Large Life Potion 30 Box,14108
+Large Life Potion 50 Box,14109
+Regeneration Potion 10 Box,14113
+Counter Dagger Box,14119
+Vigorgra Box1,14144
+Vigorgra Box2,14145
+Vigorgra Box3,14146
+Vigorgra Box4,14147
+Vigorgra Box5,14148
+Vigorgra Box6,14149
+Vigorgra Box7,14150
+Vigorgra Box8,14151
+Start your Journey Pack,14152
+Siege Mode Pack,14153
+1 Hour Survival Pack,14154
+Weekend Hunting Pack,14155
+Megaphone 10 Box,14175
+Lv10 Blessing Scroll Box 50,14194
+Lv5 Assumptio Scroll Box 50,14198
+Battle Manual 5 Box,14208
+Mystical Amplification Scroll 10 Box,14221
+Mystical Amplification Scroll 30 Box,14222
+Mystical Amplification Scroll 50 Box,14223
+Quagmire Scroll 10 Box,14224
+Quagmire Scroll 30 Box,14225
+Quagmire Scroll 50 Box,14226
+Healing Staff Box,14227
+Yggdrasil Berry 10 Box,14232
+Dead Branch 10 Box,14233
+Dead Branch 25 Box,14234
+Field Manual 2 Box,14235
+Steamed Tongue 20 Box,14236
+Steamed Desert Scorpions Box(20),14237
+Immortal Stew 20 Box,14238
+Dragon Breath Cocktail 20 Box,14239
+Hwergelmir's Tonic 20 Box,14240
+Nine Tail Dish 20 Box,14241
+Beholder Ring Box,14242
+Hallow Ring Box,14243
+Clamorous Ring Box,14244
+Chemical Ring Box,14245
+Insecticide Ring Box,14246
+Fisher Ring Box,14247
+Decussate Ring Box,14248
+Bloody Ring Box,14249
+Satanic Ring Box,14250
+Dragon Ring Box,14251
+Beholder Ring Box II,14252
+Hallow Ring Box II,14253
+Clamorous Ring Box II,14254
+Chemical Ring Box II,14255
+Insecticide Ring Box II,14256
+Fisher Ring Box II,14257
+Decussate Ring Box II,14258
+Bloody Ring Box II,14259
+Satanic Ring Box II,14260
+Dragon Ring Box II,14261
+Mini_Heart_Magic Powder Box,14269
+Emperium Box,14282
+Written Oath Of Marriage Box,14283
+Barricade Repair Kit,14287
+Guardian Stone Repair Kit,14288
+New Clothing Dye Coupon Box,14289
+Original Clothing Dye Coupon Box,14290
+Clothing Dye Coupon Box,14291
+Clothing Dye Coupon Box II,14292
+Angel Scroll,14296
+Devil Scroll,14297
+Mask Of Ifrit Box,14300
+Ears Of Ifrit Box,14301
+Scuba Mask Box,14304
+Phreeoni Scroll Box,14314
+Ghostring Scroll Box,14315
+July7 Scroll,14316
+Bacsojin Scroll,14317
+Spiked Scarf Box,14343
+Rainbow Scarf Box,14344
+Animal Scroll,14345
+Mental Potion 20 Box,14349
+Mental Potion 50 Box,14350
+Tyr's Blessing 20 Box,14351
+Tyr's Blessing 50 Box,14352
+Heart Scroll,14363
+Celestial Axe Box,14375
+Angeling Potion Box,14376
+Scream Megaphone Box,14377
+Anubis Hat Box,14380
+Universal Amulet Box,14393
+New Year Scroll,14408
+Dice Hat Box,14440
+King Tiger Doll Hat Box,14441
+Pirate's Pride Box,14447
+Necromancer's Hood Box,14448
+Magic Rabbit Hat Box,14459
+RO 5th Wedding Anniversary Box,14460
+Ashura Fairy Hat Box,14461
+Valentine's Emblem Box,14466
+Ox Tail Egg,14469
+Life Insurrance Certificate,14500
+Zeny Pet Egg Scroll,14508
+Light Concentration Potion,14509
+Light Awakening Potion,14510
+Light Berserk Potion,14511
+Meteor Storm Scroll,14512
+Storm Gust Scroll,14513
+Lord of Vermilion Scroll,14514
+Lex Aeterna Scroll,14515
+Magnificat Scroll,14516
+Chemical Protection Helm Scroll,14517
+Chemical Protection Shield Scrol,14518
+Chemical Protection Armor Scroll,14519
+Chemical Protection Weapon Scroll,14520
+Repair Weapon Scroll,14521
+Big Bun,14522
+Pill,14523
+Superb Fish Slice,14524
+Chewy Ricecake,14525
+Oriental Pastry,14526
+Dungeon Teleport Scroll,14527
+PVP Teleport Scroll,14528
+Greed Scroll,14529
+Evasion Scroll,14530
+Concentration Scroll,14531
+Field Manual 25%,14532
+Field Manual 100%,14533
+Small Life Potion,14534
+Medium Life Potion,14535
+Abrasive,14536
+Regeneration Potion,14537
+Glass of Illusion,14538
+Shadow Armor Scroll,14539
+Holy Armor Scroll,14540
+Small Defense Potion,14541
+Big Defense Potion,14542
+Small Magic Defense Potion,14543
+Big Magic Defense Potion,14544
+Field Manual 300%,14545
+I Love You Firecracker,14546
+Whiteday Firecracker,14547
+Valentine's Day Firecracker,14548
+Birthday Firecracker,14549
+Xmas Firecracker,14550
+Knife Goblin Ring,14569
+Flail Goblin Ring,14570
+Hammer Goblin Ring,14571
+Holy Marble,14572
+Red Burning Stone,14573
+Vagabond's Skull,14574
+Dungeon Teleport Scroll II,14581
+Jumping Candy,14586
+Equipment Repair Spell Book,14587
+Party Blessing 10 Scroll,14588
+Party Increase Agi 10 Scroll,14589
+Party Assumptio 5 Scroll,14590
+WoE Teleport Scroll,14591
+JOB Battle Manual,14592
+Mystical Amplification Scroll,14593
+Quagmire Scroll,14594
+Unsealed Magic Spell,14595
+Pierre's Treasure Box,14596
+Phreeoni Scroll,14597
+Ghostring Scroll,14598
+Mental Potion,14600
+Tyr's Blessing,14601
+Tao Gunka Scroll,14602
+Mistress Scroll,14603
+Orc Hero Scroll,14604
+Orc Lord Scroll,14605
+Luxurious Western Food,14607
+Manchu-Han Imperial Feast,14608
+Spoiled Cuisine,14609
+Bone Plate,15000
+Erde,16000
+Red Square Bag,16001
+Pile Bunker S,16030
+Pile Bunker P,16031
+Pile Bunker T,16032
+Frog King Hat Box,16134
+Satanic Bone Helm Box,16135
+Dragon Arhat Mask Box,16247
+Tiger Arhat Mask Box,16248
+Buddah Scroll,16257
+HD Bradium 5 Box,16258
+HD Carnium 5 Box,16259
+HD Bradium 10 Box,16260
+HD Carnium 10 Box,16261
+Evil Incarnation,16304
+Tw Aug Scroll,16371
+HD Oridecon 5 Box,16393
+HD Oridecon 10 Box,16394
+HD Elunium 5 Box,16395
+HD Elunium 10 Box,16396
+Red Wing Hat Box,16461
+Pr Reset Stone Box,16555
+Universal Catalog Gold 10 Box,16677
+Universal Catalog Gold 50 Box,16678
+HD Oridecon 50 Box,17104
+HD Elunium 50 Box,17105
+Cannon Ball,18000
+Holy Cannon Ball,18001
+Dark Cannon Ball,18002
+Soul Cannon Ball,18003
+Iron Cannon Ball,18004
+Shooting Star,18100
+Cheer Scarf6,18500
+Cheer Scarf8,18501
+Cheer Scarf10,18502
+Small Devil Horns,18503
+Umbala Spirit,18505
+Hattah Black,18506
+Skull Cap,18539
+Horn of Ancient,18595
+Sprout Hat,18596
+Mercury Riser,18597
+Cat Ear Beret,18600
+White Musang Hat,18612
+Black Musang Hat,18613
+Heart Eyepatch,18620
+Witch's Pumpkin Hat,18656
+T Mr Smile,19500
+T Spinx Helm,19501
+T Sunglasses,19504
+T Cigarette,19505
+T Valkyrie Feather Band,19506
+Clear Sun,19507
+Gift Buff Set,22777
