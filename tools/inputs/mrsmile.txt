@@ -37,7 +37,7 @@
 		mes "The requirements are followings.";
 		next;
 		mes "[Smile Girl]";
-		mes "^3355FF10 Small Devil Horns^000000";
+		mes "^3355FF10 Small Devil Horns";
 		mes "^3355FFFluff^000000";
 		mes "^3355FF10 Clover^000000";
 		next;

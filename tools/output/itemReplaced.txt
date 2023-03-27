@@ -37,7 +37,7 @@
 		mes "The requirements are followings.";
 		next;
 		mes "[Smile Girl]";
-		mes "^3355FF10 " + mesitemlink(18503) + "^000000";
+		mes "^3355FF10 " + mesitemlink(18503) + "";
 		mes "^3355FF" + mesitemlink(914) + "^000000";
 		mes "^3355FF10 " + mesitemlink(705) + "^000000";
 		next;

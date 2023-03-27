@@ -72,7 +72,7 @@ export function replaceItemNames(npcScript) {
       for (const item of items) {
         const itemName = escapeRegex(item.name);
         const itemId = item.id;
-        const itemLink = `" + mesitemlink(${itemId}) + "`;
+        const itemLink = `" + mesitemlink(${itemId}, false) + "`;
 
         // match item name surrounded by word boundaries or F
         const regex = new RegExp('(\\b|F|\")' + `(${itemName})` + '\\b', 'gi');
