@@ -3,7 +3,7 @@
 import fs from 'fs-extra'
 import { replaceItemNames } from './lib-replace-item.mjs'
 
-const inputDest = '/home/austin/Playspace/ro-sanbox/rathena-zh_tw/tools/inputs/mrsmile.txt'
+const inputDest = '/home/austin/Playspace/ro-sanbox/rathena-zh_tw/tools/inputs/quests_alberta.txt'
 const outDest = '/home/austin/Playspace/ro-sanbox/rathena-zh_tw/tools/output/itemReplaced.txt'
 
 const input = await fs.readFile(inputDest, 'utf8');
