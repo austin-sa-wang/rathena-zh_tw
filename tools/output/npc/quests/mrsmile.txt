@@ -15,7 +15,7 @@
 //============================================================ 
 
 -	script	Smile Assistance::SmileHelper	92,{
-	mes "[Jellopy]";
+	mes "[Smile Girl]";
 	mes "Hi ~ Hi ~";
 	mes "This is Smile Assistance.";
 	mes "How may I help you ?";
@@ -23,7 +23,7 @@
 	switch(select("^3355FFMr. Smile^000000 ?:Construct ^3355FFMr. Smile^000000 :Quit")) {
 	case 1:
 		mes "[Smile Girl]";
-		mes "Swordman Sword National Event held by the command of ^5577FFHis majesty Tristram the 3rd^000000,";
+		mes "National Event held by the command of ^5577FFHis majesty Tristram the 3rd^000000,";
 		mes "that intends to encourage the nation of the Rune-Midgarts Kingdom";
 		mes " to play in more enjoyable atmosphere!";
 		mes "I am ^3355FF' Smile Assistance '^000000,";
@@ -33,13 +33,13 @@
 		mes "[Smile Girl]";
 		mes "With simple and easy-to-get items,";
 		mes "I can provide you";
-		mes "^3355FFMr. Smile^000000.";
+		mes "^3355FF' " + mesitemlink(2278) + " '^000000.";
 		mes "The requirements are followings.";
 		next;
 		mes "[Smile Girl]";
-		mes "^3355FF10 Small Devil Horns^000000";
-		mes "^3355FFFluff^000000";
-		mes "^3355FF10 Clover^000000";
+		mes "^3355FF10 " + mesitemlink(909) + "^000000";
+		mes "^3355FF10 " + mesitemlink(914) + "^000000";
+		mes "^3355FF10 " + mesitemlink(705) + "^000000";
 		next;
 		mes "[Smile Girl]";
 		mes "With this event";
@@ -70,10 +70,10 @@
 			mes "[Smile Girl]";
 			mes "Oh - unfortunately";
 			mes "You have not brought";
-			mes "enough items for Mr. Smile.";
-			mes "^3355FF10 Jellopy^000000";
-			mes "^3355FF10 Fluff^000000";
-			mes "^3355FF10 Clover^000000";
+			mes "enough items for " + mesitemlink(2278) + ".";
+			mes "^3355FF10 " + mesitemlink(909) + "^000000";
+			mes "^3355FF10 " + mesitemlink(914) + "^000000";
+			mes "^3355FF10 " + mesitemlink(705) + "^000000";
 			mes "Please check the requirements above.";
 			close;
 		}

@@ -80,9 +80,11 @@ export function replaceItemNames(npcScript) {
         const itemId = item.id;
         const itemLink = `" + mesitemlink(${itemId}) + "`;
 
-        const regex = new RegExp('\\b' + itemName + '\\b', 'gi');
+        // match item name surrounded by word boundaries or F
+        const regex = new RegExp('(\\b|F)' + `(${itemName})` + '\\b', 'gi');
 
-        modifiedLine = modifiedLine.replace(regex, itemLink);
+        // replace item name with item link, excluding the F prefix (this is a hack to avoid replacing item names right after color codes)
+        modifiedLine = modifiedLine.replace(regex, `$1${itemLink}`);
       }
 
       outputLines.push(modifiedLine);

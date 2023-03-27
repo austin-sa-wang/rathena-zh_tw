@@ -33,13 +33,13 @@
 		mes "[Smile Girl]";
 		mes "With simple and easy-to-get items,";
 		mes "I can provide you";
-		mes "^3355FFMr. Smile^000000.";
+		mes "^3355FF" + mesitemlink(2278) + "^000000.";
 		mes "The requirements are followings.";
 		next;
 		mes "[Smile Girl]";
-		mes "^3355FF10 Small Devil Horns^000000";
-		mes "^3355FFFluff^000000";
-		mes "^3355FF10 Clover^000000";
+		mes "^3355FF10 " + mesitemlink(18503) + "^000000";
+		mes "^3355FF" + mesitemlink(914) + "^000000";
+		mes "^3355FF10 " + mesitemlink(705) + "^000000";
 		next;
 		mes "[Smile Girl]";
 		mes "With this event";
@@ -70,16 +70,16 @@
 			mes "[Smile Girl]";
 			mes "Oh - unfortunately";
 			mes "You have not brought";
-			mes "enough items for Mr. Smile.";
-			mes "^3355FF10 Jellopy^000000";
-			mes "^3355FF10 Fluff^000000";
-			mes "^3355FF10 Clover^000000";
+			mes "enough items for " + mesitemlink(2278) + ".";
+			mes "^3355FF10 " + mesitemlink(909) + "^000000";
+			mes "^3355FF10 " + mesitemlink(914) + "^000000";
+			mes "^3355FF10 " + mesitemlink(705) + "^000000";
 			mes "Please check the requirements above.";
 			close;
 		}
 	case 3:
 		mes "[Smile Girl]";
-		mes "Thank you for visiting us.";
+		mes "" + mesitemlink(6207) + " for visiting us.";
 		mes "We ..";
 		mes "The Rune-Midgarts Kingdom";
 		mes "always try to make Ragnarok";
