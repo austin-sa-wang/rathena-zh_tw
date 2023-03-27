@@ -23,7 +23,7 @@
 	switch(select("^3355FFMr. Smile^000000 ?:Construct ^3355FFMr. Smile^000000 :Quit")) {
 	case 1:
 		mes "[Smile Girl]";
-		mes "Swordman Sword National Event held by the command of ^5577FFHis majesty Tristram the 3rd^000000,";
+		mes "Thank you! Swordman Sword National Event held by the command of ^5577FFHis majesty Tristram the 3rd^000000,";
 		mes "that intends to encourage the nation of the Rune-Midgarts Kingdom";
 		mes " to play in more enjoyable atmosphere!";
 		mes "I am ^3355FF' Smile Assistance '^000000,";

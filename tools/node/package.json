@@ -10,7 +10,8 @@
     "translate-iteminfo": "node src/translate-itemifno.mjs",
     "translate-npc": "node src/translate-npc.mjs",
     "replace-npc-script-item": "node src/replace-npm-script-item-dir.mjs",
-    "replace-npc-script-item-all": "node src/replace-npm-script-item-dir.mjs"
+    "replace-npc-script-item-all": "node src/replace-npm-script-item-dir.mjs",
+    "update-npc-src": "cp -r ../output/npc-item-ref/* ../../../rathena-npc-zh_tw/"
   },
   "dependencies": {
     "fs-extra": "^11.1.0",

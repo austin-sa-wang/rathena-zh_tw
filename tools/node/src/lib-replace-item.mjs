@@ -12,8 +12,8 @@ const items = parsedItems
 .filter(item => {
   const { name } = item;
   return ![
-    'thank You',
-    'i respect You',
+    'thank you',
+    'i respect you',
     `knight's Honor`,
     'sword',
     'mace',
@@ -46,7 +46,7 @@ const items = parsedItems
     'voucher',
     'ticket',
     'card',
-    'axe',    'wang',
+    'axe',
     'rope',
     'blade',
     'stone'
@@ -75,7 +75,7 @@ export function replaceItemNames(npcScript) {
         const itemLink = `" + mesitemlink(${itemId}) + "`;
 
         // match item name surrounded by word boundaries or F
-        const regex = new RegExp('(\\b|F)' + `(${itemName})` + '\\b', 'gi');
+        const regex = new RegExp('(\\b|F|\")' + `(${itemName})` + '\\b', 'gi');
 
         // replace item name with item link, excluding the F prefix (this is a hack to avoid replacing item names right after color codes)
         modifiedLine = modifiedLine.replace(regex, `$1${itemLink}`);
