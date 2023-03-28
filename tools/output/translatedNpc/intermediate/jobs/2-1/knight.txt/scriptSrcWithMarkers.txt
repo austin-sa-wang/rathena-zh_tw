@@ -1,0 +1,1594 @@
+//===== rAthena Script ======================================= 
+//= Knight Job Quest
+//===== By: ================================================== 
+//= PGRO TEAM (Aegis).
+//= Converted by kobra_k88
+//= Further bugfixed and tested by Lupus
+//===== Current Version: ===================================== 
+//= 3.3
+//===== Compatible With: ===================================== 
+//= rAthena Project
+//===== Description: ========================================= 
+//= [Official Conversion]
+//= Job Change quest for Knight class.
+//===== Additional Comments: ================================= 
+//= 1.0 Fully working.  Please comment out any pre-existing warps for the
+//= test rooms in any other files so that the ones specified here can work.
+//= 1.1 Fixed a major bug.  Now using the initnpctimer command,
+//= donpcevent, and new waitingroom event commands.  No more addtimer
+//= spamming.  No longer have to talk to the npc to take the test.  Just enter the chat room.
+//= 1.2 More bug fixes.  Changed global variable names to unique ones.
+//= Added second set of items to first test. Added Awake pots award for job change.
+//= 1.3 Added Baby Class support [Lupus]
+//= 1.5 Fixed possible EXP abuse [Lupus]
+//= 1.6 Added a func which prevent advanced classes passing
+//= 2nd Job Quests again. It also guides adv classes where
+//= to go. [Lupus]
+//= 2.0 Changed numbers to constants. [Vicious]
+//= 2.1 Merged JFunc [Lupus]
+//= 2.2 Rescripted to Aegis 10.3 standards. [L0ne_W0lf]
+//= 2.3 Several bugfixes with the help of Barron-Monster. [L0ne_W0lf]
+//= 2.4 Minor fixes to timer#knt. [L0ne_W0lf]
+//= 2.5 Fixes a small bug with making claymores. [L0ne_W0lf]
+//=     Corrected usages of killmonster and killmonsterall.
+//= 2.6 Corrected an improper areawarp destination. [L0ne_W0lf]
+//= 2.7 Deleted unused variables. [Samuray22]
+//= 2.7a Corrected a Typo error ";;". [Samuray22]
+//= 2.8 Now uses enable and disable waitingroomevent. [L0ne_W0lf]
+//= 2.9 Added Quest Log commands. [Kisuka]
+//= 3.0 Removed the need for use of 'goto.' [L0ne_W0lf]
+//= 3.1 Modified the quest to renewal. [Vali] (Thanks to Muad_Dib for the necessary info).
+//= 3.2 More Renewal updates and some optimization. [Euphy]
+//= 3.3 Fixed missing changequest. [Joseph]
+//============================================================ 
+
+prt_in,88,101,4	script	Chivalry Captain#knt	56,{
+	if (Upper == 1) {
+		%%message0%%
+		next;
+		%%message1%%
+		close;
+	}
+	if (BaseJob != Job_Swordman) {
+		if (BaseJob == Job_Knight) {
+			%%message2%%
+			close;
+		}
+		else if (BaseClass == Job_Novice) {
+			%%message3%%
+			next;
+			switch(select("I want to change my job to Swordman.:I want to change my job to a Knight.:Just visiting.")) {
+			case 1:
+				%%message4%%
+				next;
+				%%message5%%
+				close;
+			case 2:
+				%%message6%%
+				next;
+				%%message7%%
+				close;
+			case 3:
+				%%message8%%
+				close;
+			}
+		}
+		else {
+			%%message9%%
+			close;
+		}
+	}
+	if (KNIGHT_Q == 0) {
+		%%message10%%
+		next;
+		if (select("I want to change my job to a Knight.:Just visiting.") == 1) {
+			%%message11%%
+			next;
+			%%message12%%
+			next;
+			%%message13%%
+			next;
+			%%message14%%
+			next;
+			if (select("Yes, I would like to apply.:I'd like to think about it please.") == 1) {
+				if (JobLevel < 40) {
+					%%message15%%
+					next;
+					%%message16%%
+					close;
+				}
+				if (SkillPoint) {
+					%%message17%%
+					close;
+				}
+				set KNIGHT_Q,1;
+				setquest 9000;
+				%%message18%%
+				next;
+				%%message19%%
+				next;
+				%%message20%%
+				next;
+				%%message21%%
+				next;
+				%%message22%%
+				next;
+				%%message23%%
+				close;
+			}
+			%%message24%%
+			close;
+		}
+		%%message25%%
+		next;
+		%%message26%%
+		next;
+		%%message27%%
+		close;
+	}
+	else if (KNIGHT_Q == 1) {
+		%%message28%%
+		next;
+		%%message29%%
+		next;
+		%%message30%%
+		close;
+	}
+	else if (KNIGHT_Q == 2) callsub L_Mission,0;
+	else if (KNIGHT_Q == 3) callsub L_Mission,0;
+	else if (KNIGHT_Q == 4) {
+		callsub L_Mission,1;
+		%%message31%%
+		next;
+		%%message32%%
+		next;
+		%%message33%%
+		close;
+	}
+	else if (KNIGHT_Q == 5) callsub L_Mission,0;
+	else if (KNIGHT_Q == 6) {
+		callsub L_Mission,1;
+		%%message34%%
+		next;
+		%%message35%%
+		next;
+		%%message36%%
+		close;
+	}
+	else if (KNIGHT_Q == 7) callsub L_Mission,0;
+	else if (KNIGHT_Q == 8) {
+		callsub L_Mission,1;
+		%%message37%%
+		next;
+		%%message38%%
+		next;
+		%%message39%%
+		next;
+		%%message40%%
+		next;
+		%%message41%%
+		close;
+	}
+	else if (KNIGHT_Q == 9) callsub L_Mission,0;
+	else if (KNIGHT_Q == 10) {
+		callsub L_Mission,1;
+		%%message42%%
+		next;
+		%%message43%%
+		next;
+		%%message44%%
+		close;
+	}
+	else if (KNIGHT_Q == 11) callsub L_Mission,0;
+	else if (KNIGHT_Q == 12) {
+		callsub L_Mission,1;
+		%%message45%%
+		next;
+		%%message46%%
+		next;
+		%%message47%%
+		next;
+		%%message48%%
+		close;
+	}
+	else if (KNIGHT_Q == 13) {
+		%%message49%%
+		close;
+	}
+	else if (KNIGHT_Q == 14) {
+		if (SkillPoint) {
+			%%message50%%
+			close;
+		}
+		%%message51%%
+		next;
+		%%message52%%
+		next;
+		%%message53%%
+		next;
+		%%message54%%
+		next;
+		if (JobLevel == 50) {
+		}
+		else {
+		}
+		%%message55%%
+		next;
+		%%message56%%
+		next;
+		%%message57%%
+		next;
+		%%message58%%
+		next;
+		%%message59%%
+		next;
+		%%message60%%
+		next;
+		%%message61%%
+		next;
+		%%message62%%
+		next;
+		%%message63%%
+		next;
+		if (Sex == SEX_MALE) {
+		}
+		else {
+		}
+		%%message64%%
+		next;
+		%%message65%%
+		next;
+		if (Sex == SEX_MALE) {
+		}
+		else {
+		}
+		%%message66%%
+		next;
+		%%message67%%
+		next;
+		%%message68%%
+		next;
+		%%message69%%
+		next;
+		%%message70%%
+		next;
+		%%message71%%
+		next;
+		%%message72%%
+		next;
+		completequest 9012;
+		callfunc "Job_Change",Job_Knight;
+		callfunc "F_ClearJobVar"; // Clears all job variables for the current player
+		%%message73%%
+		next;
+		getitem 656,7; //Awakening_Potion
+		%%message74%%
+		next;
+		%%message75%%
+		close;
+	}
+L_Mission:
+	if (getarg(0)) {
+		%%message76%%
+		next;
+		return;
+	} else {
+		%%message77%%
+		close;
+	}
+}
+
+prt_in,75,107,4	script	Sir Andrew#knt	65,{
+	if (BaseJob != Job_Swordman) {
+		if (BaseJob == Job_Knight) {
+			%%message78%%
+			next;
+			%%message79%%
+			next;
+			%%message80%%
+			close;
+		}
+		else if (BaseClass == Job_Novice) {
+			%%message81%%
+			next;
+			%%message82%%
+			next;
+			%%message83%%
+			close;
+		}
+		else {
+			%%message84%%
+			next;
+			%%message85%%
+			close;
+		}
+	}
+	if (KNIGHT_Q == 0) {
+		%%message86%%
+		next;
+		%%message87%%
+		close;
+	}
+	else if (KNIGHT_Q == 1) {
+		%%message88%%
+		next;
+		if (select("I would like to take the test.:Oh, nothing.") == 1) {
+			%%message89%%
+			next;
+			%%message90%%
+			next;
+			%%message91%%
+			next;
+			if (JobLevel == 50) {
+				%%message92%%
+				next;
+				%%message93%%
+				next;
+				set KNIGHT_Q,4;
+				changequest 9000,9003;
+				%%message94%%
+				close;
+			}
+			%%message95%%
+			next;
+			switch(rand(1,2)) {
+			//Elder_Pixie's_Beard, Wing_Of_Red_Bat, Orcish_Voucher, Moth_Dust, Reptile_Tongue, Wild_Boar's_Mane
+			case 1: setarray .@items[0], 1040,5, 7006,5, 931,5, 1057,5, 903,5, 1028,5, 2; break;
+			//Short_Leg, Heart_Of_Mermaid. Blossom_Of_Maneater, Flesh_Of_Clam, Old_Frying_Pan, Snail's_Shell
+			case 2: setarray .@items[0], 1042,5, 950,5, 1032,5, 966,5, 7031,5, 946,5, 3; break;
+			}
+			set KNIGHT_Q,.@items[12];
+			if (KNIGHT_Q == 2) changequest 9000,9001;
+			else changequest 9000,9002;
+			%%message96%%
+			next;
+			%%message97%%
+			close;
+		}
+		else {
+			%%message98%%
+			close;
+		}
+	}
+	else if (KNIGHT_Q == 2 || KNIGHT_Q == 3) {
+		%%message99%%
+		next;
+		switch(KNIGHT_Q) {
+		//Elder_Pixie's_Beard, Wing_Of_Red_Bat, Orcish_Voucher, Moth_Dust, Reptile_Tongue, Wild_Boar's_Mane
+		case 2: setarray .@items[0], 1040,5, 7006,5, 931,5, 1057,5, 903,5, 1028,5, 0; break;
+		//Short_Leg, Heart_Of_Mermaid. Blossom_Of_Maneater, Flesh_Of_Clam, Old_Frying_Pan, Snail's_Shell
+		case 3: setarray .@items[0], 1042,5, 950,5, 1032,5, 966,5, 7031,5, 946,5, 0; break;
+		}
+		if (countitem(.@items[0]) >= .@items[1] && countitem(.@items[2]) >= .@items[3] && countitem(.@items[4]) >= .@items[5] && countitem(.@items[6]) >= .@items[7] && countitem(.@items[8]) >= .@items[9] && countitem(.@items[10]) >= .@items[11]) {
+			%%message100%%
+			next;
+			delitem .@items[0],.@items[1];
+			delitem .@items[2],.@items[3];
+			delitem .@items[4],.@items[5];
+			delitem .@items[6],.@items[7];
+			delitem .@items[8],.@items[9];
+			delitem .@items[10],.@items[11];
+			if (KNIGHT_Q == 2) changequest 9001,9003;
+			else changequest 9002,9003;
+			set KNIGHT_Q,4;
+			%%message101%%
+			close;
+		}
+		%%message102%%
+		next;
+		%%message103%%
+		next;
+		%%message104%%
+		close;
+	}
+	else if (KNIGHT_Q == 4) {
+		%%message105%%
+		close;
+	}
+	else if (KNIGHT_Q == 14) {
+		%%message106%%
+		close;
+	}
+	else {
+		%%message107%%
+		close;
+	}
+}
+
+prt_in,71,91,0	script	Sir Siracuse#knt	65,{
+	if (BaseJob != Job_Swordman) {
+		if (BaseJob == Job_Knight) {
+			%%message108%%
+			next;
+			%%message109%%
+			next;
+			%%message110%%
+			next;
+			%%message111%%
+			close;
+		}
+		else if (BaseClass == Job_Novice) {
+			%%message112%%
+			next;
+			%%message113%%
+			next;
+			%%message114%%
+			close;
+		}
+		else {
+			%%message115%%
+			next;
+			%%message116%%
+			next;
+			%%message117%%
+			close;
+		}
+	}
+	if (KNIGHT_Q == 0) {
+		%%message118%%
+		next;
+		%%message119%%
+		next;
+		%%message120%%
+		close;
+	}
+	else if (KNIGHT_Q == 1) {
+		%%message121%%
+		next;
+		if (select("I would like to take the test to change jobs.:Oh, nothing.") == 1) {
+			%%message122%%
+			next;
+			%%message123%%
+			next;
+			%%message124%%
+			close;
+		}
+		%%message125%%
+		close;
+	}
+	else if (KNIGHT_Q == 2 || KNIGHT_Q == 3) {
+		%%message126%%
+		next;
+		if (select("I would like to take the test to change jobs.:Oh, nothing.") == 1) {
+			%%message127%%
+			next;
+			%%message128%%
+			close;
+		}
+		%%message129%%
+		close;
+	}
+	else if (KNIGHT_Q == 4 || KNIGHT_Q == 5) {
+		if (KNIGHT_Q == 4) {
+			%%message130%%
+			next;
+			if (select("Sir Andrew sent me to take your test.:Oh, nothing.") == 1) {
+				%%message131%%
+				next;
+				%%message132%%
+				next;
+				%%message133%%
+				next;
+				%%message134%%
+				next;
+			}
+			else {
+				%%message135%%
+				close;
+			}
+		}
+		else if (KNIGHT_Q == 5) {
+			%%message136%%
+			next;
+			if (select("I wish to take the test again.:Oh, nothing.") == 1) {
+				%%message137%%
+				next;
+				%%message138%%
+				next;
+			}
+			else {
+				%%message139%%
+				close;
+			}
+		}
+		%%message140%%
+		next;
+		if (select("Katana:Slayer:Broadsword:Flamberge") != 4) {
+			set KNIGHT_Q,5;
+			%%message141%%
+			next;
+			%%message142%%
+			close;
+		}
+		%%message143%%
+		next;
+		if (select("Two Handed Sword Mastery Lv.5:Magnum Break Lv.3:Provoke Lv.10:Bash Lv.10") != 3) {
+			set KNIGHT_Q,5;
+			%%message144%%
+			close;
+		}
+		%%message145%%
+		next;
+		if (select("Pierce Lv.5:Spear Stab Lv.3:Spear Boomerang Lv.3:Peco Peco Ride Lv.1") != 3) {
+			set KNIGHT_Q,5;
+			%%message146%%
+			next;
+			%%message147%%
+			close;
+		}
+		%%message148%%
+		next;
+		if (select("Zephyrus:Lance:Bill Guisarme:Crescent Scythe") != 1) {
+			set KNIGHT_Q,5;
+			%%message149%%
+			next;
+			%%message150%%
+			close;
+		}
+		%%message151%%
+		next;
+		%%message152%%
+		next;
+		if (select("70 % of normal attack speed:80 % of normal attack speed:90 % of normal attack speed:100 % of normal attack speed") != 2) {
+			set KNIGHT_Q,5;
+			%%message153%%
+			next;
+			%%message154%%
+			close;
+		}
+		%%message155%%
+		next;
+		%%message156%%
+		next;
+		switch(select("Tell the Novice of a reasonable hunting area.:Let the Novice fight while you take the damage.:Give the Novice a bunch of Zeny and items.")) {
+		case 1:
+			%%message157%%
+			next;
+			break;
+		case 2:
+			set KNIGHT_Q,5;
+			%%message158%%
+			close;
+		case 3:
+			set KNIGHT_Q,5;
+			%%message159%%
+			close;
+		}
+		%%message160%%
+		next;
+		switch(select("Protect everyone in the front of the battle.:Gather monsters and destroy them at once.:Get as many items possible, at all cost.")) {
+		case 1:
+			%%message161%%
+			next;
+			break;
+		case 2:
+			set KNIGHT_Q,5;
+			%%message162%%
+			close;
+		case 3:
+			set KNIGHT_Q,5;
+			%%message163%%
+			close;
+		}
+		%%message164%%
+		next;
+		switch(select("Honor:Wealth:Status")) {
+		case 1:
+			%%message165%%
+			next;
+			break;
+		case 2:
+			set KNIGHT_Q,5;
+			%%message166%%
+			close;
+		case 3:
+			set KNIGHT_Q,5;
+			%%message167%%
+			close;
+		}
+		set KNIGHT_Q,6;
+		changequest 9003,9004;
+		%%message168%%
+		next;
+		%%message169%%
+		close;
+	}
+	else if (KNIGHT_Q == 6) {
+		%%message170%%
+		next;
+		if (select("I would like to take the test to change jobs.:Oh, nothing.") == 1) {
+			%%message171%%
+			close;
+		}
+		%%message172%%
+		close;
+	}
+	else if (KNIGHT_Q == 14) {
+		%%message173%%
+		next;
+		%%message174%%
+		close;
+	}
+	else {
+		%%message175%%
+		close;
+	}
+}
+
+prt_in,79,94,4	script	Sir Windsor#knt	733,{
+	%%message176%%
+	next;
+	%%message177%%
+	next;
+	if (BaseJob != Job_Swordman) {
+		if (BaseJob == Job_Knight) mes "Protect.";
+		else if (BaseClass == Job_Novice) {
+		}
+		else mes "...Hmpf.";
+		%%message178%%
+		close;
+	}
+	if (KNIGHT_Q == 0) {
+		%%message179%%
+		close;
+	}
+	else if (KNIGHT_Q >= 1 && KNIGHT_Q <= 5) {
+		%%message180%%
+		next;
+		if (select("I would like to take the test to change jobs.:Oh, nothing.") == 1) {
+			%%message181%%
+			next;
+			%%message182%%
+			next;
+			%%message183%%
+			close;
+		}
+		%%message184%%
+		close;
+	}
+	else if (KNIGHT_Q == 6 || KNIGHT_Q == 7) {
+		if (KNIGHT_Q == 6) {
+			set .@mes$,"Sir Siracuse sent me to you.:Oh, nothing.";
+			%%message185%%
+			next;
+		}
+		else {
+			set .@mes$,"I want to try again!:...";
+			next;
+		}
+		if (select(.@mes$) == 1) {
+			%%message186%%
+			next;
+			set KNIGHT_Q,7;
+			if (checkquest(9004) != -1) {
+				changequest 9004,9005;
+			}
+			%%message187%%
+			next;
+			if (KNIGHT_Q == 6) 
+			else {
+				%%message188%%
+				next;
+			}
+			%%message189%%
+			close2;
+			if(checkquest(9006) == -1) changequest 9005,9006;
+			warp "job_knt",89,101;
+			end;
+		}
+		%%message190%%
+		close;
+	}
+	else if (KNIGHT_Q == 14) {
+		%%message191%%
+		close;
+	}
+	else {
+		%%message192%%
+		close;
+	}
+}
+
+// Test 2 part 1
+//==========================================================
+job_knt,89,106,4	script	Knight Windsor#knt	733,{
+	%%message193%%
+	next;
+	%%message194%%
+	next;
+	%%message195%%
+	next;
+	set .@i, select("What kind of test is this?:How do I take the test?:I'd like to leave.:No.");
+	if (.@i == 4) close;
+	%%message196%%
+	next;
+	switch(.@i) {
+	case 1:
+		%%message197%%
+		next;
+		%%message198%%
+		next;
+		%%message199%%
+		next;
+		%%message200%%
+		next;
+		%%message201%%
+		next;
+		%%message202%%
+		next;
+		%%message203%%
+		close;
+	case 2:
+		next;
+		%%message204%%
+		next;
+		%%message205%%
+		next;
+		%%message206%%
+		next;
+		%%message207%%
+		next;
+		%%message208%%
+		next;
+		%%message209%%
+		close;
+	case 3:
+		close2;
+		warp "prt_in",80,100;
+		end;
+	}
+}
+
+job_knt,89,106,4	script	Windsor Benedict#knt	733,{
+	end;
+
+OnInit:
+	//disablenpc  "Windsor Benedict#knt";
+	hideonnpc "Windsor Benedict#knt";
+	waitingroom "Waiting Room",20,"Windsor Benedict#knt::OnStartArena",1;
+	enablewaitingroomevent;
+	end;
+
+OnStartArena:
+	killmonster "job_knt", "Knight1::OnMyMobDead";
+	killmonster "job_knt", "Knight2::OnMyMobDead";
+	killmonster "job_knt", "Knight3::OnMyMobDead";
+	warpwaitingpc "job_knt",43,146;
+	donpcevent "Knight1::OnEnable";
+	disablewaitingroomevent;
+	end;
+
+OnStart:
+	enablewaitingroomevent;
+	end;
+}
+
+-	script	Knight1	-1,{
+OnInit:
+	disablenpc "Knight1";
+	end;
+
+OnEnable:
+	enablenpc "Knight1";
+	if (!checkre(0)) {
+		set .MyMobs,12;
+		monster "job_knt",39,150,"Dustiness",1114,1,"Knight1::OnMyMobDead";
+		monster "job_knt",47,150,"Dustiness",1114,1,"Knight1::OnMyMobDead";
+		monster "job_knt",39,142,"Dustiness",1114,1,"Knight1::OnMyMobDead";
+		monster "job_knt",47,142,"Dustiness",1114,1,"Knight1::OnMyMobDead";
+	}
+	else
+		set .MyMobs,8;
+	monster "job_knt",43,137,"Piere",1160,1,"Knight1::OnMyMobDead";
+	monster "job_knt",43,137,"Andre",1095,1,"Knight1::OnMyMobDead";
+	monster "job_knt",43,137,"Deniro",1105,1,"Knight1::OnMyMobDead";
+	monster "job_knt",43,155,"Piere",1160,1,"Knight1::OnMyMobDead";
+	monster "job_knt",43,155,"Andre",1095,1,"Knight1::OnMyMobDead";
+	monster "job_knt",43,155,"Deniro",1105,1,"Knight1::OnMyMobDead";
+	monster "job_knt",35,146,"Argos",1100,1,"Knight1::OnMyMobDead";
+	monster "job_knt",52,146,"Argos",1100,1,"Knight1::OnMyMobDead";
+	initnpctimer;
+	end;
+
+OnDisable:
+	killmonster "job_knt", "Knight1::OnMyMobDead";
+	disablenpc "Knight1";
+	end;
+
+OnMyMobDead:
+	set .MyMobs,.MyMobs-1;
+	if (.MyMobs < 1) {
+		%%message210%%
+		next;
+		%%message211%%
+		close2;
+		warp "job_knt",43,52;
+		donpcevent "Knight1::OnDisable";
+		donpcevent "Knight2::OnEnable";
+		stopnpctimer;
+	}
+	end;
+
+OnTimer180000:
+	donpcevent "Knight1::OnDisable";
+	end;
+
+OnTimer181000:
+	areawarp "job_knt", 24, 126, 63, 165, "prt_in",80,100;
+	end;
+
+OnTimer182000:
+	stopnpctimer;
+	donpcevent "Knight1::OnDisable";
+	donpcevent "Windsor Benedict#knt::OnStart";
+	end;
+}
+
+// Test 2 part 2
+//==========================================================
+-	script	Knight2	-1,{
+OnInit:
+	disablenpc "Knight2";
+	end;
+
+OnEnable:
+	enablenpc "Knight2";
+	if (!checkre(0)) {
+		set .MyMobs,12;
+		monster "job_knt",43,42,"Desert Wolf",1106,1,"Knight2::OnMyMobDead";
+		monster "job_knt",43,62,"Desert Wolf",1106,1,"Knight2::OnMyMobDead";
+		monster "job_knt",60,68,"Anacondaq",1030,1,"Knight2::OnMyMobDead";
+		monster "job_knt",27,68,"Anacondaq",1030,1,"Knight2::OnMyMobDead";
+		monster "job_knt",60,35,"Anacondaq",1030,1,"Knight2::OnMyMobDead";
+		monster "job_knt",27,35,"Anacondaq",1030,1,"Knight2::OnMyMobDead";
+	}
+	else
+		set .MyMobs,6;
+	monster "job_knt",53,52,"Frilldora",1119,1,"Knight2::OnMyMobDead";
+	monster "job_knt",34,52,"Frilldora",1119,1,"Knight2::OnMyMobDead";
+	monster "job_knt",58,52,"Drainliar",1111,1,"Knight2::OnMyMobDead";
+	monster "job_knt",58,52,"Drainliar",1111,1,"Knight2::OnMyMobDead";
+	monster "job_knt",29,52,"Drainliar",1111,1,"Knight2::OnMyMobDead";
+	monster "job_knt",29,52,"Drainliar",1111,1,"Knight2::OnMyMobDead";
+	initnpctimer;
+	end;
+
+OnDisable:
+	killmonster "job_knt", "Knight2::OnMyMobDead";
+	disablenpc "Knight2";
+	end;
+
+OnMyMobDead:
+	set .MyMobs,.MyMobs-1;
+	if (.MyMobs < 1) {
+		%%message212%%
+		next;
+		%%message213%%
+		close2;
+		warp "job_knt",143,152;
+		donpcevent "Knight2::OnDisable";
+		donpcevent "Knight3::OnEnable";
+		stopnpctimer;
+	}
+	end;
+
+OnTimer180000:
+	donpcevent "Knight2::OnDisable";
+	end;
+
+OnTimer181000:
+	areawarp "job_knt", 24, 32, 63, 71, "prt_in",80,100;
+	end;
+
+OnTimer182000:
+	stopnpctimer;
+	donpcevent "Knight2::OnDisable";
+	donpcevent "Windsor Benedict#knt::OnStart";
+	end;
+}
+
+// Test 2 part 3
+//==========================================================
+-	script	Knight3	-1,{
+OnInit:
+	disablenpc "Knight3";
+	end;
+
+OnEnable:
+	enablenpc "Knight3";
+	if (!checkre(0)) {
+		set .MyMobs,7;
+		monster "job_knt",147,167,"Goblin Archer",1258,1,"Knight3::OnMyMobDead";
+		monster "job_knt",136,158,"Steam Goblin",1280,1,"Knight3::OnMyMobDead";
+	}
+	else
+		set .MyMobs,5;
+	monster "job_knt",136,152,"Goblin",1122,1,"Knight3::OnMyMobDead";
+	monster "job_knt",150,152,"Goblin",1123,1,"Knight3::OnMyMobDead";
+	monster "job_knt",143,145,"Goblin",1124,1,"Knight3::OnMyMobDead";
+	monster "job_knt",143,167,"Goblin",1125,1,"Knight3::OnMyMobDead";
+	monster "job_knt",139,167,"Goblin",1126,1,"Knight3::OnMyMobDead";
+	initnpctimer;
+	end;
+
+OnDisable:
+	killmonster "job_knt", "Knight3::OnMyMobDead";
+	disablenpc "Knight3";
+	end;
+
+OnMyMobDead:
+	set .MyMobs,.MyMobs-1;
+	if (.MyMobs < 1) {
+		%%message214%%
+		next;
+		%%message215%%
+		next;
+		%%message216%%
+		close2;
+		set KNIGHT_Q,8;
+		if(checkquest(9007) == -1) {
+			changequest 9006,9007;
+		}
+		warp "prt_in",80,100;
+		donpcevent "Knight3::OnDisable";
+		donpcevent "Windsor Benedict#knt::OnStart";
+		stopnpctimer;
+	}
+	end;
+
+OnTimer180000:
+	donpcevent "Knight3::OnDisable";
+	end;
+
+OnTimer181000:
+	areawarp "job_knt", 124, 132, 163, 171, "prt_in",80,100;
+	end;
+
+OnTimer182000:
+	stopnpctimer;
+	donpcevent "Knight3::OnDisable";
+	donpcevent "Windsor Benedict#knt::OnStart";
+	end;
+}
+
+// Test 3 (Manners)
+//==========================================================
+prt_in,69,107,6	script	Lady Amy#knt	728,{
+	if (BaseJob != Job_Swordman) {
+		if (BaseJob == Job_Knight) {
+			%%message217%%
+			next;
+			%%message218%%
+			next;
+			%%message219%%
+			close;
+		}
+		else if (BaseClass == Job_Novice) {
+			%%message220%%
+			next;
+			%%message221%%
+			next;
+			%%message222%%
+			close;
+		}
+		else {
+			%%message223%%
+			next;
+			%%message224%%
+			close;
+		}
+	}
+	if (KNIGHT_Q == 0) {
+		%%message225%%
+		next;
+		%%message226%%
+		close;
+	}
+	else if (KNIGHT_Q >= 1 && KNIGHT_Q <= 7) {
+		%%message227%%
+		next;
+		if (select("I would like to take the test to change jobs.:Oh, nothing.") == 1) {
+			%%message228%%
+			next;
+			%%message229%%
+			next;
+			%%message230%%
+			close;
+		}
+		%%message231%%
+		close;
+	}
+	else if ((KNIGHT_Q == 8) || (KNIGHT_Q == 9)){
+		if (KNIGHT_Q == 8) {
+			%%message232%%
+			next;
+			if (select("Sir Windsor told me to--:Oh, nothing.") == 1) {
+				if(checkquest(9008) == -1) changequest 9007,9008;
+				%%message233%%
+				next;
+				%%message234%%
+				next;
+				%%message235%%
+				next;
+				%%message236%%
+				next;
+				%%message237%%
+				next;
+			}
+			else {
+				%%message238%%
+				close;
+			}
+		}
+		else if (KNIGHT_Q == 9) {
+			%%message239%%
+			next;
+			if (select("I would like to take the test to change jobs.:Oh, nothing.") == 1) {
+				%%message240%%
+				next;
+				%%message241%%
+				next;
+				%%message242%%
+				next;
+			}
+			else {
+				%%message243%%
+				close;
+			}
+		}
+		%%message244%%
+		next;
+		if (select("Shout out that you are looking for a party.:Open a chat room and wait.:Look for people seeking Knights.") != 1)
+			set .@knight_t,.@knight_t+10;
+		%%message245%%
+		next;
+		%%message246%%
+		next;
+		%%message247%%
+		next;
+		if (select("Check out the area and plan ahead.:Gather monsters for your party members.:Lead the party slowly at the front.") != 2)
+			set .@knight_t,.@knight_t+10;
+		%%message248%%
+		next;
+		if (select("Keep the monsters from reaching the party.:Defend while the party retreats.:Run away on your Peco Peco.") != 3)
+			set .@knight_t,.@knight_t+10;
+		%%message249%%
+		next;
+		%%message250%%
+		next;
+		if (select("Ask your party's Priest to help.:Say you will help for Zeny.:Ignore and move on.") == 1)
+			set .@knight_t,.@knight_t+10;
+		%%message251%%
+		next;
+		%%message252%%
+		next;
+		if(select("Give it to who deserves it the most.:Pretend like nothing happened and keep it.:Decide with party who gets it.") != 2)
+			set .@knight_t,.@knight_t+10;
+		%%message253%%
+		next;
+		%%message254%%
+		next;
+		if (select("Shout out loud to everyone.:Open a chat room and wait.:Inquire if there is anyone that is interested.") != 1)
+			set .@knight_t,.@knight_t+10;
+		%%message255%%
+		next;
+		if (select("Give them some Zeny and items.:Simply ignore them.:Give suggestions for a place to hunt.") == 3)
+			set .@knight_t,.@knight_t+10;
+		%%message256%%
+		next;
+		%%message257%%
+		next;
+		if(select("Tell the person how to reach the exit.:Lead the person to the exit.:Give a Butterfly Wing.") != 3)
+			set .@knight_t,.@knight_t+10;
+		%%message258%%
+		next;
+		%%message259%%
+		next;
+		if (select("Would it be possible to get a heal please?:Can I have a heal?:Heal plz!!") == 1)
+			set .@knight_t,.@knight_t+10;
+		%%message260%%
+		next;
+		%%message261%%
+		next;
+		if (select("Pick it up and keep it.:Ask around to find the owner.:Simply walk by.") != 1)
+			set .@knight_t,.@knight_t+10;
+		%%message262%%
+		next;
+		if (.@knight_t == 100) {
+			set KNIGHT_Q,10;
+			changequest 9008,9009;
+			%%message263%%
+			next;
+			%%message264%%
+			close;
+		}
+		else if (.@knight_t == 90) {
+			set KNIGHT_Q,10;
+			changequest 9008,9009;
+			%%message265%%
+			next;
+			%%message266%%
+			close;
+		}
+		set KNIGHT_Q,9;
+		%%message267%%
+		next;
+		%%message268%%
+		next;
+		%%message269%%
+		close;
+	}
+	else if (KNIGHT_Q == 10) {
+		%%message270%%
+		next;
+		%%message271%%
+		close;
+	}
+	else if (KNIGHT_Q == 14) {
+		%%message272%%
+		next;
+		%%message273%%
+		close;
+	}
+	else {
+		%%message274%%
+		next;
+		%%message275%%
+		close;
+	}
+}
+
+// Test 4 (patience)
+//==========================================================
+prt_in,70,99,6	script	Sir Edmond#knt	734,{
+	if (BaseJob != Job_Swordman) {
+		if (BaseJob == Job_Knight) {
+			%%message276%%
+			next;
+			%%message277%%
+			next;
+			%%message278%%
+			close;
+		}
+		else if (BaseClass == Job_Novice) {
+			%%message279%%
+			next;
+			%%message280%%
+			close;
+		}
+		else {
+			%%message281%%
+			close;
+		}
+	}
+	if (KNIGHT_Q == 0) {
+		%%message282%%
+		close;
+	}
+	else if (KNIGHT_Q >= 1 && KNIGHT_Q <= 9) {
+		%%message283%%
+		next;
+		if (select("I would like to take the test to change jobs.:Oh, nothing.") == 1) {
+			%%message284%%
+			next;
+			%%message285%%
+			next;
+			%%message286%%
+			close;
+		}
+		%%message287%%
+		close;
+	}
+	else if (KNIGHT_Q == 10) {
+		%%message288%%
+		next;
+		if (select("Lady Amy sent me.:Oh, nothing.") == 1) {
+			%%message289%%
+			next;
+			%%message290%%
+			next;
+			%%message291%%
+			next;
+			%%message292%%
+			next;
+			%%message293%%
+			next;
+			%%message294%%
+			close2;
+			set KNIGHT_Q,11;
+			changequest 9009,9010;
+			warp "job_knt",143,57;
+			end;
+		}
+		%%message295%%
+		close;
+	}
+	else if (KNIGHT_Q == 11) {
+		%%message296%%
+		next;
+		if (select("I'm sorry, I didn't mean to...:Oh, nothing.") == 1) {
+			%%message297%%
+			next;
+			%%message298%%
+			next;
+			%%message299%%
+			close2;
+			warp "job_knt",143,57;
+			end;
+		}
+		%%message300%%
+		close;
+	}
+	else if (KNIGHT_Q == 12 || KNIGHT_Q == 13) {
+		%%message301%%
+		close;
+	}
+	else {
+		%%message302%%
+		close;
+	}
+}
+
+job_knt,1,1,1	script	Timer#knt	107,{
+OnTimer300000:
+	enablenpc "Warp#knt";
+	end;
+
+OnTimer300500:
+	donpcevent "Timer#knt::OnDisable";
+	disablenpc "Warp#knt";
+	end;
+
+OnTimer301500:
+	stopnpctimer;
+	donpcevent "Timer#knt::OnEnable";
+	end;
+
+OnInit:
+OnEnable:
+	enablenpc "Timer#knt";
+	monster "job_knt",141,57,"Poring",1002,1,"Timer#knt::OnMyMobDead";
+	monster "job_knt",145,57,"Poring",1002,1,"Timer#knt::OnMyMobDead";
+	monster "job_knt",143,55,"Poring",1002,1,"Timer#knt::OnMyMobDead";
+	monster "job_knt",143,59,"Poring",1002,1,"Timer#knt::OnMyMobDead";
+	monster "job_knt",141,55,"Lunatic",1063,1,"Timer#knt::OnMyMobDead";
+	monster "job_knt",141,59,"Lunatic",1063,1,"Timer#knt::OnMyMobDead";
+	monster "job_knt",145,55,"Lunatic",1063,1,"Timer#knt::OnMyMobDead";
+	monster "job_knt",145,59,"Lunatic",1063,1,"Timer#knt::OnMyMobDead";
+	monster "job_knt",139,57,"Chonchon",1011,1,"Timer#knt::OnMyMobDead";
+	monster "job_knt",147,57,"Chonchon",1011,1,"Timer#knt::OnMyMobDead";
+	monster "job_knt",143,53,"Chonchon",1011,1,"Timer#knt::OnMyMobDead";
+	monster "job_knt",143,61,"Chonchon",1011,1,"Timer#knt::OnMyMobDead";
+	//These monsters were out of bounds. Adjusted to put them in bounds.
+	monster "job_knt",165,54,"Mushroom",1182,1,"Timer#knt::OnMyMobDead";
+	monster "job_knt",165,57,"Mushroom",1182,1,"Timer#knt::OnMyMobDead";
+	monster "job_knt",122,54,"Mushroom",1182,1,"Timer#knt::OnMyMobDead";
+	monster "job_knt",122,57,"Mushroom",1182,1,"Timer#knt::OnMyMobDead";
+	initnpctimer;
+	end;
+
+OnDisable:
+	killmonster "job_knt","Timer#knt::OnMyMobDead";
+	disablenpc "Timer#knt";
+	disablenpc "Warp#knt";
+	end;
+
+OnMyMobDead:
+	warp "prt_fild05",353,251;
+	end;
+}
+
+job_knt,143,57,1	script	Warp#knt	107,22,22,{
+OnInit:
+	disablenpc "Warp#knt";
+	end;
+OnTouch_:
+	set KNIGHT_Q,12;
+	changequest 9010,9011;
+	warp "prt_in",80,100;
+	end;
+}
+
+// Test 5, and creates Claymores for knights
+//==========================================================
+prt_in,87,92,4	script	Sir Gray#knt	119,{
+	if (BaseJob != Job_Swordman) {
+		if (BaseJob == Job_Knight) {
+			%%message303%%
+			next;
+			%%message304%%
+			next;
+			switch(select("About ^3355FFClaymore^000000:Buy Claymore:End Conversation")) {
+			case 1:
+				%%message305%%
+				next;
+				%%message306%%
+				next;
+				%%message307%%
+				close;
+			case 2:
+				if (MaxWeight - Weight < 1800) {
+					%%message308%%
+					next;
+					%%message309%%
+					close;
+				}
+				else {
+					if ((Zeny > 73999) && (countitem(999) > 0) && (BaseJob == Job_Knight)) {
+						%%message310%%
+						next;
+						%%message311%%
+						next;
+						%%message312%%
+						next;
+						delitem 999,1; //Steel
+						set Zeny, Zeny - 74000;
+						getitem 1163,1; //Claymore
+						%%message313%%
+						close;
+					}
+					%%message314%%
+					next;
+					%%message315%%
+					close;
+				}
+			case 3:
+				%%message316%%
+				close;
+			}
+		}
+		else if (BaseClass == Job_Novice) {
+			%%message317%%
+			next;
+			%%message318%%
+			close;
+		}
+		%%message319%%
+		next;
+		%%message320%%
+		close;
+	}
+	if (KNIGHT_Q == 0) {
+		%%message321%%
+		next;
+		%%message322%%
+		close;
+	}
+	else if ((KNIGHT_Q == 12) || (KNIGHT_Q == 13)) {
+		if (KNIGHT_Q == 12) {
+			%%message323%%
+			next;
+			if (select("I would like to take the test to change jobs.:Oh, nothing.") == 1) {
+				%%message324%%
+				next;
+				%%message325%%
+				next;
+				%%message326%%
+				next;
+				%%message327%%
+				next;
+			}
+			else {
+				%%message328%%
+				close;
+			}
+		}
+		else if (KNIGHT_Q == 13) {
+			%%message329%%
+			next;
+			if (select("I've been thinking a lot.:Oh, nothing.") == 1) {
+				%%message330%%
+				next;
+				%%message331%%
+				next;
+				%%message332%%
+				next;
+			}
+			else {
+				%%message333%%
+				close;
+			}
+		}
+		switch(select("To become stronger...:To help my guild...:Because I'm unsatisfied with myself right now...")) {
+		case 1:
+			%%message334%%
+			next;
+			%%message335%%
+			next;
+			switch(select("Gain wealth and fame.:I can protect myself.:I can protect others.")) {
+			case 1:
+				set .@knight_t,.@knight_t+10;
+				%%message336%%
+				next;
+				break;
+			case 2:
+				%%message337%%
+				next;
+				break;
+			case 3:
+				%%message338%%
+				next;
+				%%message339%%
+				next;
+				break;
+			}
+			break;
+		case 2:
+			%%message340%%
+			next;
+			%%message341%%
+			next;
+			%%message342%%
+			next;
+			switch(select("My guild needs me.:I can help gather funds for my guild.:I can protect my guild members.")) {
+			case 1:
+				%%message343%%
+				next;
+				break;
+			case 2:
+				set .@knight_t,.@knight_t+10;
+				%%message344%%
+				next;
+				break;
+			case 3:
+				%%message345%%
+				next;
+				%%message346%%
+				next;
+				break;
+			}
+			break;
+		case 3:
+			set .@knight_t,.@knight_t+5;
+			%%message347%%
+			next;
+			%%message348%%
+			next;
+			%%message349%%
+			next;
+			switch(select("Skills.:Goal.:Appearance.")) {
+			case 1:
+				set .@knight_t,.@knight_t+5;
+				%%message350%%
+				next;
+				break;
+			case 2:
+				set .@knight_t,.@knight_t-5;
+				%%message351%%
+				next;
+				break;
+			case 3:
+				set .@knight_t,.@knight_t+5;
+				%%message352%%
+				next;
+				break;
+			}
+			break;
+		}
+		%%message353%%
+		next;
+		%%message354%%
+		next;
+		%%message355%%
+		next;
+		%%message356%%
+		next;
+		switch(select("I am going to go straight to battle.:There are those waiting for me.:I will learn more about Knights.")) {
+		case 1:
+			%%message357%%
+			next;
+			switch(select("I will grow within a short period of time.:I would like to test my ability as a Knight.:I would like to go to more challenging places.")) {
+			case 1:
+				set .@knight_t,.@knight_t+10;
+				%%message358%%
+				next;
+				break;
+			case 2:
+				%%message359%%
+				next;
+				break;
+			case 3:
+				%%message360%%
+				next;
+				break;
+			}
+			break;
+		case 2:
+			%%message361%%
+			next;
+			switch(select("My friends.:My Guild members.:My Lover.")) {
+			case 1:
+				%%message362%%
+				next;
+				break;
+			case 2:
+				%%message363%%
+				next;
+				break;
+			case 3:
+				%%message364%%
+				next;
+				%%message365%%
+				next;
+				break;
+			}
+			break;
+		case 3:
+			%%message366%%
+			next;
+			switch(select("Comfortable places for Knights to go...:The different paths of a Knight...:Ways to get more money as a Knight...")) {
+			case 1:
+				set .@knight_t,.@knight_t+5;
+				%%message367%%
+				next;
+				break;
+			case 2:
+				%%message368%%
+				next;
+				break;
+			case 3:
+				set .@knight_t,.@knight_t+15;
+				%%message369%%
+				next;
+				break;
+			}
+			break;
+		}
+		%%message370%%
+		next;
+		if (.@knight_t == 0) {
+			set KNIGHT_Q,14;
+			changequest 9011,9012;
+			%%message371%%
+			next;
+			%%message372%%
+			close;
+		}
+		else if (.@knight_t == 5) {
+			set KNIGHT_Q,14;
+			changequest 9011,9012;
+			%%message373%%
+			next;
+			%%message374%%
+			close;
+		}
+		else if (.@knight_t == 10) {
+			set KNIGHT_Q,14;
+			changequest 9011,9012;
+			%%message375%%
+			next;
+			%%message376%%
+			next;
+			%%message377%%
+			close;
+		}
+		else {
+			set KNIGHT_Q,13;
+			%%message378%%
+			next;
+			%%message379%%
+			next;
+			%%message380%%
+			close;
+		}
+	}
+	else if (KNIGHT_Q == 14) {
+		%%message381%%
+		next;
+		%%message382%%
+		close;
+	}
+	else {
+		%%message383%%
+		next;
+		if (select("I would like to take the test to change jobs.:Oh, nothing.") == 1) {
+			%%message384%%
+			next;
+			%%message385%%
+			close;
+		}
+		%%message386%%
+		close;
+	}
+}
+

@@ -1,0 +1,503 @@
+//===== rAthena Script =======================================
+//= Morocc Town
+//===== By: ==================================================
+//= kobra_k88; L0ne_W0lf
+//===== Current Version: =====================================
+//= 2.2
+//===== Compatible With: =====================================
+//= rAthena Project
+//===== Description: =========================================
+//= [Official Conversion]
+//= Morocc Town NPCs
+//===== Additional Comments: =================================
+//= Fully working
+//= Fixed Lapidary sprite, Implemented ANTHELL trigger
+//= (in both NPC/Warps) [Lupus]. Removed it from NPC and put in Warp
+//= 1.3 Removed some NPC due to Assassin Job Quest [kobra_k88]
+//= 1.3b mobs name corrected [Lupus], 1.3c - Adv classes support
+//= 1.4 Fixed typos [Nexon]
+//= 1.5 Added a lvl 4 weapon quest related NPC [MasterOfMuppets]
+//= 1.6 Added Bartender NPC, made by Persian69 [Vicious_Pucca]
+//= 1.7 Removed Duplicates [Silent]
+//= 1.8 Rescripted to Aegis 10.3 Standards. [L0ne_W0lf]
+//= 1.9 Removed duplicate NPC, changed temp char vars to temp npc. [L0ne_W0;f]
+//= 2.0 Fixed bad NPC header data to comply with rev. 11603. [L0ne_W0lf]
+//= 2.0a Fixed outdated info about Milk [Lupus]
+//= 2.1 Updated/Added NPCs for episode 12.1. [L0ne_W0lf]
+//= 2.2 Removed duplicate bartender NPC. (bugreport:4555) [L0ne_W0lf]
+//============================================================
+
+// Morocc
+//============================================================
+morocc,150,120,5	script	Soldier - Morocc#01::MocSoldier	707,3,3,{
+	%%message0%%
+	next;
+	%%message1%%
+	close;
+
+OnTouch_:
+	%%message2%%
+	next;
+	%%message3%%
+	close;
+}
+
+morocc,202,244,0	script	Volunteer - Morocc#01	745,{
+	%%message4%%
+	next;
+	%%message5%%
+	close;
+}
+
+morocc,88,133,3	script	Volunteer - Morocc#02	748,{
+	%%message6%%
+	next;
+	%%message7%%
+	next;
+	%%message8%%
+	close;
+}
+
+morocc,202,110,0	script	Volunteer - Morocc#03	730,{
+	%%message9%%
+	next;
+	%%message10%%
+	next;
+	%%message11%%
+	close;
+}
+
+morocc,268,287,3	script	Volunteer - Morocc#04	727,{
+	%%message12%%
+	next;
+	%%message13%%
+	close;
+}
+
+morocc,37,287,0	script	Volunteer - Morocc#05	79,{
+	%%message14%%
+	next;
+	%%message15%%
+	next;
+	%%message16%%
+	close;
+}
+
+morocc,223,102,0	script	Volunteer - Morocc#06::MocVolunteer	741,{
+	%%message17%%
+	next;
+	%%message18%%
+	next;
+	%%message19%%
+	next;
+	%%message20%%
+	next;
+	%%message21%%
+	next;
+	specialeffect EF_HIT2,AREA,"Volunteer - Morocc#06";
+	%%message22%%
+	next;
+	%%message23%%
+	next;
+	%%message24%%
+	next;
+	%%message25%%
+	close;
+}
+
+morocc,226,102,4	duplicate(MocVolunteer)	Volunteer - Morocc#07	726
+
+moc_ruins,123,154,0	script	Young Man#moc01	99,{
+	%%message26%%
+	next;
+	%%message27%%
+	next;
+	%%message28%%
+	next;
+	%%message29%%
+	next;
+	%%message30%%
+	close;
+}
+
+moc_ruins,128,153,0	script	Grampa#moc	61,{
+	%%message31%%
+	next;
+	%%message32%%
+	close;
+}
+
+moc_ruins,132,144,0	script	Wolf Young Man#moc	85,{
+	%%message33%%
+	next;
+	%%message34%%
+	next;
+	%%message35%%
+	close;
+}
+
+moc_ruins,115,144,3	script	Muka Young Man#moc	83,{
+	%%message36%%
+	next;
+	%%message37%%
+	next;
+	%%message38%%
+	next;
+	%%message39%%
+	next;
+	%%message40%%
+	close;
+}
+
+moc_ruins,109,138,0	script	Diamond Young Man#moc	99,{
+	%%message41%%
+	next;
+	%%message42%%
+	next;
+	%%message43%%
+	next;
+	%%message44%%
+	next;
+	%%message45%%
+	close;
+}
+
+morocc,54,251,0	script	Young Man#moc02	89,{
+	%%message46%%
+	next;
+	%%message47%%
+	next;
+	%%message48%%
+	next;
+	%%message49%%
+	next;
+	%%message50%%
+	close;
+}
+
+moc_ruins,94,117,0	script	Pale Looking Young Man	48,{
+	%%message51%%
+	next;
+	%%message52%%
+	next;
+	%%message53%%
+	next;
+	%%message54%%
+	next;
+	%%message55%%
+	next;
+	%%message56%%
+	close;
+}
+
+moc_ruins,115,82,0	script	Little Girl#moc	703,{
+	%%message57%%
+	next;
+	%%message58%%
+	next;
+	%%message59%%
+	next;
+	%%message60%%
+	close;
+}
+
+moc_ruins,118,82,1	script	Little Boy#moc	706,{
+	%%message61%%
+	next;
+	%%message62%%
+	next;
+	%%message63%%
+	next;
+	%%message64%%
+	next;
+	%%message65%%
+	close;
+}
+
+moc_ruins,121,116,4	script	Picky Lady#moc	66,{
+	%%message66%%
+	next;
+	%%message67%%
+	next;
+	%%message68%%
+	next;
+	%%message69%%
+	next;
+	switch(select("What about Angeling?:How about Ghostring?:Quit Conversation")) {
+	case 1:
+		%%message70%%
+		next;
+		%%message71%%
+		next;
+		%%message72%%
+		next;
+		%%message73%%
+		close;
+	case 2:
+		%%message74%%
+		next;
+		%%message75%%
+		next;
+		%%message76%%
+		next;
+		%%message77%%
+		close;
+	case 3:
+		%%message78%%
+		close;
+	}
+}
+
+moc_ruins,155,107,4	script	Ant Man#moc	47,{
+	%%message79%%
+	next;
+	%%message80%%
+	next;
+	%%message81%%
+	next;
+	%%message82%%
+	next;
+	switch(select("About 'Ant Hell':About Ants:End Conversation")) {
+	case 1:
+		%%message83%%
+		next;
+		%%message84%%
+		close;
+	case 2:
+		%%message85%%
+		next;
+		%%message86%%
+		next;
+		%%message87%%
+		next;
+		%%message88%%
+		next;
+		%%message89%%
+		close;
+	case 3:
+		%%message90%%
+		next;
+		%%message91%%
+		next;
+		%%message92%%
+		close;
+	}
+}
+
+moc_ruins,143,43,4	script	Assassin Boy#moc	118,{
+	%%message93%%
+	next;
+	%%message94%%
+	next;
+	switch(select("?????:Where I can find the Assassin clan?:End Conversation")) {
+	case 1:
+		%%message95%%
+		next;
+		%%message96%%
+		next;
+		%%message97%%
+		close;
+	case 2:
+		%%message98%%
+		next;
+		%%message99%%
+		next;
+		%%message100%%
+		next;
+		%%message101%%
+		next;
+		%%message102%%
+		next;
+		%%message103%%
+		close;
+	case 3:
+		%%message104%%
+		next;
+		%%message105%%
+		next;
+		%%message106%%
+		close;
+	}
+}
+
+moc_ruins,173,141,4	script	Dimitri#moc	49,{
+	%%message107%%
+	next;
+	switch(select("About the desert sands:About the remedy for Fatigue:End Conversation")) {
+	case 1:
+		%%message108%%
+		next;
+		%%message109%%
+		next;
+		%%message110%%
+		next;
+		%%message111%%
+		close;
+	case 2:
+		%%message112%%
+		next;
+		%%message113%%
+		close;
+	case 3:
+		%%message114%%
+		next;
+		%%message115%%
+		close;
+	}
+}
+
+moc_ruins,174,120,4	script	Fly Man#moc	54,{
+	%%message116%%
+	next;
+	%%message117%%
+	next;
+	%%message118%%
+	next;
+	switch(select("The Fly Lord?!")) {
+	case 1:
+		%%message119%%
+		next;
+		%%message120%%
+		next;
+		%%message121%%
+		next;
+		%%message122%%
+		next;
+		%%message123%%
+		close;
+	}
+}
+
+moc_ruins,173,70,4	script	Uncle Morocc#moc	48,{
+	%%message124%%
+	next;
+	%%message125%%
+	next;
+	switch(select("Tell me about the desert.:Quit Conversation")) {
+	case 1:
+		%%message126%%
+		next;
+		%%message127%%
+		next;
+		%%message128%%
+		next;
+		%%message129%%
+		close;
+	case 2:
+		%%message130%%
+		next;
+		%%message131%%
+		next;
+		%%message132%%
+		close;
+	}
+}
+
+moc_fild16,199,212,4	script	 Uncle Assassin#moc	55,{
+	%%message133%%
+	next;
+	switch(select("Notion of Assassin:Quit Conversation")) {
+	case 1:
+		%%message134%%
+		next;
+		%%message135%%
+		next;
+		%%message136%%
+		close;
+	case 2:
+		%%message137%%
+		next;
+		%%message138%%
+		next;
+		%%message139%%
+		close;
+	}
+}
+
+moc_fild16,211,254,4	script	Assassin#07rhea_30	118,{
+	%%message140%%
+	next;
+	switch(select("Specialty of Katar:Specialty of Dual Daggers:Quit Conversation")) {
+	case 1:
+		%%message141%%
+		next;
+		%%message142%%
+		next;
+		%%message143%%
+		next;
+		%%message144%%
+		next;
+		%%message145%%
+		close;
+	case 2:
+		%%message146%%
+		next;
+		%%message147%%
+		next;
+		%%message148%%
+		next;
+		%%message149%%
+		close;
+	case 3:
+		%%message150%%
+		close;
+	}
+}
+
+// Other NPCs
+//============================================================
+//Bartender
+/*
+morocc_in,166,76,3	script	Bartender#02	46,{
+	%%message151%%
+	next;
+	switch(select("Tropical Sograt:Vermilion on the Beach:Nothing.")) {
+	case 1:
+		if (Zeny >= 1000 ) {
+			set Zeny, Zeny-1000;
+			getitem 12112,1;
+			%%message152%%
+			close;
+		}
+		break;
+	case 2:
+		if (Zeny >= 1000 ) {
+			set Zeny, Zeny-1000;
+			getitem 12113,1;
+			%%message153%%
+			close;
+		}
+		break;
+	case 3:
+		%%message154%%
+		close;
+	}
+	%%message155%%
+	close;
+}
+*/
+
+// Assassin Guild Guards
+//===================================================
+moc_fild16,195,281,4	script	Assassin Guardian#1::SinGuard	707,{
+	if(BaseJob == Job_Assassin) {
+		%%message156%%
+		close;
+	}
+	set .@temp, rand(1,4);
+	if(.@temp == 1) mes "........";
+	if(.@temp == 2) mes "Hmmm..........";
+	if(.@temp == 3) mes "Hmmm... you shouldn't be here.....";
+	if(.@temp == 4) mes "You're trespassing on forbidden grounds.......";
+	close;
+}
+
+moc_fild16,204,281,4	duplicate(SinGuard)	Assassin Guardian#2	707
+moc_fild16,207,281,4	duplicate(SinGuard)	Assassin Guardian#3	707
+moc_fild16,216,281,4	duplicate(SinGuard)	Assassin Guardian#4	707
+moc_fild16,200,231,4	duplicate(SinGuard)	Assassin Guardian#5	707
+moc_fild16,211,231,4	duplicate(SinGuard)	Assassin Guardian#6	707
+moc_fild16,200,257,4	duplicate(SinGuard)	Assassin Guardian#7	707
+moc_fild16,211,257,4	duplicate(SinGuard)	Assassin Guardian#8	707
+
+

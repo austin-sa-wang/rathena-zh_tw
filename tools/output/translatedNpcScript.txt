@@ -16,21 +16,21 @@
 
 -	script	Smile Assistance::SmileHelper	92,{
 	mes "[微笑女孩]"
-	mes "嗨～嗨～這裡是微笑助理，我能為您效勞嗎？"
+	mes " 嗨~嗨~這裡是微笑助理。我能為您做些什麼嗎？"
 	next;
 	switch(select("^3355FFMr. Smile^000000 ?:Construct ^3355FFMr. Smile^000000 :Quit")) {
 	case 1:
 		mes "[微笑女孩]"
-		mes "根據^5577FFTristram III國王^000000的命令舉辦的國家活動，旨在鼓勵Rune-Midgarts王國的國民在更加愉快的氛圍下遊戲！我是名為^3355FF'微笑助理'^000000的人……負責在Rune-Midgarts王國范圍內以^3355FF微笑^000000之名主持此次國家活動。"
+		mes "由^5577FFTristram the 3rd陛下^000000命令舉辦的國家活動，旨在鼓勵Rune-Midgarts王國的人們在更愉快的氛圍中玩耍！我是在Rune-Midgarts王國名為^3355FF微笑^000000的國家活動中負責領導的^3355FF'微笑助理'^000000。"
 		next;
 		mes "[微笑女孩]"
-		mes "只要簡單易得的物品，我就能提供給你^3355FF'微笑先生'^000000。需求如下："
+		mes "透過簡單易得的物品，我可以提供您^3355FF' " + mesitemlink(2278, false) + " '^000000。要求如下。"
 		next;
 		mes "[微笑女孩]"
-		mes "^3355FF10 傑樂比結晶^000000 ^3355FF10 毛絨絨^000000 ^3355FF10 三葉草^000000"
+		mes "^3355FF10 " + mesitemlink(909, false) + "^000000 ^3355FF10 " + mesitemlink(914, false) + "^000000 ^3355FF10 " + mesitemlink(705, false) + "^000000"
 		next;
 		mes "[微笑女孩]"
-		mes "通過這個活動，每個人都會開心地微笑，與其他人一起玩，並試圖使Ragnarok成為世界上最有趣的遊戲。"
+		mes "透過這個活動，每個人都會快樂地微笑，與其他人聚在一起，並試圖使Ragnarok成為世界上最令人愉快的遊戲。"
 		close;
 	case 2:
 		if (countitem(909) > 9 && countitem(914) > 9 && countitem(705) > 9) {
@@ -42,22 +42,23 @@
 			delitem 705,10; //Clover
 			getitem 2278,1; //Mr_Smile
 			mes "[微笑女孩]"
-			mes "Tristram III國王承諾將盡其所能使Ragnarok更好，更有趣。"
+			mes "Tristram the 3rd陛下承諾會盡力使Ragnarok變得更好、更有趣。"
 			next;
-			mes "上述事實已由Rune-Midgarts王國的公共信息局宣布。"
+			mes "undefined"
+			mes "上述事實是由Rune-Midgarts王國的公共信息局宣布的。"
 			close;
 		}
 		else {
 			mes "[微笑女孩]"
-			mes "哦，不幸的是，您為微笑先生帶來的物品不夠。^3355FF10 傑樂比^000000 ^3355FF10 毛絨絨^000000 ^3355FF10 三葉草^000000 請檢查上面的要求。"
+			mes "哦，很遺憾，您沒有帶足夠的物品來換取" + mesitemlink(2278, false) + "。請檢查上面的要求，需要^3355FF10 " + mesitemlink(909, false) + "^000000 ^3355FF10 " + mesitemlink(914, false) + "^000000 ^3355FF10 " + mesitemlink(705, false) + "^000000。"
 			close;
 		}
 	case 3:
 		mes "[微笑女孩]"
-		mes "感謝您的光臨。我們…… Rune-Midgarts王國始終致力於使Ragnarok成為更好、更有趣的遊戲。"
+		mes "感謝您的光臨。我們——Rune-Midgarts王國，一直在努力使Ragnarok成為更好、更有趣的遊戲。"
 		next;
 		mes "[微笑女孩]"
-		mes "我們誠摯地請求您的合作。上述事實已由Rune-Midgarts王國的公共信息局宣布。"
+		mes "我們誠摯地請求您的合作。上述事實是由Rune-Midgarts王國的公共信息局宣布的。"
 		close;
 	}
 }

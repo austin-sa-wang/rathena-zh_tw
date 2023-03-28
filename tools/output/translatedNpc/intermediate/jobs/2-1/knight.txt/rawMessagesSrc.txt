@@ -1,0 +1,387 @@
+Captain Herman::Hm? You're... What is it about you? I've been an honorable Knight for a long time, but I cannot understand this feeling I'm getting from you...
+Captain Herman::May god bless your body and soul, warrior. I hope you will show your courage and protect those who are weaker than you.
+::Ah, a member of our Chivalry. I hope you are living up to my expectations. We have vowed to be strong for our kingdom, even if death is upon us...
+::Welcome, this is the Prontera Chivalry. What brings you here?
+Captain Herman::A-ha~ A Swordman, you say? I'm sorry, "+((Sex==SEX_MALE)?"lad":"lass")+", but you've come to the wrong place!
+Captain Herman::This isn't the Swordsman guild, it's the Prontera Chivalry! If you wish to become a Swordman, visit the Swordman Guild located in Izlude.
+Captain Herman::Ah, I see that you have great ambition. But you must first become a Swordman before becoming a Knight. One step at a time...
+Captain Herman::First, visit the Swordman guild in Izlude. Then, come visit us again once you have become a well experienced Swordman.
+Captain Herman::Aha~ You must have lots of free time. Why don't you go hunt some monsters instead of wandering about aimlessly?
+::Welcome. We, the proud Knights of the Prontera Chivalry, will give our lives for king and country! Please enjoy your stay.
+::Welcome, this is the Prontera Chivalry. What brings you here?
+Captain Herman::Ohh... A young "+((Sex==SEX_MALE)?"man":"lady")+" who wishes to become a Knight! Our Prontera Chivalry will assist you.
+Captain Herman::First of all, I am the captain of the Prontera Chivalry, Herman Phon Efesirsus. I'm pleased to meet young people eager to join the Prontera Chivalry.
+Captain Herman::We only accept Swordmen who are at least Job Level 40. We cannot consider applicants that are not yet experienced enough to become Knights.
+Captain Herman::Once you apply, and we find you eligible, we will begin the job change procedure. Would you like to apply now?
+Captain Herman::Ah, you are not yet ready to become a Knight! Didn't I specifically mention the Job Level 40 requirement?
+Captain Herman::Of course I understand your strong desire to join us, but now is not the time. Go out and fight some more monsters. We will be here waiting.
+::Ah...! You cannot change jobs if you have unused skill points remaining. Return when you have used all of your skill points.
+::Let me see... Your name is mes strcharinfo(0) + "... Is that right?
+Captain Herman::Let me explain the job change procedure. You must visit a series of Knights and pass each of their tests.
+Captain Herman::Once all the tests are completed, every Knight involved in your testing will gather and discuss your performance.
+Captain Herman::The Knights must unanimously approve of you before you can join the Prontera Chivalry. If only one person objects, you must start over.
+Captain Herman::But I believe if you persist with an earnest " + mesitemlink(7855, false) + ", you shall be acknowledged by the Knights and ultimately recognized as a member of our Chivalry.
+Captain Herman::So, let's not waste any more time talking! Go and meet these Knights and begin their tests. Once you have completed all of the tests, come back to me.
+Captain Herman::Oh...! Well, I don't want to pressure you. Take your time and think it over. Return when you are ready to change jobs, for we will be waiting.
+Captain Herman::Come to think of it, aren't you a Swordman? It looks like you've encountered many foes in battle.
+Captain Herman::You should consider changing jobs to a Knight. Come and talk to me if you are interested.
+Captain Herman::Please take your time in looking around. Good day.
+::Mmm? mes strcharinfo(0) + ", what can I do for you? Ah, you don't know who to visit?
+Captain Herman::I believe the Knights in charge of testing have set an order in which you must visit them. I suppose it helps the testing process.
+Captain Herman::First, go and visit Sir Andrew for your first test. Don't be too nervous, he'll explain everything once you talk to him.
+::It appears that you have finished one test. Let's see. Sir Andrew, who must this Swordman visit next?
+Sir Andrew::I said to visit Sir Siracuse. Funny, I thought I told you. Did I forget...?
+Captain Herman::Did you hear? Go to Sir Siracuse and take his test. Once you complete his test, do not forget who you're supposed to visit next as well.
+::Let's see... You've completed two tests. Sir Siracuse, who must this Swordman visit next?
+Sir Siracuse::Oh...! Um, who was next...? Right! Sir Windsor!
+Captain Herman::Head over to Sir Windsor Benedict for your next test. Listen carefully to the Knights in charge of testing so that you don't feel lost, alright?
+::Sir Windor...? Who must this Swordman visit next?
+Sir Windsor::...
+Sir Windsor::... ......
+Sir Windsor::...Amy Beatrice.
+Captain Herman::Ah, go and visit Lady Amy and take her test. Make sure you pay attention to who you must go to for your next test.
+::Let's see... Lady Amy, who must this Swordman visit next?
+Lady Amy::Oh... I said to visit Sir Edmond! Tee hee~
+Captain Herman::Now, go and speak to Sir Edmond. He will be in charge of your next test.
+::Don't you only have to visit one more person? The Knight in charge of the final test is Sir Gray Prospheiro.
+Sir Edmond::This world operates according to the law of cause and effect. All will be revealed in the end.
+Captain Herman::Be alert and do your best, as this is the last test.
+Captain Herman::Return to me after you have completed the final test.
+::Finish the last test. Once that is complete, all the Knights involved in your testing shall gather, and we will evaluate your performance.
+::Oh...! You cannot change jobs if you have unused skill points remaining. Return once you have distributed all your skill points.
+::Oh, have you completed all the tests? But not everyone who completes the tests can become a Knight.
+Captain Herman::During the test we see how loyal, honorable and strong you are. We also see if you were courteous and if you know the value of modesty and reverence.
+Captain Herman::Through this process, I have also observed your actions. All seven of our opinions will be reflected in the decision of your job change.
+Captain Herman::Then... We shall listen to everyone's thoughts! Andrew, what do you think?
+Sir Andrew::What can I say? I approve! Having lived as a Swordsman up until now is enough. This one has gathered items that are troublesome to obtain. I approve! I believe "+((Sex==SEX_MALE)?"":"s")+"he will continue to be loyal after becoming a Knight.
+Captain Herman::Hmm. What a nice review. Siracuse, what are your thoughts?
+Sir Siracuse::Heh, very well. Not quite what I would want, but hopefully will become better in the future.
+Sir Siracuse::After becoming a Knight, you must build a good reputation through honor. Ehh... I approve.
+Captain Herman::Okay... Windsor, what about you?
+Sir Windsor::...
+Sir Windsor::... ......
+Sir Windsor::....Approved.
+Captain Herman::I don't think he disapproves. Then, let's listen to Amy's opinion.
+Lady Amy::Mmm~ He's so polite! He'll grow to be a wonderful Knight. And he's got such cute widdle cheeeeks~ Hee hee! Mmm~ She should be great! She's very courteous and also very cute, so a few more points! Heh~ I shouldn't be saying things like this!
+Captain Herman::Well... A strange review, but I believe she approves. Edmond, speak your mind.
+Sir Edmond::He seems a little rough, but something bright shines within him. With polish and refinement, his true value will shine forth as the sun. It's difficult to see, but there is a spiritual beauty within her. With polish and refinement, her true value will glow as resplendently as the moon.
+Captain Herman::Lastly... Gray. I would like to hear your thoughts.
+Gray::A young "+((Sex==SEX_MALE)?"gentleman":"lady")+" coming here with the determination to become a Knight is enough...
+Captain Herman::Everyone has approved. No one has opposed. Then I shall tell you my opinion.
+Captain Herman::My decision is...
+Captain Herman::I approve.
+Captain Herman::You may not have finished all the tests perfectly, but you have all the necessary qualities to become a Knight.
+Captain Herman::I hereby declare you a member of the Prontera Chivalry. Protect the weak and live with honor.
+Captain Herman::Oh... We have prepared a small gift to congratulate you on your job change. Please use it when you are in battle as you honorably protect others.
+Captain Herman::Go forth! The future of Rune-Midgarts rests on your shoulders!
+::Mmm? Swordman " + strcharinfo(0) + ". How are the tests? Ah~ You do not know who to visit next?
+Captain Herman::It may be difficult, but do your best.
+Sir Andrew::You must be a member of the Chivalry. How are you doing?
+Sir Andrew::You must work diligently to gather food as well as save zeny to buy equipment. Save everything you find in battle, even the smallest " + mesitemlink(909, false) + ".
+Sir Andrew::But it's not good to be too greedy. After all, we are Knights.
+::Hey there, little Novice. Welcome to the Prontera Chivalry.
+Sir Andrew::You might that you're weak right now, but someday you'll become stronger.
+Sir Andrew::Dream of a bright future, and go look forward on the path that you choose to take.
+::We, the members of the Prontera Chivalry, are putting our best effort in protecting peace in this world.
+Sir Andrew::Even during the battles we face each and every day, we dream of a bright future that is to come.
+::We, the members of the Prontera Chivalry, are putting our best effort in protecting peace in this world.
+Sir Andrew::Even during the battles we face each and every day, we dream of a bright future that is to come.
+::Good day. May I help you with something?
+Sir Andrew::Ah... You wish to become a Knight. Your name is mes strcharinfo(0) + ", correct?
+Sir Andrew::I am a Knight of the Prontera Chivalry, Andrew Shylock. I am in charge of your first test.
+Sir Andrew::I will be testing your sense of loyalty. Every Knight must possess this virtue. For this exam, you will be gathering prizes from the battlefield.
+Sir Andrew::Mmm...? Hold on there. You look like you've mastered being a Swordsman.
+Sir Andrew::Impressive...! On second thought, I don't think your loyalty needs to be tested.
+Sir Andrew::Please go to my fellow Knight, Sir Siracuse, as he will give you your next test. Well done in mastering the Swordman job.
+Sir Andrew::Without further ado, let's begin! Go and gather the following items...
+Sir Andrew::^236B8E"+.@items[1]+" "+getitemname(.@items[0])+"^000000, ^236B8E"+.@items[3]+" "+getitemname(.@items[2])+"^000000, ^236B8E"+.@items[5]+" "+getitemname(.@items[4])+"^000000, ^236B8E"+.@items[7]+" "+getitemname(.@items[6])+"^000000, ^236B8E"+.@items[9]+" "+getitemname(.@items[8])+"^000000 and ^236B8E"+.@items[11]+" "+getitemname(.@items[10])+"^000000,
+Sir Andrew::I shall be waiting here for you to bring the items I've listed. See you soon~
+Sir Andrew::Well, then... Good day.
+::Welcome back~ Did you gather all the items? Let's check and see...
+Sir Andrew::Perfect! We appreciate your effort in gathering these items. Thesee will be used to support the Chivalry's finances.
+Sir Andrew::Please visit my fellow Knight, Sir Siracuse, and continue the tests with the dedication and loyalty you've shown to me this day.
+Sir Andrew::Wait, wait... I think you're still missing some items. In case you forgot, let me remind you...
+Sir Andrew::^236B8E"+.@items[1]+" "+getitemname(.@items[0])+"^000000, ^236B8E"+.@items[3]+" "+getitemname(.@items[2])+"^000000, ^236B8E"+.@items[5]+" "+getitemname(.@items[4])+"^000000, ^236B8E"+.@items[7]+" "+getitemname(.@items[6])+"^000000, ^236B8E"+.@items[9]+" "+getitemname(.@items[8])+"^000000 and ^236B8E"+.@items[11]+" "+getitemname(.@items[10])+"^000000,
+Sir Andrew::Now, please take this test seriously and with sincerity. Now, I'll be waiting for you to complete this task.
+::Did you have something you needed to ask me? You should go and take the next test. Hurry, Sir Siracuse is waiting for you~
+::You must have finished all the tests. Good job! You should go see our Captain so that we can all give our evaluation.
+::Did you have something you needed to ask me? You should go and take your next test. Do your best. I know you can do it!
+Sir Siracuse::Hey there! How are you doing? The Chivalry's been doing pretty well.
+Sir Siracuse::We've been testing new members, but not all of them show as much promise as you.
+Sir Siracuse::I hope these new recruits all behave themselves, and don't bring shame to the Chivalry.
+Sir Siracuse::If you catch any of the new guys acting in a way unbecoming of a Knight, scold them for me please?
+::Oh? What is a Novice doing here?
+Sir Siracuse::Are you interested in becoming a Knight? You just can't change into a Knight from a Novice, you know.
+Sir Siracuse::First, you have to become a well experienced Swordman before you can consider becoming a Knight.
+::Offense and defense. Is there a way to have both without compromising one or the other?
+Sir Siracuse::Two-handed weapons greatly improve your offense but decrease your defenses. Is there something that can overcome this weakness?
+Sir Siracuse::A weapon or some sort of technique like that would help Knights greatly...
+::Offense and defense. Is there a way to have both without compromising one or the other?
+Sir Siracuse::Two-handed weapons greatly improve your offense but decrease your defenses. Is there something that can overcome this weakness?
+Sir Siracuse::A weapon or some sort of technique like that would help Knights greatly...
+::Eh? Do you have something to ask me?
+Sir Siracuse::Oh, to become a Knight? Come to think of it, aren't you the "+((Sex==SEX_MALE)?"guy":"girl")+" that just applied?
+Sir Siracuse::Let's see... Your name was mes strcharinfo(0) + ".
+Sir Siracuse::But, before you come to me, you must visit the others. The way I see it, you haven't proven that you know the basics. But I'll reconsider once you pass the first test.
+Sir Siracuse::Hmmm...? Alright. It's just that you had that look on your face.
+::Eh? Do you have something to ask me?
+Sir Siracuse::Hahaha~! Aren't you supposed to be taking Andrew's test? You can't just skip that, you know! All of our tests are important.
+Sir Siracuse::Speak to Sir Andrew first. My test for you will come after you've finished his test.
+Sir Siracuse::Hmmm...? Alright. It's just that you had that look on your face.
+::Oh? Do you have something to ask me?
+Sir Siracuse::I see, you've passed the first test. Very well, I'll make some time for you. Let me introduce myself. My name is James Siracuse.
+Sir Siracuse::This test will measure how much you know about Knighthood. More importantly, I want to know your thoughts about honor.
+Sir Siracuse::Don't be nervous, I won't keep you too long. These will be quick questions. Plus, you still have to see the others, right?
+Sir Siracuse::Well then, let's begin. Please answer promptly.
+Sir Siracuse::Hmmm...? Alright. It's just that you had that look on your face.
+::What... You again?
+Sir Siracuse::Is that right? Are you sure you're prepared this time?
+Sir Siracuse::Alright then, here we go again...
+Sir Siracuse::Hmmm...? Alright. It's just that you had that look on your face.
+Sir Siracuse::A Knight must possess great strength, defense, speed, and the skill to wield a " + mesitemlink(1157, false) + ". Which of the following weapons are not affected by the Two Hand Quicken skill?
+Sir Siracuse::Wrong! That's a " + mesitemlink(1157, false) + "! Are you sure you want to be a Knight? You don't even know the basics...
+Sir Siracuse::If you're not sure about anything, go into town and ask any Knight. You need to learn more about Knights before applying for the job!
+Sir Siracuse::Good, now let me ask about some skills. Which of the following is not necessary to learn Bowling Bash?
+Sir Siracuse::Wrong! You need that to learn Bowling Bash! You should learn more about the Knight class before applying for the job!
+Sir Siracuse::Knights can also use Spears, unlike other jobs, and have skills related to Spears as well. What skills are not necessary to learn the skill Brandish Spear?
+Sir Siracuse::Wrong! You need to learn that to learn Brandish Spear! How can you not know about Knights if you want to become one?
+Sir Siracuse::If you aren't sure about anything, go into town and ask any Knight for help. Come back after you've learned more about Knights.
+Sir Siracuse::Some Spears also have magical attributes, just like spells. Of the following, which can attack a " + mesitemlink(7102, false) + ", which has the Ghost attribute?
+Sir Siracuse::Wrong! You'll be doing absolutely no damage with that type of Spear! Come back after you've learned more about Knights!
+Sir Siracuse::If you have a question, just ask any Knight in town. This is basic knowledge for us!
+Sir Siracuse::When you become a Knight you can ride a Peco Peco. However, your attack speed decreases once you're mounted on a Peco Peco.
+Sir Siracuse::But, you can counter this speed decrease as you learn the Cavalier Mastery skill. What percentage of your normal attack speed will you have after learning Level 3 Cavalier Mastery?
+Sir Siracuse::Wrong! Don't bother riding a Peco Peco if you don't know about Cavalier Mastery!
+Sir Siracuse::You better come back after you've learned a little more about Knights!
+Sir Siracuse::Good, good... I'm pretty sure you know a decent amount about Knights. Now, let me ask you some personal questions about Knights.
+Sir Siracuse::What should you do when you run into a Novice asking for help in town?
+Sir Siracuse::Of course, even a Novice needs to learn how to be independent. Giving good guidance to Novices is one of the best things we can do.
+Sir Siracuse::You have the wrong idea. Do you really believe that is helping the Novice? Give a man a fish, he will eat for a day. Teach him to fish, he will eat for a lifetime!
+Sir Siracuse::Do you really believe that this will truly help the poor Novice? It's generous but, they will not know the true value of zeny and items until they earn it themselves.
+Sir Siracuse::Alright... Now, how should you act within a party?
+Sir Siracuse::That's it! Our strength and attacks are very important in a party. All Knights should engage in a battle with that mindset.
+Sir Siracuse::Are you crazy? Don't you realize the flaw in that kind of thinking? You can't control large mobs. What if they kill you? Who will protect the innocent?
+Sir Siracuse::I see your greed and we will have none of it here! It seems you do not truly care for others! Get lost!
+Sir Siracuse::Lastly... what's the most important value a Knight must have?
+Sir Siracuse::Right, above all else, Knights must be honorable! We live and die for honor! Always keep that in mind.
+Sir Siracuse::You're scum! You strive to become a Knight for personal wealth? Get lost! We will not accept someone like you in our Chivalry!
+Sir Siracuse::So you're trying to become famous through the Chivalry? That's pathetic. We won't accept someone like you in our Chivalry!
+Sir Siracuse::Well then, this is the end of my test.
+Sir Siracuse::For your next test, please go see Sir Windsor. He's very quiet, but don't let that get to you.
+::Oh? Do you have something to ask me?
+Sir Siracuse::Hey... You already took my test, didn't you? You're done here. You should go visit Sir Windsor now...
+Sir Siracuse::Hmmm...? Alright. It's just that you had that look on your face.
+::Mmm...? You finished everyone else's tests as well?
+Sir Siracuse::Well then, go and see the captain. We'll all be there to evaluate your performance.
+::Hey again. Did you need something? Sorry, but I'm busy at the moment. You should go and finish the rest of your tests.
+Sir Windsor::...
+Sir Windsor::... ......
+Sir Windsor::...Go play outside.
+::...What?
+::...What?
+Sir Windsor::...
+Sir Windsor::... ......
+Sir Windsor::...It's not my turn.
+Sir Windsor::...
+::.....What?
+Sir Windsor::...
+Sir Windsor::... ......
+Sir Windsor::...Follow me. ...Fine.
+Sir Windsor::...This way.
+Sir Windsor::...
+::...Talk to the captain.
+::...You're done here.
+Sir Windsor::...
+Sir Windsor::... ......
+Sir Windsor::...Question?
+Sir Windsor::...
+Sir Windsor::... ......
+Sir Windsor::...You fight monsters.
+Sir Windsor::...Kill them all.
+Sir Windsor::...
+Sir Windsor::...Three stages. Beat them all.
+Sir Windsor::......3 minutes for each stage.
+Sir Windsor::..........
+Sir Windsor::...Go in the waiting room.
+Sir Windsor::...Then it will begin.
+Sir Windsor::...
+Sir Windsor::...You have to wait if someone is testing.
+Sir Windsor::...You can go in after that person.
+Sir Windsor::...
+Sir Windsor::...
+Sir Windsor::...On to the next level.
+Sir Windsor::...Hmm.
+Sir Windsor::...One stage left.
+Sir Windsor::...
+Sir Windsor::...Very good.
+Sir Windsor::...Go talk to Amy Beatrice now.
+Lady Amy::Oh...! I wonder, why have you come to visit me?
+Lady Amy::You're not having trouble as a Knight, are you? Well, I think you're doing well~
+Lady Amy::Of course~ You're a member of the Prontera Chivalry~
+::Aww~ What a cute little Novice! Soooooo cute!
+Lady Amy::Heh heh... Are you interested in becoming a Knight later on? You'd be a great Knight~
+Lady Amy::Remember, you're going to be a Knight, alright? Promise?
+::Welcome to the Prontera Chivalry~
+Lady Amy::We're only Knights, but hope you enjoy your stay here. Heh heh~
+::Ooh, you're a Swordsman...? Did you come to change jobs to a Knight?
+Lady Amy::To apply, talk to the captain all the way over there. Hee hee~
+::Hmmm? Why did you come to Amy?
+Lady Amy::Mmm~ You applied to change jobs! Okay! You'll soon be a Knight with that kind of determination!
+Lady Amy::But... You have to go to the other Knights before talking to Amy.
+Lady Amy::I'd love to test you from the beginning, but I'm not allowed to. Hee hee~
+Lady Amy::Aww~ Alright...
+::Hmmm? Why did you come to Amy?
+Lady Amy::Oh! No need to say anything more. Welcome! It's time to take Amy's test!
+Lady Amy::My name is Amy Beatrice, a proud Lady Knight of the Prontera Chivalry. Amy's test will test your etiquette as a Knight~
+Lady Amy::I'll tell you a story and you choose an answer whenever I ask a question. Your etiquette will be judged on your answers.
+Lady Amy::So listen carefully and answer as if you're already a Knight, okay?
+Lady Amy::Then, let's begin!
+Lady Amy::Aww... Alright~
+::Hmmm? Why did you come to Amy?
+Lady Amy::Mmm~? Have you learned what you did wrong last time? If you fail again, I'm going to be mad!
+Lady Amy::So listen carefully and answer as if you are a Knight. Well then, let's begin!
+Lady Amy::You are a Knight and you are looking for a party in Morocc. How would you go about doing so?
+Lady Amy::Aww... Alright~
+::You are a Knight and you are looking for a party in Morocc. How would you go about doing so?
+Lady Amy::You have formed a party with equal leveled players. There's a Priest, a Wizard, a Hunter, an Assassin, and a Blacksmith...
+Lady Amy::The six of you decide to go hunt and have decided to go to the Pyramids.
+Lady Amy::You reach Level 4 of the Pyramids with your party. What should you do?
+Lady Amy::But some rude players came with a group of monsters and disappeared! What should you do?
+Lady Amy::Luckily, you all lived through the crisis. But as you walk, you find a person, who is not in your party, collapsed on the ground.
+Lady Amy::The person is asking politely for help. What should you do?
+Lady Amy::You must bid farewell to your party members because you must go somewhere else.
+Lady Amy::But you find a rare item during the battle. What should you do?
+Lady Amy::You end up with the item and you go to Prontera to sell it. There are many people with shops and chat rooms opened selling items.
+Lady Amy::What should you do to sell your item?
+Lady Amy::While you are waiting, someone comes and begs for items and zeny. What do you do?
+Lady Amy::Now you decide to go to the Hidden Temple by yourself. You happily ride on your Peco Peco.
+Lady Amy::But you run into someone that is lost. What should you do?
+Lady Amy::You've been hunting for a while, and now you're low on HP! It's red now, which is very dangerous.
+Lady Amy::Ah, then a Priest happens to walk by. How would you ask the Priest for a Heal?
+Lady Amy::You are now very exhausted and it's time to go back to town.
+Lady Amy::You then find a rare item on the street. What should you do?
+Lady Amy::Okay, that was the end of my test!
+Lady Amy::Well done, that kind of mentality is needed for a Knight! For your next test, visit Sir Edmond, please~
+Lady Amy::I'll have nice comments about you for the captain. Do well on the tests you have left, okay?
+::Well, it wasn't perfect, but I think you know enough about etiquette to be a fine Knight.
+Lady Amy::Now, it's time for you to go to Sir Edmond for your next test. Do well on the rest of your tests. You better promise~
+::Mmm... To be honest, I don't think your attitude is good enough to be a Knight quite yet.
+Lady Amy::If you really act like that, everyone will think Knights are rude! Think about how you answered my questions and come again later.
+Lady Amy::If you want, I'll let you retake the test, okay?
+::Hmmm? Why did you come to Amy?
+Lady Amy::You have to go to Sir Edmond for your next test, okay?
+::Wow~ Now it's time for everyone to decide on your job change!
+Lady Amy::Let's go talk to our captain. Don't worry too much. It should be okay.
+::Hmmm? Why did you come to Amy?
+Lady Amy::You still have other tests to take. Hurry and finish~
+Sir Edmond::Think of your mind as if it were flowing water.
+Sir Edmond::Flowing water avoids obstacles, going on its way...
+Sir Edmond::Knights must be able to pass things, like calm water, in any situation.
+::Trees with deep roots don't sway with the wind. The fact that powerful skills must be built on strong basics is immutable...
+Sir Edmond::Your future can even be decided now...
+::Everything in this world exists in harmony. Living without disrupting this harmony is the right way to live...
+::Those with ominous thoughts will only dream such dreams. It's better to have no dreams at all than to have dreams of sadness and despair.
+::What is it... Wandering Swordman?
+Sir Edmond::A seed must first be nestled in the earth before the seed may " + mesitemlink(7193, false) + ". Then, the " + mesitemlink(7193, false) + " must grow leaves before its buds blossom into flowers...
+Sir Edmond::If not... The " + mesitemlink(712, false) + " will be incomplete.
+Sir Edmond::Go to the others first, so that you may find your path...
+Sir Edmond::The life that you want will soon be before your eyes. Everything will come in perfect order.
+::What is it... Wandering Swordman.
+Sir Edmond::It is now time to take my test. Please do your best, as you have done on the other tests.
+Sir Edmond::My name is Edmond Groster. I am a member of the Prontera Chivalry.
+Sir Edmond::Knights are in the position for others to follow. Therefore, you must modestly think about the world's order and have the personality to fit the role you will play.
+Sir Edmond::You must not make careless decisions. Your will should bend as the reeds or be as firm as stone when the situation calls for it.
+Sir Edmond::You must not kill monsters without reason and not take joy in doing so. Take this time to quietly think about this on your own...
+Sir Edmond::Then, we shall begin the test. Keep in mind the quality of reverence.
+Sir Edmond::The life you want will soon be before your eyes.
+::What is it... Wandering Swordman?
+Sir Edmond::You were too careless in the last test. A Knight's sword exists to protect others, not to torment weaker monsters.
+Sir Edmond::In a world where everything exists in harmony, you can't have humans continuously destroying without purpose. This principle applies to the real world, not to this test alone.
+Sir Edmond::The test shall begin. Show me your patience...
+Sir Edmond::The life that you want will soon be before your eyes. Everything will come in perfect order.
+::I have seen your character for myself. It is now time for you to take the last test. Go and speak to Sir Gray...
+::Go and speak to our captain. The time has come for all of us to evaluate your performance.
+Sir Gray::The glint of light that shines off this blade cannot be put into words. This is the weapon every Knight must have.
+Sir Gray::Yes... ^3355FF" + mesitemlink(1163, false) + "^000000! Every Knight would want one!
+Sir Gray::" + mesitemlink(1163, false) + ", one of the best among the famous swords you can attain in Rune-Midgarts' Prontera!! Its value is priceless when considered by a Knight.
+Sir Gray::Now, the Prontera Chivalry is making these fabulous Claymores. For Knights, they are only ^3355FF74,000^000000 Zeny.
+Sir Gray::But not only that, you need 1 ^3355FF" + mesitemlink(999, false) + "^000000 because of the " + mesitemlink(1163, false) + "'s characteristics. If you like, I can create one for you. For the honor of the Prontera Chivalry!
+Sir Gray::Oh no... It seems that you are carrying too many things. You don't have enough space for a heavy " + mesitemlink(1163, false) + " in your inventory.
+Sir Gray::Why don't you go and organize your items first.
+Sir Gray::You are ready! You must know the true value of a " + mesitemlink(1163, false) + "! I shall make it right now!!
+Sir Gray::The basics of making the " + mesitemlink(1163, false) + " is easy. Watch~!
+::^3355FF*Stir Stir*^000000 ^3355FF*Ooncha Ooncha*^000000
+Sir Gray::Okay, it's ready! Every Knight's pride: a fine ^3355FF" + mesitemlink(1163, false) + "^000000. You attained a reliable item. It'll be a good companion on your adventures.
+Sir Gray::I realize you may really want a " + mesitemlink(1163, false) + ", but I can't make it without the materials. ^3355FF74,000 zeny^000000 and ^3355FF1 " + mesitemlink(999, false) + "!^000000.
+Sir Gray::Come back when you have everything ready. I shall be waiting...
+Sir Gray::Any Knight should be able to wield a " + mesitemlink(1163, false) + " as if it were an extension of their body. I used to look forward to brandishing my " + mesitemlink(1163, false) + " in battle...
+::Believe it or not, I was once a Novice as well.
+Sir Gray::I never really planned to become a Knight, but I did decide to become a strong person. Somehow, along my journeys, I ended up joining the Prontera Chivalry. Ha ha ha!
+::Young one, use your time wisely.
+Sir Gray::No point in harboring regret once time has passed.
+::Young one, use your time wisely.
+Sir Gray::No point in harboring regret once time has passed.
+::Oh... A young Swordman. Yes, what can I do for you?
+Sir Gray::Hoho, I see. So you took everyone else's test?
+Sir Gray::Then shall we begin mine? It's not really a test though.
+Sir Gray::Let's talk casually, shall we?
+Sir Gray::First... Why did you decide to become a Knight?
+Sir Gray::Take care!
+::Ah, you again. What brings you to me?
+Sir Gray::Is that so... I wonder if you truly have...
+Sir Gray::Then... Like last time, I will ask again...
+Sir Gray::First... Why did you decide to become a Knight?
+Sir Gray::Take care! Health is every man's treasure!
+Sir Gray::To become stronger, you say? Yes, Knights are indeed strong. But why gain strength?
+Sir Gray::Is it to show off to others? To attain fame? Or do you have a diferent reason? What do you think is so good about gaining strength as a Knight?
+Sir Gray::Of course, wealth and fame have their place in the world. But we as Knights must live for higher virtues.
+Sir Gray::Good thinking. You must first be able to protect yourself in order to protect others. To this end, you must constantly train, and never give in to laziness.
+Sir Gray::Ah, a wonderful idea. A Knight's strength must be used to protect the weak and defend righteousness.
+Sir Gray::Sadly, there are a few Knights who shame us by forgetting the ideals that should be basic to Knighthood...
+Sir Gray::Ah, to help your guild, or maybe even your party. Our wise and benevolent King Tristram the 3rd gave us these golden words...
+Sir Gray::^8B7500Beyond the calm river, lies a dangerous waterfall. Therefore, you must always be prepared for everything...^000000
+Sir Gray::So how do you think you can help your guild?
+Sir Gray::Anyone, anywhere in this world, has a place where they are needed. Never neglect someone in need, even if he is not a guild member.
+Sir Gray::Of course wealth is important. But we Knights must live for higher virtues.
+Sir Gray::Ah, a wonderful idea. A Knight's strength must be used to protect the weak and defend righteousness.
+Sir Gray::Sadly, there are a few Knights who shame us by forgetting the ideals that should be basic to Knighthood...
+Sir Gray::Satisfaction, you say. It seems like you are already a fine Swordman. Is there a particular reason you wish to be a Knight?
+Sir Gray::I don't know about Swordmen, but Knights do not allow self-indulgence. There are those so obsessed with gaining strength that they cannot control themselves.
+Sir Gray::So... What part of yourself are you not satisfied with right now?
+Sir Gray::Skill is something you gain with experience as a Knight. It cannot be your highest goal. Otherwise, you'll never be satisfied as a Knight.
+Sir Gray::I see... Always having a goal is very important. You may be full of ideas upon becoming a Knight, but that may change with time.
+Sir Gray::Oh no... What you see isn't what really counts. A Swordman may be stronger than a Knight, and even Knight may grow weak if he becomes lazy.
+Sir Gray::I understand your thoughts, but there are those who wish to become Knights without thinking.
+Sir Gray::Those are the ones who instigate problems and shame the honor of Knights, bringing irreversible results.
+Sir Gray::The same goes for you as well. Once you become a Knight, you can never become a Swordman again. The duties and responsibilities of a Knight will always be with you.
+Sir Gray::If you become a Knight right away, what are you going to do first?
+Sir Gray::Battle...? And then?
+Sir Gray::Don't be in too much of a hurry to become strong. Even if you become a Knight, you are still yourself.
+Sir Gray::Testing yourself is a good thing. It's okay to be happy about how you change, but don't forget about the true qualities of being a Knight.
+Sir Gray::Even if you become a Knight, you are not changing your inner self. No need to overwork yourself. Relax and take things step by step.
+Sir Gray::Who is waiting for you?
+Sir Gray::I see, they would share in the joy of your achievements. Don't ever lose your kind " + mesitemlink(7855, false) + ", and always give help to your friends.
+Sir Gray::Those who would share in your happiness and hardship. As a Knight, you must always protect them.
+Sir Gray::Oh, youth! Becoming a Knight for your beloved! Always protect "+((Sex==SEX_MALE)?"her":"him")+"... Even at the sacrifice of your own life!
+Sir Gray::Also... Love them forever. Sincere affection is hard to find.
+Sir Gray::Good attitude... What do you plan on learning?
+Sir Gray::There are many places that are comfortable or uncomfortable in this world. However Knights must be able to survive anywhere.
+Sir Gray::There are many similar Knights outside in the world. Think of them as your seniors and ask many questions.
+Sir Gray::Oh no. Do you hold wealth as a priority of being a Knight? We're not meant to be that way. Come again when you have thought more about it...
+Sir Gray::Oh no, we've been talking too much... I apologize for keeping you here for so long.
+Sir Gray::I enjoyed talking with you. You remind me of myself as a young recruit. Shall we talk to the captain and decide on your job change?
+Sir Gray::Don't worry too much, I have a very high opinion of you. Now, go~
+Sir Gray::I enjoyed speaking with you. You can think about the principles of Knighthood more once you become a Knight.
+Sir Gray::Then, shall we go to the captain and decide on your job change? Don't worry too much. You are good enough to be a Knight!
+Sir Gray::I enjoyed talking with you. Although, there were some things that bothered me...
+Sir Gray::You should go to the captain so we can decide on your job change.
+Sir Gray::Don't worry too much, coming to take my test means the others have acknowledged you as well. Go now...!
+Sir Gray::Conversing with young ones is always enjoyable...
+Sir Gray::But it seems as though your dream is elsewhere, or that your focus is hazy. Spend more time as a Swordman, and come back to me later.
+Sir Gray::If you truly wish to become a Knight, you must change your outlook first. Then, we shall see.
+::I told you to go to the captain.
+Sir Gray::Everyone will carefully make their decision, so go now!
+::Oh... A young Swordman. What can I do for you?
+Sir Gray::Hoho~ There are many other younger Knights in here.
+Sir Gray::If you talk to all of them, I may review you as well.
+Sir Gray::Take care! Health is every man's treasure!
