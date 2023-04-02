@@ -6,7 +6,7 @@ import { ChatGPTAPI } from 'chatgpt'
 const maxLength = 360;// Adjust this value based on the API's complexity/length limit ~3771.04 openai tokens. limit for gpt-35-turbo is 4096
 
 const api = new ChatGPTAPI({
-  apiKey: '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',
+  apiKey: '',
   completionParams: {
     temperature: 0.4,
     top_p: 1.0,
