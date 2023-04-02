@@ -7,10 +7,27 @@
 local json = require("lunajson")
 
 -- Load the iteminfo table
-local iteminfo = require("iteminfo-TW_utf8")
+local iteminfo = require("iteminfo-unescaped")
+
+function prettyPrint(tbl, indent)
+  if not indent then indent = 0 end
+
+  for k, v in pairs(tbl) do
+      formatting = string.rep("  ", indent) .. k .. ": "
+
+      if type(v) == "table" then
+          print(formatting)
+          prettyPrint(v, indent + 1)
+      else
+          print(formatting .. tostring(v))
+      end
+  end
+end
+
+prettyPrint(iteminfo)
 
 -- Set the input and output file paths
-local itemDbArmorIdDefPath = "../../database/item_db-prerenewal-armor-def-dict.json"
+local itemDbArmorIdDefPath = "../database/item_db-prerenewal-armor-def-dict.json"
 local outputIteminfoPath = "../output/iteminfo-prerenewal-TW_utf8.lua"
 
 -- Open the armor ID and defense value JSON file for reading
